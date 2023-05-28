@@ -4,12 +4,16 @@
   "description":"Testowe tłuamczenie na polski",  
   "version":"0.1",
   "author": "Axotte"
-  "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.8.9"
+
   "url":"https://github.com/Axotte/bitd-foundry-pl",
   "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
   "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/test.zip",
   
+   "compatibility":{
+   "minimum":10,
+   "verified":"10"
+  },
+	
   "languages":
 	[
       {
@@ -27,8 +31,5 @@
       }
 	],
    
-	"esmodules":
-	[
-		"./bitd-pl.js"
-	]
+	"esmodules":["bitd-pl.js"]
 }
