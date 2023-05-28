@@ -6,32 +6,32 @@
 
     "entries": [
         { "id": "Academic",
-	"name": "Académique",
-	"description": "Un érudit, un professeur ou un étudiant à l’Académie de Doskvol, un philosophe ou un journaliste, etc." },
+	"name": "Uczony",
+	"description": "Naukowiec, wykładowca bądź student Akademii Doskvol, filozof, dziennikarz itd." },
 	
 	{ "id": "Labor",
-	"name": "Labeur",
-	"description": "Un domestique, un ouvrier, un cocher, un docker, un marin, un poseur de rails, etc. Un débardeur pour la Compagnie Crochet Nord." },
+	"name": "Robotnik",
+	"description": "Służący, pracownik fabryczny, woźnica, doker, żeglarz, Majcher Kolejowy itd. Doker Kompanii Północny Hak" },
 
 	{ "id": "Law",
-	"name": "Loi",
-	"description": "Un avocat ou un juriste, un Manteau Bleu ou un inspecteur (voire un Gardien Spirite), un maton dans la prison de Crochet-de-Fer, etc." },
+	"name": "Stróż prawa",
+	"description": "Adwokat, radca prawny, Błękitny Płaszcz lub aspirant (a nawet Strażnik Dusz), strażnik więzienny z Żelaznego Haka itd" },
 
 	{ "id": "Military",
-	"name": "Militaire",
-	"description": "Un soldat impérial ou Skovlandien, un mercenaire, un agent de renseignement, un stratège, un sergent instructeur, etc." },
+	"name": "Wojskowy",
+	"description": "Imperialny lub skowlański żołnierz, najemnik, agent wywiadu, strateg, instruktor wojskowy itd" },
 
 	{ "id": "Noble",
-	"name": "Noble",
-	"description": "Une dilettante, un courtisan, l’héritier d’une famille en déclin, etc." },
+	"name": "Szlachcic",
+	"description": "Dyletant, dworzanin, potomek upadłego rodu itd." },
 
 	{ "id": "Trade",
-	"name": "Commerce",
-	"description": "Un boutiquier, un marchand, un artisan de talent, un coursier, etc. Un agent de liaison auprès du Ministère de la Préservation." },
+	"name": "Fachowiec",
+	"description": "sklepikarz, kupiec, utalentowany rzemieślnik, pośrednik spedycyjny itd. Łącznik Ministerstwa Ochrony." },
 
 	{ "id": "Underworld",
-	"name": "Bas-fond",
-	"description": "Un enfant des rues, un gangster, un jeune voyou, ou tout autre paria ayant grandi dans le caniveau." }
+	"name": "Przestępca",
+	"description": "Ulicznik, członek gangu, młody bandzior lub inny wyrzutek, który dorastał na ulicy." }
     ]
   
 }
