@@ -1,33 +1,38 @@
 {
-	"label": "Herkunft",
+	"label": "Origines",
 	"mapping": {
-    "description": "system.description"
-  },
-  
-	"entries": {
-		"Akoros": {
+        "description": "system.description"
+    },
+	"entries": [
+		{
+			"id": "Akoros",
 			"name": "Akoros",
-      "description": "Akoros ist das größte und am stärksten industrialisierte Land des Imperiums und beherbergt sowohl die Hauptstadt als auch Duskwall selbst. Es ist als vielfältiger Schmelztiegel der Kulturen bekannt, die, ähnlich wie in Europa, im Laufe der Jahrhunderte durch ihre unmittelbare Nähe zusammengewachsen sind."
+			"description":"Akoros est la nation la plus vaste et la plus avancée de tout l’Imperium. Elle abrite la capitale, mais aussi Doskvol elle-même. Ces deux villes sont connues pour être des agrégats de diverses cultures ayant étroitement cohabité depuis plusieurs siècles, à l’image de l’Europe."
 		},
-		"Iruvia": {
-			"name": "Iruvien",
-      "description": "Wenn du aus einer Kultur kommen willst, die von den Einheimischen als „Ausländer“ betrachtet wird, könntest du aus Iruvien stammen, einem mächtigen und wohlhabenden Wüstenreich im fernen Süden. Es ist ebenfalls ein sehr vielfältiges Land mit unterschiedlichen Kulturen, das dem alten Persien, Ägypten oder Indien ähnelt."
+		{
+			"id": "Iruvia",
+			"name": "Iruvia",
+			"description":"Si vous souhaitez être originaire d’une culture considérée comme “exotique” par les autochtones, vous pourriez venir d’Iruvia, un riche et puissant royaume marchand, érigé au milieu des sables d’un désert du sud lointain. C’est une autre nation cosmopolite, dont les cultures sont similaires à la Perse antique, l’Égypte et l’Inde."
 		},
-		"Severos": {
+		{
+			"id": "Severos",
 			"name": "Severos",
-      "description": "Wenn du aus einer Gegend kommen willst, die vom restlichen Imperium als „wild“ betrachtet wird, könntest du aus Severos stammen. Abgesehen von wenigen imperialen Siedlungen leben die meisten Severosier in nomadischen, über die öden Siechlande verstreuten Reiterstämmen und verbergen sich in den Ruinen uralter arkaner Festungen, die immer noch Geister abwehren."
+			"description":"Si vous souhaitez être originaire d’un lieu considéré comme “sauvage” par le reste de l’empire, vous pourriez venir de Severos. En dehors de quelques comptoirs impériaux, la majorité des Severosi mène une vie de nomadisme, au sein de tribus de cavaliers éparpillées dans les arides terres mortes, où ils doivent leur survie aux ruines d’antiques forteresses magiques, dont les enchantements repoussent encore les esprits."
 		},
-		"Skovlan": {
+		{
+			"id": "Skovlan",
 			"name": "Skovlan",
-      "description": "Wenn du aus einem ausgegrenzten Volk stammen willst, könntest du aus Skovlan kommen, dem Inselreich auf der anderen Seite des Meeres gegenüber von Doskvol. Skovlan wurde im Verlauf des 36-jährigen Einheitskrieges (der erst vor wenigen Jahren endete) alsletztes Land unter die Herrschaft des Imperiums gebracht. Viele Skoven, die Heimat und Arbeit in der Zerstörung des Krieges verloren haben, sind geflohen und auf der Suche nach besseren Aussichten nach Doskvol gekommen."
+			"description":"Si vous souhaitez être originaire d’un peuple ostracisé, vous pourriez venir de Skovlan, le royaume insulaire qui s’étend par-delà le bras de mer qui le sépare de Doskvol. Skovlan fut la dernière cité à se soumettre aux lois Impériales, au terme des trente six années de la Guerre d’Unification (dont l’armistice remonte seulement à quelques années). De nombreux réfugiés Skovlandiens ayant perdu leurs foyers et leurs emplois dans le chaos de la guerre se sont tournés vers Doskvol à la recherche d’un nouveau départ."
 		},
-		"The Dagger Isles": {
-			"name": "Die Dolchinseln",
-      "description": "Wenn du ein Wanderer ohne Wurzeln sein willst, könntest du von den Dolchinseln stammen. Dort wachsen die Leute häufig auf Schiffen auf und reisen viel, bevor sie sich niederlassen. Sie sind als Korsaren und Kaufleute bekannt, die ohne Blitzwälle leben – und auf anderem Wege mit Geistern fertigwerden."
+		{
+			"id": "The Dagger Isles",
+			"name": "Les Îles de la Dague",
+			"description":"Si vous souhaitez incarner un vagabond sans attaches, vous pourriez être originaire des Îles de la Dague. Les insulaires grandissent souvent à bord de navires et voyagent longuement avant de se fixer quelque-part. Ils ont une réputation de corsaires et de marchands qui vivent sans la sécurité offerte par les barrières d’éclairs — en affrontant les esprits par des moyens qui leur sont exclusifs."
 		},
-		"Tycheros": {
+		{
+			"id": "Tycheros",
 			"name": "Tycheros",
-      "description": "Wenn du sonderbar sein willst, könntest du aus Tycheros stammen. Das ist ein halbmythischer Ort in weiter Ferne jenseits der Leeren See. Es heißt, dass die Leute dort zum Teil Dämonen seien. Falls du eine tycherosische Herkunft wählst, denkst du dir außerdem ein verräterisches dämonisches Mal (zum Beispiel schwarze Haiaugen, Federn statt Haare etc.) aus, das deinen Charakter kennzeichnet."
+			"description":"Enfin, si vous souhaitez être à part, vous pourriez venir de Tycheros. Cette terre quasi-mythique située loin au nord, par-delà la Mer du Vide. La légende prétend que ses habitants sont des demi-démons. Si vous optez pour une origine Tycherosi, vous devez également vous choisir une marque démoniaque (comme des yeux noirs de requin, des plumes en guise de cheveux, etc.) qui fait de votre personnage un être véritablement singulier."
 		}
-	}
+	]
 }

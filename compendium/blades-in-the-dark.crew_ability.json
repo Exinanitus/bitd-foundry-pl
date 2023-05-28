@@ -1,250 +1,298 @@
 {
-	"label": "Gang-Fähigkeiten",
+	"label": "Capacités de bande",
 	"mapping": {
-    "description": "system.description",
+        	"description": "system.description",
 		"class":"system.class"
   },
-  
-	"entries": {
-		"(A) Crow's Veil": {
-			"name": "(A) Krähenschleier",
-      "description" :"Eure Aktivitäten sind vor den Augen der Todsucher- Krähen verborgen. Ihr erhaltet keinen zusätzlichen Verdacht, wenn ein Coup Tötungen beinhalt.",
-      "class": "Attentäter"      
+
+	"entries": [
+		{
+			"id": "(A) Crow's Veil",
+			"name": "(A) Voile du corbeau",
+			"description" :"Grâce à votre expérience durement acquise ou par le biais de rituels ésotériques, vos activités échappent à la vigilance des corbeaux de massacre. Vous ne subissez donc aucun raffut supplémentaire lorsque vous tuez dans le cadre d’un coup.",
+			"class": "Assassins"
 		},
-		"(A) Deadly": {
-			"name": "(A) Tödlich",
-      "description" :"Jeder SC kann sich +1 Aktionswert zu Jagen, Schleichen oder Kämpfen hinzufügen (bis zum Höchstwert von 3).",
-      "class": "Attentäter"      
+		{
+			"id": "(A) Deadly",
+			"name": "(A) Merutrier",
+			"description" :"Chaque PJ peut ajouter +1 à son score d’action pour Traquer, Rôder ou Combattre (jusqu’à un score maximum de 3).",
+			"class": "Assassins"
 		},
-		"(A) Emberdeath": {
-			"name": "(A) Todesglut",
-      "description" :"Ihr kennt die arkane Methode, mit der man die Seele eines lebendigen Opfers in genau in dem Moment zerstört, in dem man es tötet. Erleide 3 Stress, um elektroplasmatische Energie aus dem Geisterfeld zu bündeln und Seele sowie Körper in glühende Asche aufzulösen.",
-      "class": "Attentäter"      
+		{
+			"id": "(A) Emberdeath",
+			"name": "(A) Mort ardente",
+			"description" :"Grâce à votre expérience durement acquise ou par le biais de rituels ésotériques, vous maîtrisez des techniques vous permettant de détruire l’esprit d’une victime vivante, au moment où vous lui portez un coup fatal. Vous subissez 3 stress pour canaliser l’énergie électroplasmique du champ ectoplasmique, afin de désintégrer le corps et l’esprit de votre victime dans une gerbe d’étincelles.",
+			"class": "Assassins"
 		},
-		"(A) No Traces": {
-			"name": "(A) Ohne Spuren",
-      "description" :"Wenn ihr einen Einsatz geheim haltet oder wie einen Unfall aussehen lasst, erhaltet ihr die Hälfte des Respekt-Wertes des Ziels (aufgerundet) statt null. Beendet ihr die Zwischenzeit mit 0 Verdacht, erhaltet ihr +1 Respekt.",
-      "class": "Attentäter"      
+		{
+			"id": "(A) No Traces",
+			"name": "(A) Aucune trace",
+			"description" :"Lorsque vous menez une opération discrètement ou que vous la faites passer pour un accident, vous obtenez la moitié du renom de votre cible (arrondie au supérieur) au lieu de zéro. Quand vous terminez votre temps mort avec zéro raffut, vous gagnez également +1 renom.",
+			"class": "Assassins"
 		},
-		"(A) Patron": {
-			"name": "(A) Mäzen",
-      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
-      "class": "Attentäter"      
+		{
+			"id": "(A) Patron",
+			"name": "(A) Mécène",
+			"description" :"Lorsque vous augmentez votre Rang, il vous en coûte la moitié de la somme d’argent habituelle. Qui est votre mécène ? Pourquoi vous soutient-il ?",
+			"class": "Assassins"
 		},
-		"(A) Predators": {
-			"name": "(A) Raubtiere",
-      "description" :"Nutzt ihr einen Heimlichkeits- oder Täuschungs-Plan, um Morde zu begehen, erhaltet ihr +1W auf den Einstiegswurf.",
-      "class": "Attentäter"      
+		{
+			"id": "(A) Predators",
+			"name": "(A) Predateurs",
+			"description" :"Lorsque vous échafaudez un plan basé sur la discrétion ou la tromperie afin de commettre un meurtre, vous gagnez +1 dé sur votre jet d’engagement.",
+			"class": "Assassins"
 		},
-		"(A) Veteran": {
-			"name": "(A) Veteranen",
-      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
-      "class": "Attentäter"      
+		{
+			"id": "(A) Veteran",
+			"name": "(A) Vétéran",
+			"description" :"Vous pouvez choisir une capacité d'une autre bande",
+			"class": "Assassins"
 		},
-		"(A) Vipers": {
-			"name": "(A) Giftschlangen",
-      "description" :"Wenn ihr Gifte erwerbt oder erzeugt, erhaltet ihr dabei +1 Wirkungsgrad auf euren Wurf. Setzt ihr ein Gift ein, seid ihr sorgfältig vorbereitet, sodass ihr gegen seine Wirkung immun seid.",
-      "class": "Attentäter"      
+		{
+			"id": "(A) Vipers",
+			"name": "(A) Vipères",
+			"description" :"Lorsque vous concoctez des poisons ou que vous en faites l’acquisition, vous gagnez +1 niveau de résultat sur votre jet. Lorsque vous faites usage d’un poison, vous bénéficiez d’une préparation spéciale qui vous immunise contre ses effets.",
+			"class": "Assassins"
 		},
-		"(Br) Blood Brothers": {
-			"name": "(H) Blutsbrüder",
-      "description" :"Wenn ihr in der Schlacht Seite an Seite mit euren Komplizen kämpft, erhalten sie +1W auf Teamarbeits-Würfe (Vorbereitung und Gruppenaktionen). Alle eure Komplizen erhalten den Typ Schläger gratis (sind sie bereits Schläger, fügt einen anderen Typ hinzu).",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Blood Brothers",
+			"name": "(Br) Frères de sang",
+			"description" :"Lorsque vous combattez aux côtés de vos cohortes, celles-ci gagnent +1 dé sur leurs jets de coopération (préparation et actions de groupe).Toutes vos cohortes gagnent gratuitement le type Gros bras (s’ils sont déjà des Gros bras, donnez-leurs un autre type).",
+			"class": "Bravos"
 		},
-		"(Br) Dangerous": {
-			"name": "(H) Gefährlich",
-      "description" :"Jeder SC kann sich +1 Aktionswert zu Jagen, Kämpfen oder Zerstören hinzufügen (bis zum Höchstwert von 3).",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Dangerous",
+			"name": "(Br) Dangereux",
+			"description" :"Chaque PJ peut ajouter +1 à son score d’action pour Traquer, Combattre ou Démolir (jusqu’à un score maximum de 3).",
+			"class": "Bravos"
 		},
-		"(Br) Door Kickers": {
-			"name": "(H) Türeintreter",
-      "description" :"Führt ihr einen Angriffs-Plan durch, erhaltet ihr +1W auf den Einstiegswurf.",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Door Kickers",
+			"name": "(Br) Enfonceurs de portes",
+			"description" :"Lorsque vous exécutez un plan d’assaut, vous gagnez +1 dé sur votre jet d’engagement.",
+			"class": "Bravos"
 		},
-		"(Br) Fiends": {
-			"name": "(H) Unholde",
-      "description" :"Für euch gilt jeder Fahndungsgrad als Revier.",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Fiends",
+			"name": "(Br) Maniaque",
+			"description" :"La peur vaut bien le respect. Vous pouvez comptabiliser chaque niveau d’avis de recherche comme s’il s’agissait d’un territoire.",
+			"class": "Bravos"
 		},
-		"(Br) Forged In The Fire": {
-			"name": "(H) Feuertaufe",
-      "description" :"Ihr erhaltet +1W auf Widerstandswürfe.",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Forged In The Fire",
+			"name": "(Br) Forgés par le feu",
+			"description" :"Chaque PJ a été endurci par des expériences cruelles. Vous gagnez +1 dé sur vos jets de résistance.",
+			"class": "Bravos"
 		},
-		"(Br) Patron": {
-			"name": "(H) Mäzen",
-      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Patron",
+			"name": "(Br) Mécène",
+			"description" :"Lorsque vous augmentez votre Rang, il vous en coûte la moitié de la somme d’argent habituelle. Qui est votre mécène ? Pourquoi vous soutient-il ?",
+			"class": "Bravos"
 		},
-		"(Br) Veteran": {
-			"name": "(H) Veteranen",
-      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
-	  "class": "Haudegen"
+		{
+			"id": "(Br) Veteran",
+			"name": "(Br) Vétéran",
+			"description" :"Vous pouvez choisir une capacité d'une autre bande",
+			"class": "Bravos"
 		},
-		"(Br) War Dogs": {
-			"name": "(H) Eisenfresser",
-      "description" :"Wenn ihr euch im Krieg befindet (−3 Fraktionsstatus), erleidet eure Gang nicht −1 Griff und SC haben weiterhin zwei Zwischenzeitaktivitäten statt nur einer.",
-	  "class": "Haudegen"
-		},    
-		"(C) Anointed": {
-			"name": "(K) Gesalbt",
-      "description" :"Ihr erhaltet +1W auf Widerstands- und +1W auf Heilungswürfe gegen übernatürliche Gefahren bzw. übernatürlichen Schaden.",
-      "class": " Kultisten"      
+		{
+			"id": "(Br) War Dogs",
+			"name": "(Br) Chiens de guerre",
+			"description" :"Lorsque vous êtes en guerre (relations avec une faction à -3), votre bande ne subit pas -1 assise et les PJ conservent toujours deux activités de temps mort, au lieu d’une seule.",
+			"class": "Bravos"
 		},
-		"(C) Bound in Darkness": {
-			"name": "(K) In Dunkelheit gebunden",
-      "description" :"Ihr könnt Teamarbeit mit allen Mitgliedern eures Kults ausführen, egal welche Entfernung euch trennt. Wer +1 Stress auf sich nimmt, kann eine Botschaft flüstern, die alle Kultisten hören.",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Anointed",
+			"name": "(Cu) Consacré",
+			"description" :"Vous gagnez +1 dé sur vos jets de résistance contre les menaces surnaturelles. Vous gagnez également +1 dé sur vos jets de guérison lorsque vous souffrez de blessures surnaturelles.",
+			"class": "Cultistes"
 		},
-		"(C) Chosen": {
-			"name": "(K) Auserwählt",
-      "description" :"Jeder SC kann sich +1 Aktionswert zu Beeinflussen, Einstimmen oder Studieren hinzufügen (bis zum Höchstwert von 3).",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Bound in Darkness",
+			"name": "(Cu) Liés par les ténèbres",
+			"description" :"Vous pouvez utiliser les manoeuvres de coopération avec n’importe quel membre de votre culte, et ce peu importe la distance qui vous sépare. En acceptant de subir 1 stress, vous pouvez murmurer un message qui sera entendu par tous les autres cultistes.",
+			"class": "Cultistes"
 		},
-		"(C) Conviction": {
-			"name": "(K) Fester Glaube",
-      "description" :"Jeder SC erhält ein zweites Laster: Gottesdienst. Gibst du dich diesem Laster hin und erbringst ein wohlgefälliges Opfer, gilt es nicht als maßlos, wenn du überschüssigen Stress abbaust. Bis du das nächste Mal diesem Laster frönst, wird dir die Gottheit außerdem bei einem beliebigen kommenden Aktionswurf zu Hilfe kommen.",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Chosen",
+			"name": "(Cu) Elu",
+			"description" :"Chaque PJ peut ajouter +1 à son score d’action Communier, Étudier ou Influencer jusqu’à un score maximum de 3).",
+			"class": "Cultistes"
 		},
-		"(C) Glory Incarnate": {
-			"name": "(K) Fleischgewordene Herrlichkeit",
-      "description" :"Eure Gottheit manifestiert sich zuweilen. Das kann sich als großer Segen erweisen, doch die Prioritäten und Werte von Göttern und Sterblichen sind nicht immer dieselben.",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Conviction",
+			"name": "(Cu) Conviction",
+			"description" :"Chaque PJ gagne un vice supplémentaire : l’Adoration. Lorsque vous cédez à ce vice en pratiquant un sacrifice digne de ce nom, vous ne sombrez pas dans l’excès si vous éliminez votre stress excédentaire. De plus, votre divinité vous assistera sur un de vos jets d’action — à partir de maintenant et jusqu’à ce que vous lui fassiez un nouveau sacrifice en cédant à ce vice.",
+			"class": "Cultistes"
 		},
-		"(C) Sealed in Blood": {
-			"name": "(K) Mit Blut besiegelt",
-      "description" :"Jedes Menschenopfer verringert die Kosten für ein beliebiges durchgeführtes Ritual um 3 Stress.",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Glory Incarnate",
+			"name": "(Cu) Gloire incarnée",
+			"description" :"Votre divinité se manifeste parfois dans le monde physique. Cela peut s’avérer être une bénédiction, mais les priorités et les valeurs d’un dieu ne sont pas toujours alignées sur celles des mortels. Vous voilà prévenus.",
+			"class": "Cultistes"
 		},
-		"(C) Veteran": {
-			"name": "(K) Veteranen",
-      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Sealed in Blood",
+			"name": "(Cu) Scellé dans le sang",
+			"description" :"Chaque sacrifice humain abaisse de -3 stress le coût de n’importe lequel de vos rituels.",
+			"class": "Cultistes"
 		},
-		"(C) Zealotry": {
-			"name": "(K) Fanatismus",
-      "description" :"Eure Komplizen führen jeden noch so gefährlichen oder absonderlichen Auftrag aus. Sie erhalten +1W auf Würfe, um gegen Feinde des Glaubens vorzugehen.",
-      "class": "Kultisten"      
+		{
+			"id": "(C) Veteran",
+			"name": "(Cu) Vétéran",
+			"description" :"Vous pouvez choisir une capacité d'une autre bande",
+			"class": "Cultistes"
 		},
-		"(H) Accord": {
-			"name": "(Sb) Abkommen",
-      "description" :"Manchmal sind Freunde so viel wert wie Gebiet. Für euch gelten bis zu drei verbündete Fraktionen (Status +3) als Revier.",
-      "class": "Schieber"      
+		{
+			"id": "(C) Zealotry",
+			"name": "(C) Fanatisme",
+			"description" :"Vos cohortes ont abandonné toute raison pour se dévouer entièrement au culte. Ils accepteront d’exécuter n’importe quel service, peu importe le danger ou l’étrangeté de celui-ci. Ils gagnent +1 dé sur vos jets visant à agir contre les ennemis de leur foi.",
+			"class": "Cultistes"
 		},
-		"(H) Ghost Market": {
-			"name": "(Sb) Geistermarkt",
-      "description" :"Ihr könnt eure Ware für den Verkauf an Geister und/oder Dämonen präparieren. Sie zahlen nicht mit Münzen – womit dann?",
-      "class": "Schieber"      
+		{
+			"id": "(H) Accord",
+			"name": "(Cl) Accord",
+			"description" :"Quelques fois avoir des amis est aussi important qu’occuper un territoire. Vous pouvez comptabiliser jusqu’à trois de vos relations avec des factions à +3 comme s’il s’agissait de vos territoires.",
+			"class": "Colporteurs"
 		},
-		"(H) High Society": {
-			"name": "(Sb) Gute Gesellschaft",
-      "description" :"Ihr erhaltet in der Zwischenzeit –1 Verdacht und +1W, wenn ihr über die Elite der Stadt Informationen sammelt.",
-      "class": "Schieber"      
+		{
+			"id": "(H) Ghost Market",
+			"name": "(Cl) Marché fantôme",
+			"description" :"Par le biais de rituels ou d’une expérience durement acquise, vous avez découvert comment préparer vos produits pour les vendre à des fantôme et/ou des démons. Ceux-ci ne vous règlent pas en argent. Comment vous rémunèrent-t-ils ?",
+			"class": "Colporteurs"
 		},
-		"(H) Hooked": {
-			"name": "(Sb) Süchtig",
-      "description" :"Fügt brutal, unzuverlässig oder wild als Schwäche zu euren Banden hinzu, um ihnen +1 Qualität zu verleihen.",
-      "class": "Schieber"      
+		{
+			"id": "(H) High Society",
+			"name": "(Cl) Haute société",
+			"description" :"Seules comptent vos relations. Vous subissez -1 raffut pendant votre temps mort et vous gagnez +1 dé pour recueillir des informations sur l’élite de la ville.",
+			"class": "Colporteurs"
 		},
-		"(H) Patron": {
-			"name": "(Sb) Mäzen",
-      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
-      "class": "Schieber"      
+		{
+			"id": "(H) Hooked",
+			"name": "(Cl) Accros",
+			"description" :"Les membres de votre gang consomment votre produit. Ajoutez le défaut féroces, peu fiables ou fougueux à votre gang pour leur donner +1 qualité (jusqu’à un score maximum de 4).",
+			"class": "Colporteurs"
 		},
-		"(H) Silver Tongues": {
-			"name": "(Sb) Redegewandt",
-      "description" :"Jeder SC kann sich +1 Aktionswert zu Beeinflussen, Befehlen oder Verkehren hinzufügen (bis zum Höchstwert von 3).",
-      "class": "Schieber"      
+		{
+			"id": "(H) Patron",
+			"name": "(Cl) Mécène",
+			"description" :"Lorsque vous augmentez votre Rang, il vous en coûte la moitié de la somme d’argent habituelle.",
+			"class": "Colporteurs"
 		},
-		"(H) The Good Stuff": {
-			"name": "(Sb) Feinster",
-      "description" :"Eure Waren sind erlesen. Ihre Qualität entspricht eurer Stufe +2. Wenn ihr mit einer Gang oder Fraktion zu tun habt, sagt euch die SL, wer unter ihnen danach süchtig ist (einer, manche, viele oder alle).",
-      "class": "Schieber"      
+		{
+			"id": "(H) Silver Tongues",
+			"name": "(Cl) Langues d'argent",
+			"description" :"Chaque PJ peut ajouter +1 à son score d’action Communier, Côtoyer ou Influencer (jusqu’à un score maximum de 3).",
+			"class": "Colporteurs"
 		},
-		"(H) Veteran": {
-			"name": "(Sb) Veteranen",
-      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
-      "class": "Schieber"      
+		{
+			"id": "(H) The Good Stuff",
+			"name": "(Cl) Qualité supérieure",
+			"description" :"Votre marchandise est exquise. La qualité de vos produits est égale à votre Rang +2. Lorsque vous négociez avec une bande ou une faction, le MJ vous précisera qui devient accro à votre produit (un seul, quelques-uns, la majorité ou aucun).",
+			"class": "Colporteurs"
 		},
-		"(Sh) Everyone Steals": {
-			"name": "(P) Alle stehlen",
-      "description" :"Jeder SC kann sich +1 Aktionswert zu Schleichen, Tricksen oder Tüfteln hinzufügen (bis zum Höchstwert von 3).",
-      "class": "Phantome"      
+		{
+			"id": "(H) Veteran",
+			"name": "(Cl) Vétéran",
+			"description" :"Vous pouvez choisir une capacité d'une autre bande",
+			"class": "Colporteurs"
 		},
-		"(Sh) Ghost Echoes": {
-			"name": "(P) Geisterecho",
-      "description" :"Alle Gangmitglieder erhalten die Fähigkeit, das im Geisterfeld existierende Echo von Doskvol mit seinen geisterhaften Bauten, Straßen und Objekten zu sehen und mit diesen zu interagieren.",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Everyone Steals",
+			"name": "(O) Tout le monde vole",
+			"description" :"Chaque PJ peut ajouter +1 à son score d’action Rôder, Manoeuvrer ou Bricoler (jusqu’à un score maximum de 3).",
+			"class": "Ombres"
 		},
-		"(Sh) Pack Rats": {
-			"name": "(P) Hamsterer",
-      "description" :"Euer Versteck ist ein einziges Durcheinander gestohlener Gegenstände. Ihr erhaltet +1W auf Würfe, um Anschaffungen zu machen.",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Ghost Echoes",
+			"name": "(O) Echos fantomatiques",
+			"description" :"En raisons d’étranges expériences ou par le biais de rituels occultes, tous les membres de votre bande gagnent la capacité de voir et d’interagir avec les structures, rues et objets fantomatiques qui persistent dans l’écho que la ville imprime au sein du champ ectoplasmique.",
+			"class": "Ombres"
 		},
-		"(Sh) Patron": {
-			"name": "(P) Mäzen",
-      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Pack Rats",
+			"name": "(O) Meute de rats",
+			"description" :"Votre repaire est encombré de tout un tas de biens volés. Lorsque vous faites un jet d’acquisition, vous gagnez +1 dé.",
+			"class": "Ombres"
 		},
-		"(Sh) Second Story": {
-			"name": "(P) Fassadenkletterer",
-      "description" :"Wenn ihr irgendwo heimlich eindringt, erhaltet ihr +1W auf euren Einstiegswurf.",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Patron",
+			"name": "(O) Mécène",
+			"description" :"Lorsque vous augmentez votre Rang, il vous en coûte la moitié de la somme d’argent habituelle.",
+			"class": "Ombres"
 		},
-		"(Sh) Slippery": {
-			"name": "(P) Aalglatt",
-      "description" :"Wenn ihr Verwicklungen auswürfelt, würfelt zweimal und nehmt das Ergebnis, das euch besser gefällt. Wenn ihr für eure Gang den Verdacht verringern wollt, erhaltet ihr +1W.",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Second Story",
+			"name": "(O) Premier étage",
+			"description" :"Lorsque vous exécutez une mission d’infiltration clandestine, vous gagnez +1 dé sur votre jet d’engagement.",
+			"class": "Ombres"
 		},
-		"(Sh) Synchronized": {
-			"name": "(P) Ein Rad greift ins andere",
-      "description" :"Wenn ihr eine Gruppenaktion ausführt, dürft ihr mehrere Sechsen aus unterschiedlichen Würfen zusammennehmen, um einen kritischen Erfolg zu erzielen.",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Slippery",
+			"name": "(O) Glissant",
+			"description" :"Lorsque vous faites un jet d’imbroglio, relancez-le et conservez le jet que vous préférez. Lorsque vous réduisez le raffut de la bande, vous gagnez +1 dé.",
+			"class": "Ombres"
 		},
-		"(Sh) Veteran": {
-			"name": "(P) Veteranen",
-      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
-      "class": "Phantome"      
+		{
+			"id": "(Sh) Synchronized",
+			"name": "(O) Synchronisés",
+			"description" :"Lorsque vous effectuez une action de groupe, vous pouvez comptabiliser les 6 obtenus sur des jets différents comme étant des succès critiques.",
+			"class": "Ombres"
 		},
-		"(Sm) All Hands": {
-			"name": "(Sm) Handlanger",
-      "description" :"Ein Komplize der Gang kann in der Zwischenzeit eine Aktivität ausführen, um Anschaffungen zu machen, Verdacht zu verringern oder an einem Langzeitprojekt zu arbeiten.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sh) Veteran",
+			"name": "(O) Vétéran",
+			"description" :"Vous pouvez choisir une capacité d'une autre bande",
+			"class": "Ombres"
 		},
-		"(Sm) Ghost Passage": {
-			"name": "(Sm) Geisterfahrt",
-      "description" :"Alle Gangmitglieder sind immun gegen die Ergreifung durch Seelen, können aber freiwillig einen Geist als „Passagier“ im eigenen Körper befördern.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) All Hands",
+			"name": "(Cb) Au taquet",
+			"description" :"Pendant un temps mort, l’une de vos cohortes peut effectuer une activité de temps mort pour permettre à la bande de faire une acquisition, réduire votre raffut ou encore travailler sur un projet à long terme.",
+			"class": "Contrebandier"
 		},
-		"(Sm) Just Passing Through": {
-			"name": "(Sm) Nur auf Durchreise",
-      "description" :"Ihr erhaltet in der Zwischenzeit −1 Verdacht. Ist euer Verdacht höchstens 4, erhaltet ihr +1W, um jemandem zu täuschen, indem ihr euch als normale Bürger ausgebt.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) Ghost Passage",
+			"name": "(Cb) Passage fantomatique",
+			"description" :"Que ce soit au prix d’une expérience durement acquise ou par le biais d’un rituel occulte, tous les membres de votre bande sont immunisés contre la possession par les esprits, mais ils peuvent choisir de “porter en eux” un fantôme en tant que passager.",
+			"class": "Contrebandier"
 		},
-		"(Sm) Leverage": {
-			"name": "(Sm) Druckmittel",
-      "description" :"Eure Gang beliefert andere Fraktionen mit illegalen Gütern. Jedes Mal, wenn ihr Respekt erhaltet, erhaltet ihr +1 Respekt dazu.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) Just Passing Through",
+			"name": "(Cb) Je ne fais que passer",
+			"description" :"Pendant un temps mort, vous gagnez -1 raffut. Lorsque votre raffut est de 4 ou moins, vous obtenez +1 dé pour tromper les passants en faisant croire que vous n’êtes que des citoyens ordinaires.",
+			"class": "Contrebandier"
 		},
-		"(Sm) Like Part of the Family": {
-			"name": "(Sm) Gehört fast zur Familie",
-      "description" :"Eines eurer Fahrzeuge gilt als Komplize (nutzt für die Stärken und Schwächen für Fahrzeuge). Seine Qualität entspricht eurer Stufe +1.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) Leverage",
+			"name": "(Cb) Moyen de pression",
+			"description" :"Votre bande fournit d’autres factions en produits illégaux. Votre succès leur profite. Chaque fois que vous améliorez votre renom, vous gagnez +1 renom en bonus.",
+			"class": "Contrebandier"
 		},
-		"(Sm) Reavers": {
-			"name": "(Sm) Enterkampf",
-      "description" :"Wenn ihr mit eurem Fahrzeug in den Kampf zieht, erhaltet ihr +1 Wirkung. Euer Fahrzeug erhält außerdem Rüstung.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) Like Part of the Family",
+			"name": "(Cb) Pratiquement de la famille",
+			"description" :"Créez l’un de vos véhicules en tant que cohorte (utilisez les atouts et handicaps de véhicules listés p.122). Sa qualité est égale à votre Rang +1. Votre véhicule peut utiliser les actions de collaboration (en se basant sur sa qualité pour ses jets). Un véhicule ne peut pas mener une action de groupe, mais il peut y participer.",
+			"class": "Contrebandier"
 		},
-		"(Sm) Renegades": {
-			"name": "(Sm) Gesetzlose",
-      "description" :"Jeder SC kann sich +1 Aktionswert zu Kämpfen, Schleichen oder Tricksen hinzufügen (bis zum Höchstwert von 3).",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) Reavers",
+			"name": "(Cb) Pillards",
+			"description" :"Lorsque vous engagez un conflit à bord d’un véhicule, vous gagnez +1 effet par dégât de véhicule et vitesse. Votre véhicule gagne quant à lui un blindage.",
+			"class": "Contrebandier"
 		},
-		"(Sm) Veteran": {
-			"name": "(Sm) Veteranen",
-      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
-      "class": "Schmuggler"      
+		{
+			"id": "(Sm) Renegades",
+			"name": "(Cb) Renégats",
+			"description" :"renégats Chaque PJ peut ajouter +1 à son score d’action pour Manoeuvrer, Rôder ou Combattre (jusqu’à un score maximum de 3).",
+			"class": "Contrebandier"
+		},
+		{
+			"id": "(Sm) Veteran",
+			"name": "(Cb) Vétéran",
+			"description" :"Vous pouvez choisir une capacité d'une autre bande",
+			"class": "Contrebandier"
 		}
-	}
+	]
 }

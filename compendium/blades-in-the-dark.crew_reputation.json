@@ -1,69 +1,85 @@
 {
-	"label": "Ruf der Gang",
-	"entries": {
-		"Alluring": {
-			"name": "verführerisch",
+	"label": "Réputation de la bande",
+	"entries": [
+		{
+			"id": "Alluring",
+			"name": "Séduisante",
 			"description": ""
 		},
-		"Ambitious": {
-			"name": "ehrgeizig",
+		{
+			"id": "Ambitious",
+			"name": "Ambitieux",
 			"description": ""
 		},
-		"Brutal": {
-			"name": "brutal",
+		{
+			"id": "Brutal",
+			"name": "Brutaux",
 			"description": ""
 		},
-		"Cruel": {
-			"name": "grausam",
+		{
+			"id": "Cruel",
+			"name": "Cruelle",
 			"description": ""
 		},
-		"Daring": {
-			"name": "waghalsig",
+		{
+			"id": "Daring",
+			"name": "Intrépides",
 			"description": ""
 		},
-		"Ferocious": {
-			"name": "wild",
+		{
+			"id": "Ferocious",
+			"name": "Feroce",
 			"description": ""
 		},
-		"Honorable": {
-			"name": "ehrenhaft",
+		{
+			"id": "Honorable",
+			"name": "Honorables",
 			"description": ""
 		},
-		"Monstrous": {
-			"name": "abscheulich",
+		{
+			"id": "Monstrous",
+			"name": "Monstrueuse",
 			"description": ""
 		},
-		"Professional": {
-			"name": "professionell",
+		{
+			"id": "Professional",
+			"name": "Professionels",
 			"description": ""
 		},
-		"Radiant": {
-			"name": "strahlend",
+		{
+			"id": "Radiant",
+			"name": "Radiante",
 			"description": ""
 		},
-		"Savvy": {
-			"name": "gerissen",
+		{
+			"id": "Savvy",
+			"name": "Futés",
 			"description": ""
 		},
-		"Serene": {
-			"name": "friedvoll",
+		{
+			"id": "Serene",
+			"name": "Sereine",
 			"description": ""
 		},
-		"Sinister": {
-			"name": "düster",
+		{
+			"id": "Sinister",
+			"name": "Sinistre",
 			"description": ""
 		},
-		"Strange": {
-			"name": "seltsam",
+		{
+			"id": "Strange",
+			"name": "Etrange",
 			"description": ""
 		},
-		"Subtle": {
-			"name": "diskret",
+		{
+			"id": "Subtle",
+			"name": "Subtils",
 			"description": ""
 		},
-		"Transcendent": {
-			"name": "transzendent",
+		{
+			"id": "Transcendent",
+			"name": "Transcendante",
 			"description": ""
 		}
-	}
+	]
 }

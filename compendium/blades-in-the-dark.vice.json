@@ -1,44 +1,44 @@
 {
-  "label": "Laster",
-  "mapping": {
-    "description": "system.description"
-  },
+	"label": "Vices",
+"mapping": {
+        "description": "system.description"
+ 	   },
 
 	"entries": [
 		{
 			"id": "Faith",
-			"name": "Glaube",
-			"description":"Du hast dich einer unsichtbaren Macht, einer vergessenen Gottheit, einem Ahnen etc. verschrieben.<br><br>- Mutter Narya, Haus der Weinenden Dame, Six Towers.<br>- Ilacille, Ruinen des Tempels für die Vergessen Gottheiten, Coalridge.<br>- Nelisanne, Die Kirche der fleischlichen Verzückung, Brightstone.<br>- Lord Penderyn, Archiv der Echos, Charterhall."
+			"name": "Foi",
+			"description":"- Révérende-Mère Narya, Maison de la Pleureuse, les Six Tours.\n- Ilacille, les ruines du Temple des Dieux Oubliés, Crête-Charbon.\n- Nelisanne, L’Église de l’Extase de la Chair, Pierre-Claire.\n- Lord Penderyn, les Archives des Échos, Charte-Halle."
 		},
 		{
 			"id": "Gambling",
-			"name": "Glücksspiel",
-			"description":"Du gierst nach Würfel- und Kartenspielen, Sportwetten etc.<br><br>- Spoggs Würfelspiel, Crow’s Foot.<br>- Grist, Boxkämpfe, die Docks.<br>- Helene, Silver Stag-Casino, Silkshore.<br>- Meister Vreen, Hunderennen, Nightmarket.<br>- Lady Dusk, Dusk Manor-Club, Whitecrown.<br>- Sergeant Velk, Kampfarenen, Dunslough."
+			"name": "Jeux d'argent",
+			"description":"- Le Tripot de Spogg, Patte-de-Corbeau.\n- Grist, combats de boxe, les Docks.\n- Helene, le casino du Cerf d’Argent, Soie-Rivage.\n- Maître Vreen, courses de lévriers, Le Marché Nocturne.\n- Lady Dusk, Le Club du Manoir Dusk, Blanche-Couronne.\n- Le Sergent Velk, les arènes de combat, Gros-Bourbier."
 		},
 		{
 			"id": "Luxury",
-			"name": "Luxus",
-			"description":"Du brauchst die kostspielige oder demonstrative Zurschaustellung von Reichtum.<br><br>- Singer, Badehaus, Crow’s Foot.<br>- Harvale Brogan, Centuralia-Club, Brightstone.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Dunridge & Söhne feine Stoffe und Schneiderei, Nightmarket.<br>- Küchenchefin Rosele, Zur Goldenen Zwetschge, Restaurant, Six Towers.<br>- Maestro Helleren, Spiregarden-Theater, Whitecrown."
+			"name": "Luxe",
+			"description":"- Singer, les bains, Patte-de-Corbeau.\n- Harvale Brogan, le Club Centuralia, Pierre-Claire.\n- Le Fumoir de Traven, Crête-Charbon.\n- Dunridge & Fils tissus raffinés et tailleur, Le Marché Nocturne.\n- Chef Roselle, restaurant la Prune Dorée, les Six Tours.\n- Maestro Helleren, le Théâtre de Flèchejardin, Blanche-Couronne."
 		},
 		{
 			"id": "Obligation",
-			"name": "Pflicht",
-			"description":"Du sorgst für eine Familie oder engagierst dich für einen guten Zweck, eine Organisation, eine karitative Einrichtung etc.<br><br>- Familienmitglieder (Herkunft) oder ehemalige Arbeitskollegen (Vorgeschichte).<br>- Hutton, Skovische Geflüchtete/ Revolutionäre, Charhollow.<br>- Der Zirkel der Flamme, eine Geheimgesellschaft."    
+			"name": "Devoir",
+			"description":"- Parents (origines) ou anciens collègues (antécédents).\n- Hutton, Réfugiés Skovlans / Révolutionnaires, Val-Roussi.\n- Le Cercle de Flammes, une société secrète."
 		},
 		{
 			"id": "Pleasure",
-			"name": "Genuss",
-			"description":"Du suchst Befriedigung durch Liebhaber, Essen, Trinken, Drogen, Kunst, Theater etc.<br><br>- Mardin Gull, Leaky Bucket, Gasthaus, Crow’s Foot.<br>- Pux Bolin, The Harping Monkey, Kneipe, Nightmarket.<br>- Helene, Silver Stag-Casino, Silkshore.<br>- Lady Freyla, Kaiserfass, Weinstube, Whitecrown.<br>- Avrick, Pulver-Dealer, Barrowcleft.<br>- Rolan Volaris, Der Schleier, Salon, Nightmarket.<br>- Madame Tesslyn, Red Lamp, Bordell, Silkshore.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Eldrin Prichard, Silver Swan, Vergnügungsbarke, Kanäle von Brightstone.<br>- Jewel, Bird und Shine, Catcrawl Alley, die Docks.<br>- Singer, Badehaus, Crow’s Foot.<br>- Harvale Brogan, Centuralia-Club, Brightstone.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Dunridge & Söhne feine Stoffe und Schneiderei, Nightmarket.<br>- Küchenchefin Rosele, Zur Goldenen Zwetschge, Restaurant, Six Towers.<br>- Maestro Helleren, Spiregarden-Theater, Whitecrown."
+			"name": "Plaisirs",
+			"description":"- Singer, les bains, Patte-de-Corbeau.\n- Harvale Brogan, le Club Centuralia, Pierre-Claire.\n- Le Fumoir de Traven, Crête-Charbon.\n- Dunridge & Fils tissus raffinés et tailleur, Le Marché Nocturne.\n- Chef Roselle, restaurant la Prune Dorée, les Six Tours.\n- Maestro Helleren, le Théâtre de Flèchejardin, Blanche-Couronne.\n- Mardin Gull, la taverne du Seau Troué, Patte-de-Corbeau.\n- Pux Bolin, la taverne du Singe Harpiste, Le Marché Nocturne. \n- Helene, le casino du Cerf d’Argent, Soie- Rivage.\n- Lady Freyla, le bar du Tonneau de l’Empereur, Blanche-Courronne.\n- Avrick, vendeur de poudre, Tertre- Fendu.\n- Rolan Volaris, club social du Voile, Le Marché Nocturne.\n- Madame Tesslyn, bordel de la Lanterne Rouge, Soie-Rivage.  Le Fumoir de Traven, Crête-Charbon. \n- Eldrin Prichard, la barge des plaisirs du Cygne d’Argent, les canaux de Pierre- Claire.\n- Jewel, Bird, et Shine, la ruelle des Chatières, les Docks."
 		},
 		{
 			"id": "Stupor",
-			"name": "Rausch",
-			"description":"Du suchst Vergessen im Drogenmissbrauch, im exzessiven Trinken oder dabei, dich im Ring zusammenschlagen zu lassen etc.<br><br>-  Mardin Gull, Leaky Bucket, Gasthaus, Crow’s Foot.<br>- Pux Bolin, The Harping Monkey, Kneipe, Nightmarket.<br>- Helene, Silver Stag-Casino, Silkshore.<br>- Lady Freyla, Kaiserfass, Weinstube, Whitecrown.<br>- Avrick, Pulver-Dealer, Barrowcleft.<br>- Rolan Volaris, Der Schleier, Salon, Nightmarket.<br>- Madame Tesslyn, Red Lamp, Bordell, Silkshore.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Eldrin Prichard, Silver Swan, Vergnügungsbarke, Kanäle von Brightstone.<br>- Jewel, Bird und Shine, Catcrawl Alley, die Docks."      
+			"name": "Stupeur",
+			"description":"- Mardin Gull, la taverne du Seau Troué, Patte-de-Corbeau.\n- Pux Bolin, la taverne du Singe Harpiste, Le Marché Nocturne.\n- Helene, le casino du Cerf d’Argent, Soie- Rivage.\n- Lady Freyla, le bar du Tonneau de l’Empereur, Blanche-Courronne.\n- Avrick, vendeur de poudre, Tertre- Fendu.\n- Rolan Volaris, club social du Voile, Le Marché Nocturne.\n- Madame Tesslyn, bordel de la Lanterne Rouge, Soie-Rivage.  Le Fumoir de Traven, Crête-Charbon.\n- Eldrin Prichard, la barge des plaisirs du Cygne d’Argent, les canaux de Pierre- Claire.\n- Jewel, Bird, et Shine, la ruelle des Chatières, les Docks."
 		},
 		{
 			"id": "Weird",
-			"name": "Unheimliches",
-			"description":"Du experimentierst mit seltsamen Essenzen, verkehrst mit bösen Geistern, pflegst bizarre Rituale oder Tabus etc.<br><br>- Die verhüllte Herrschaft, betreibt eine Kneipe in einer halb überfluteten Grotte nahe den Docks. Seltsame Stollen führen in noch seltsamere Räume dahinter.<br>- Vater Yoren, Haus der Weinenden Dame, Six Towers.<br>- „Salia“, ein Geist der Ausgesöhnten, der eigenständig von Körper zu Körper reist.<br>- Schwester Thorn, Bande von Siechland- Plünderern, Gaddoc Station.<br>- Ojak, tycherosischer Händler am Dachmarkt, Silkshore.<br>- Aranna die Gesegnete, Kultistin einer vergessenen Gottheit, ihr Boot liegt in Nightmarket an."
+			"name": "Etrange",
+			"description":"- Le propriétaire encapuchonné de la taverne de la grotte, près des docks. Là où d’étranges passages mènent à des salles plus étranges encore.\n- Le Père Yoren, la Maison de la Pleureuse, les Six Tours.\n- “Salia,” un esprit des Réconciliés, qui passe d’un corps à l’autre à sa convenance.\n- La Soeur Thorn, du gang des charognards des terres mortes, la Station Gaddoc.\n- Ojak, un vendeur des toits Tycherosi, Soie-Rivage.\n- Aranna la Bénie, cultiste d’un Dieu Oublié, sa barge est amarrée au Marché Nocturne."
 		}
 	]
 }

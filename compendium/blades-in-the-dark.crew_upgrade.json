@@ -1,274 +1,332 @@
 {
-	"label": "Gang-Verbesserungen",
-  "mapping":{
-      "description":"system.description",
-      "class":"system.class"
-   },
-   
-	"entries": {
-		"(A) Assassin Rigging": {
-			"name": "(A) Attentäter-Ausstattung",
-      "description":"Ihr könnt Waffen oder Ausrüstungsgegenstände von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last eine Pistole (Waffe) und Einbrecherwerkzeug (Ausrüstung) bei euch tragen.",
-      "class":"Attentäter"
+	"label": "Améliorations de bande",
+	"mapping": {
+        	"description": "system.description",
+		"class":"system.class"
+  },
+
+	"entries": [
+		{
+			"id": "(A) Assassin Rigging",
+			"name": "(A) Harnais d'assassin",
+			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’armes.",
+			"class": "Assassins"
 		},
-		"(A) Elite Skulks": {
-			"name": "(A) Elite-Baldower",
-      "description":"Alle eure Komplizen vom Typ Baldower erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Attentäter"
+		{
+			"id": "(A) Elite Skulks",
+			"name": "(A) Furteurs d'élite",
+			"description": "Toutes vos cohortes du type Fureteur obtiennent +1 dé à vos jets de qualité relatifs aux actions de Fureteurs.",
+			"class": "Assassins"
 		},
-		"(A) Elite Thugs": {
-			"name": "(A) Elite-Schläger",
-      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
-      "class":"Attentäter"
+		{
+			"id": "(A) Elite Thugs",
+			"name": "(A) Gros bras délite",
+			"description": "Toutes vos cohortes du type Gros bras obtiennent +1 dé à vos jets de qualité relatifs aux actions de Gros bras.",
+			"class": "Assassins"
 		},
-		"(A) Hardened": {
-			"name": "(A) Abgebrüht",
-      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
-      "class":"Attentäter"
+		{
+			"id": "(A) Hardened",
+			"name": "(A) Endurcis",
+			"description": "Chaque PJ dispose d’une case supplémentaire de trauma. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule.",
+			"class": "Assassins"
 		},
-		"(A) Ironhook Contacts": {
-			"name": "(A) Ironhook-Kontakte",
-      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
-      "class":"Attentäter"
+		{
+			"id": "(A) Ironhook Contacts",
+			"name": "(A) Contacts dans la prison de Crochet-de-fer",
+			"description": "Votre rang est augmenté d’un point en prison.",
+			"class": "Assassins"
 		},
-		"(B) Bravos Rigging": {
-			"name": "(H) Haudegen-Ausstattung",
-      "description":"Ihr könnt Waffen oder Rüstungen von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last Schwert und Pistole oder normale Rüstung tragen.",
-      "class":"Haudegen"
+		{
+			"id": "(B) Bravos Rigging",
+			"name": "(B) Harnais de Bravos",
+			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’armes.",
+			"class": "Bravos"
 		},
-		"(B) Elite Rovers": {
-			"name": "(H) Elite-Vagabunden",
-      "description":"Alle eure Komplizen vom Typ Vagabunden erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Haudegen"
+		{
+			"id": "(B) Elite Rovers",
+			"name": "(B) Nomades d'élite",
+			"description": "Toutes vos cohortes du type Nomade obtiennent +1 dé à vos jets de qualité relatifs aux actions de Nomades.",
+			"class": "Bravos"
 		},
-		"(B) Elite Thugs": {
-			"name": "(H) Elite-Schläger",
-      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
-      "class":"Haudegen"
+		{
+			"id": "(B) Elite Thugs",
+			"name": "(B) Gros bras d'élite",
+			"description": "Toutes vos cohortes du type Gros bras obtiennent +1 dé à vos jets de qualité relatifs aux actions de Gros bras.",
+			"class": "Bravos"
 		},
-		"(B) Hardened": {
-			"name": "(H) Abgebrüht",
-      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
-      "class":"Haudegen"
+		{
+			"id": "(B) Hardened",
+			"name": "(B) Endurcis",
+			"description": "Chaque PJ dispose d’une case supplémentaire de trauma. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule.",
+			"class": "Bravos"
 		},
-		"(B) Ironhook Contacts": {
-			"name": "(H) Ironhook-Kontakte",
-      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
-      "class":"Haudegen"
+		{
+			"id": "(B) Ironhook Contacts",
+			"name": "(B) Contacts dans la prison de Crochet-de-fer",
+			"description": "Votre rang est augmenté d’un point en prison.",
+			"class": "Bravos"
 		},
-		"(C) Cult Rigging": {
-			"name": "(K) Kultisten-Ausstattung",
-      "description":"Ihr könnt Dokumente oder Gerätschaften von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last ein lästerliches Buch der Flüche und eine Dämonenhand bei euch tragen.",
-      "class":"Kultisten"
+		{
+			"id": "(C) Cult Rigging",
+			"name": "(Cu) Harnais de cutltistes",
+			"description": "Vous gagnez gratuitement 2 charges de documents ou d’instruments.",
+			"class": "Cultistes"
 		},
-		"(C) Elite Adepts": {
-			"name": "(K) Elite-Adepten",
-      "description":"Alle eure Komplizen vom Typ Adepten erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Kultisten"
+		{
+			"id": "(C) Elite Adepts",
+			"name": "(Cu) Adeptes d'élite",
+			"description": "Toutes vos cohortes du type Adeptes gagnent +1 dé sur leurs jets de qualité pour toutes leurs actions d’Adeptes.",
+			"class": "Cultistes"
 		},
-		"(C) Elite Thugs": {
-			"name": "(K) Elite-Schläger",
-      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
-      "class":"Kultisten"
+		{
+			"id": "(C) Elite Thugs",
+			"name": "(Cu) Gros bras d'élite",
+			"description": "Toutes vos cohortes du type Gros bras gagnent +1 dé sur leurs jets de qualité pour toutes leurs actions de Gros bras.",
+			"class": "Cultistes"
 		},
-		"(C) Ordained": {
-			"name": "(K) Weihe",
-      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
-      "class":"Kultisten"
+		{
+			"id": "(C) Ordained",
+			"name": "(Cu) Ordonnés",
+			"description": "Chaque PJ gagne +1 case de trauma. Cette amélioration vous demande 3 cases pour être débloquée, et non pas simplement une seule.",
+			"class": "Cultistes"
 		},
-		"(C) Ritual Sanctum in Lair": {
-			"name": "(K) Rituelle Kultstätte im Versteck",
-      "description":"Zählt als heilige und arkane Werkstatt für okkulte Praktiken und Rituale.",
-      "class":"Kultisten"
+		{
+			"id": "(C) Ritual Sanctum in Lair",
+			"name": "(Cu) Sanctuaire rituel dans votre repaire",
+			"description": "Cette amélioration vous accorde un atelier sacré et ésotérique, où vous pourrez vous livrer à des pratiques occultes et accomplir des rituels.",
+			"class": "Cultistes"
 		},
-		"(H) Composed": {
-			"name": "(Sb) Gelassen",
-      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
-      "class":"Schieber"
+		{
+			"id": "(H) Composed",
+			"name": "(H) Impavides",
+			"description": "chaque PJ dispose d’une case supplémentaire de stress. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule.",
+			"class": "Colporteurs"
 		},
-		"(H) Elite Rooks": {
-			"name": "(Sb) Elite-Schwindler",
-      "description":"Alle eure Komplizen vom Typ Schwindler erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Schieber"
+		{
+			"id": "(H) Elite Rooks",
+			"name": "(Cl) Magouilleurs d'élite",
+			"description": "Toutes vos cohortes du type Magouilleurs obtiennent +1 dé à vos jets de qualité relatifs aux actions de Magouilleurs.",
+			"class": "Colporteurs"
 		},
-		"(H) Elite Thugs": {
-			"name": "(Sb) Elite-Schläger",
-      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
-      "class":"Schieber"
+		{
+			"id": "(H) Elite Thugs",
+			"name": "(Cl) Gros bras d'élite",
+			"description": "Toutes vos cohortes du type Gros bras gagnent +1 dé sur leurs jets de qualité pour toutes leurs actions de Gros bras.",
+			"class": "Colporteurs"
 		},
-		"(H) Hawker Rigging": {
-			"name": "(Sb) Schieber-Ausstattung",
-      "description":"Ein getragener Gegenstand ist verborgen und ist keine Last. Ihr könntet also zum Beispiel für 0 Last eine Ladung Drogen oder eine Waffe vollkommen verborgen bei euch tragen.",
-      "class":"Schieber"
+		{
+			"id": "(H) Hawker Rigging",
+			"name": "(Cl) Harnais de colporteur",
+			"description": "L’un des objets que vous portez est dissimulé et n’a aucune charge.",
+			"class": "Colporteurs"
 		},
-		"(H) Ironhook Contacts": {
-			"name": "(Sb) Ironhook-Kontakte",
-      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
-      "class":"Schieber"
+		{
+			"id": "(H) Ironhook Contacts",
+			"name": "(Cl) Contacts dans la prison de Crochet-de-fer",
+			"description": "Votre rang est augmenté d’un point en prison.",
+			"class": "Colporteurs"
 		},
-		"(Sh) Elite Rooks": {
-			"name": "(P) Elite-Schwindler",
-      "description":"Alle eure Komplizen vom Typ Schwindler erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Phantome"
+		{
+			"id": "(Sh) Elite Rooks",
+			"name": "(O) Magouilleurs d'élite",
+			"description": "Toutes vos cohortes du type Magouilleurs obtiennent +1 dé à vos jets de qualité relatifs aux actions de Magouilleurs.",
+			"class": "Ombres"
 		},
-		"(Sh) Elite Skulks": {
-			"name": "(P) Elite-Baldower",
-      "description":"Alle eure Komplizen vom Typ Baldower erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Phantome"
+		{
+			"id": "(Sh) Elite Skulks",
+			"name": "(O) Fureteurs d'élite",
+			"description": "Toutes vos cohortes du type Fureteurs obtiennent +1 dé à vos jets de qualité relatifs aux actions de Fureteurs.",
+			"class": "Ombres"
 		},
-		"(Sh) Steady": {
-			"name": "(P) Ruhig",
-      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
-      "class":"Phantome"
+		{
+			"id": "(Sh) Steady",
+			"name": "(O) Stables",
+			"description": "chaque PJ dispose d’une case supplémentaire de stress.",
+			"class": "Ombres"
 		},
-		"(Sh) Thief Rigging": {
-			"name": "(P) Diebes-Ausstattung",
-      "description":"Ihr könnt Werkzeuge oder Ausrüstungsgegenstände von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. von. Ihr könntet also zum Beispiel für 0 Last Einbrecherausrüstung oder Bastlerwerkzeug bei euch tragen.",
-      "class":"Phantome"
+		{
+			"id": "(Sh) Thief Rigging",
+			"name": "(O) Harnais de Voleur",
+ 			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’outils.",
+			"class": "Ombres"
 		},
-		"(Sh) Underground Maps and Passkeys": {
-			"name": "(P) Untergrundkarten und -schlüssel",
-      "description":"Ihr könnt ungehindert die unterirdischen Kanäle, Tunnel und Keller der Stadt passieren.",
-      "class":"Phantome"
+		{
+			"id": "(Sh) Underground Maps and Passkeys",
+			"name": "(O) Cartes et passe-partout des souterrains",
+			"description": "vous pouvez facilement passer dans les canaux et les souterrains, ainsi que dans les sous-sols de la ville.",
+			"class": "Ombres"
 		},
-		"(Sm) Barge": {
-			"name": "(Sm) Frachtkahn",
-      "description":"Ergänzt euer Versteck um Beweglichkeit. Ihr könnt es als Zwischenzeitaktivität zu einem neuen Standort bewegen.",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Barge",
+			"name": "(Cb) Barge",
+			"description": "Vous ajoutez le marqueur mobile à votre repaire. Vous pouvez désormais le déplacer vers un nouveau lieu en guise d’activité de temps mort.",
+			"class": "Contrebandiers"
 		},
-		"(Sm) Camouflage": {
-			"name": "(Sm) Tarnung",
-      "description":"Eure Fahrzeuge sind stillstehend vollkommen verborgen. Sie gehen als Teil der Umgebung oder als uninteressantes Zivilfahrzeug durch (eure Wahl).",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Camouflage",
+			"name": "(Cb) Camouflage",
+			"description": "À l’arrêt vos véhicules sont parfaitement dissimulés. Ils se fondent dans le décor ou passent pour des véhicules sans intérêt (au choix).",
+			"class": "Contrebandiers"
 		},
-		"(Sm) Elite Rovers": {
-			"name": "(Sm) Elite-Vagabunden",
-      "description":"Alle eure Komplizen vom Typ Vagabunden erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Elite Rovers",
+			"name": "(Cb) Nomades d'élite",
+			"description": "Toutes vos cohortes du type Nomade obtiennent +1 dé à vos jets de qualité relatifs aux actions de Nomades.",
+			"class": "Contrebandiers"
 		},
-		"(Sm) Smuggler Rigging": {
-			"name": "(Sm) Schmuggler-Ausstattung",
-      "description":"Zwei der Gegenstände, die ihr bei euch tragt, sind vollkommen verborgen. Ihr könntet also 1 Last Schmuggelware und eine Pistole tragen, die selbst gegen Abtasten vollkommen verborgen sind.",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Smuggler Rigging",
+			"name": "(Cb) Harnais de contrebandier",
+			"description": "Deux des objets que vous portez sont parfaitement dissimulés.",
+			"class": "Contrebandiers"
 		},
-		"(Sm) Steady": {
-			"name": "(Sm) Standhaft",
-      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Steady",
+			"name": "(Cb) Stables",
+			"description": "chaque PJ dispose d’une case supplémentaire de stress.",
+			"class": "Contrebandiers"
 		},
-		"(Sm) Vehicle 1": {
-			"name": "(Sm) Fahrzeug 1",
-      "description":"Alle Schmuggler beginnen das Spiel mit einem Fahrzeug.",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Vehicle 1",
+			"name": "(Cb) Vehicule 1",
+			"description": "Tous les contrebandiers débutent avec un véhicule.",
+			"class": "Contrebandiers"
 		},
-		"(Sm) Vehicle 2": {
-			"name": "(Sm) Fahrzeug 2",
-      "description":"Wird das Fahrzeug verbessert (zwei Kästchen), erhält es außerdem Panzerung (Rüstung).",
-      "class":"Schmuggler"
+		{
+			"id": "(Sm) Vehicle 2",
+			"name": "(Cb) Vehicule 2",
+			"description": "Le véhicule gagne un blindage.",
+			"class": "Contrebandiers"
 		},
-		"Boat House 1": {
-			"name": "Bootshaus 1",
-      "description":"Ihr habt ein Boot, eine Anlegestelle an einer Wasserstraße und einen kleinen Schuppen zum Aufbewahren eurer Bootsausrüstung."
+		{
+			"id": "Boat House 1",
+			"name": "Péniche aménagée 1",
+			"description": "Vous possédez une péniche, un emplacement à quai sur une voie d’eau et une petite cabane pour y stocker du matériel nautique."
 		},
-		"Boat House 2": {
-			"name": "Bootshaus 2",
-      "description":"Eine zweite Verbesserung ergänzt euer Boot um Panzerung und mehr Laderaum."
+		{
+			"id": "Boat House 2",
+			"name": "Péniche aménagée 2",
+			"description": "Rajoute un blindage et agrandit la soute."
 		},
-		"Carriage House 1": {
-			"name": "Kutschenhaus 1",
-      "description":"Ihr habt eine Kutsche, zwei Zugziegen und einen Stall."
+		{
+			"id": "Carriage House 1",
+			"name": "Roulotte 1",
+			"description": "Vous possédez une roulotte, deux chèvres pour la tracter et une étable. "
 		},
-		"Carriage House 2": {
-			"name": "Kutschenhaus 2",
-      "description":"Eine zweite Verbesserung ergänzt die Kutsche um Panzerung und größere und schnellere Ziegen."
+		{
+			"id": "Carriage House 2",
+			"name": "Roulotte 2",
+			"description": "Agrandit la roulotte et y ajoute des plaques de blindage, mais aussi des chèvres de trait plus rapides."
 		},
-		"Cohort 1": {
-			"name": "Komplizen 1",
-      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		{
+			"id": "Cohort 1",
+			"name": "Cohorte 1",
+			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
 		},
-		"Cohort 2": {
-			"name": "Komplizen 2",
-      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		{
+			"id": "Cohort 2",
+			"name": "Cohorte 2",
+			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
 		},
-		"Cohort 3": {
-			"name": "Komplizen 3",
-      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		{
+			"id": "Cohort 3",
+			"name": "Cohorte 3",
+			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
 		},
-		"Cohort 4": {
-			"name": "Komplizen 4",
-      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		{
+			"id": "Cohort 4",
+			"name": "Cohorte 4",
+			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
 		},
-		"Hidden Lair": {
-			"name": "Geheimes Versteck",
-      "description":"Euer Versteck befindet sich an einer geheimen Stelle und ist vor fremden Blicken getarnt. Wird euer Versteck entdeckt, wendet zwei Zwischenzeitaktivitäten auf und zahlt Münzen in Höhe eurer Stufe, um es umzuziehen und erneut zu verstecken."
+		{
+			"id": "Hidden Lair",
+			"name": "Repaire caché",
+			"description": "Votre repaire est situé dans un lieu secret, maquillé afin de passer pour un endroit ordinaire. Si votre repaire vient à être découvert, vous pouvez utiliser deux activités de temps mort et vous acquitter d’une somme égale à votre Rang pour le déménager et le cacher de nouveau."
 		},
-		"Mastery": {
-			"name": "Meisterschaft",
-      "description":"Eure Gang hat Zugang zu Training auf Meisterniveau. Ihr dürft die Aktionswerte eurer SC auf bis zu 4 steigern (bevor ihr diese Verbesserung freischaltet, haben SC-Aktionswerte eine Obergrenze von 3). Das Freischalten kostet vier Verbesserungskästchen."
+		{
+			"id": "Mastery",
+			"name": "Maîtrise",
+			"description": "Votre bande a accès à un entraînement de niveau maître. Vous pouvez améliorer le score d’action de vos PJ jusqu’à 4 (jusqu’à ce que vous débloquiez cette amélioration, le score d’action de vos PJ est limité à 3). Débloquer cette amélioration vous demandera d’y consacrer quatre cases."
 		},
-		"Quality: Arcane Implements": {
-			"name": "Qualität: Arkane Gerätschaften",
-      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		{
+			"id": "Quality: Arcane Implements",
+			"name": "Qualité: Ingrédients esotériques",
+			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
 		},
-		"Quality: Documents": {
-			"name": "Qualität: Dokumente",
-      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		{
+			"id": "Quality: Documents",
+			"name": "Qualité: Documents",
+			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
 		},
-		"Quality: Gear": {
-			"name": "Qualität: Ausrüstung",
-      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen. (deckt Einbrecher- und Kletterausrüstung ab.)"
+		{
+			"id": "Quality: Gear",
+			"name": "Qualité: Equipement",
+			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
 		},
-		"Quality: Subterfuge Supplies": {
-			"name": "Qualität: Täuscherzubehör",
-      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen. (deckt Brech- und Bastlerwerkzeug ab.)"
+		{
+			"id": "Quality: Subterfuge Supplies",
+			"name": "Qualité: Fournitures",
+			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
 		},
-		"Quality: Tools": {
-			"name": "Qualität: Werkzeug",
-      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		{
+			"id": "Quality: Tools",
+			"name": "Qualité: Outils",
+			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
 		},
-		"Quality: Weapons": {
-			"name": "Qualität: Waffen",
-      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		{
+			"id": "Quality: Weapons",
+			"name": "Qualité: Armes",
+			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
 		},
-		"Quarters": {
-			"name": "Wohnraum",
-      "description":"Euer Versteck verfügt über einen Wohnbereich für die Gang. Ohne diese Verbesserung muss jeder SC woanders schlafen und ist dabei entsprechend angreifbar."
+		{
+			"id": "Quarters",
+			"name": "Quartier",
+			"description": "Votre repaire comprend des quartiers d’habitation pour votre bande. Sans cette amélioration, chaque PJ doit aller se reposer ailleurs, ce qui l’expose aux attaques ennemies à ce moment-là."
 		},
-		"Secure Lair 1": {
-			"name": "Sicheres Versteck 1",
-      "description":"Euer Versteckt hat Schlösser, Alarmvorrichtungen und Fallen, um Eindringlinge abzuwehren. Werden diese Maßnahmen je auf die Probe gestellt, müsst ihr eventuell auf die Stufe eurer Gang würfeln, um zu sehen, wie gut sie Eindringlinge fernhalten können."
+		{
+			"id": "Secure Lair 1",
+			"name": "Repaire sécurisé 1",
+			"description": "Votre repaire est équipé de verrous, d’alarmes et de pièges qui découragent et déjouent les intrusions. "
 		},
-		"Secure Lair 2": {
-			"name": "Sicheres Versteck 2",
-      "description":"Eine zweite Verbesserung ergänzt die Abwehr um arkane Maßnahmen zur Abwehr von Geistern."
+		{
+			"id": "Secure Lair 2",
+			"name": "Repaire sécurisé 2",
+			"description": "Augmente encore les défenses du repaire pour leur adjoindre des mesures de sécurité ésotériques, efficaces contre les esprits."
 		},
-		"Training: Insight": {
-			"name": "Training: Verstand",
-      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		{
+			"id": "Training: Insight",
+			"name": "Entraînement de Perspicacité",
+			"description": "Lorsque vous entraînez votre Perspicacité pendant un temps mort, vous notez 2 px sur votre jauge de Perspicacité (au lieu d’un seul)."
 		},
-		"Training: Personal Exp": {
-			"name": "Training: Charakterbuch-EP",
-      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		{
+			"id": "Training: Personal Exp",
+			"name": "Entraînement: Livet de personnage",
+			"description": "Lorsque vous entraînez votre Livet de personnage pendant un temps mort, vous notez 2 px sur votre jauge de Livret de personnage (au lieu d’un seul)."
 		},
-		"Training: Prowess": {
-			"name": "Training: Zähigkeit",
-      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		{
+			"id": "Training: Prowess",
+			"name": "Entraînement: Prouesse",
+			"description": "Lorsque vous entraînez votre Prouesse pendant un temps mort, vous notez 2 px sur votre jauge de Prouesse (au lieu d’un seul)."
 		},
-		"Training: Resolve": {
-			"name": "Training: Wille",
-      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		{
+			"id": "Training: Resolve",
+			"name": "Entraînement: Détermination",
+			"description": "Lorsque vous entraînez votre Détermination pendant un temps mort, vous notez 2 px sur votre jauge de Détermination (au lieu d’un seul)."
 		},
-		"Vault 1": {
-			"name": "Speicher 1",
-      "description":"Euer Versteck hat einen sicheren Speicher, wodurch sich euer Münzen-Lagerraum auf 8 vergrößert. Ein getrennter Bereich eures Speichers kann als Gefängniszelle genutzt werden."
+		{
+			"id": "Vault 1",
+			"name": "Chambre-forte 1",
+			"description": "Votre repaire possède une chambre-forte, ce qui augmente votre capacité de stockage jusqu’à 8 argents."
 		},
-		"Vault 2": {
-			"name": "Speicher 2",
-      "description":"Eine zweite Verbesserung vergrößert euren Lagerraum auf 16."
+		{
+			"id": "Vault 2",
+			"name": "Chambre-forte 2",
+			"description": "Fait passer la capacité à 16 argents. Une section de votre chambre-forte peut être utilisée comme une cellule de confinement."
 		},
-		"Workshop": {
-			"name": "Werkstatt",
-      "description":"Euer Versteck hat eine Werkstatt, die mit Bastler- und Alchemiewerkzeugen ausgestattet ist, sowie eine kleine Bibliothek aus Büchern, Dokumenten und Karten. Mit diesen Mitteln könnt ihr Langzeitprojekte bewerkstelligen, ohne euer Versteck zu verlassen."
+		{
+			"id": "Workshop",
+			"name": "Atelier",
+			"description": "Votre repaire possède un atelier équipé d’outils de bricolage et d’alchimie, ainsi que d’une petite bibliothèque de livres, documents et cartes. Grâce à ce matériel, vous pouvez accomplir des projets à long terme sans avoir à quitter votre repaire."
 		}
-	}
+	]
 }
