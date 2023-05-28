@@ -1,0 +1,33 @@
+{
+	"label": "Herkunft",
+	"mapping": {
+    "description": "system.description"
+  },
+  
+	"entries": {
+		"Akoros": {
+			"name": "Akoros",
+      "description": "Akoros ist das größte und am stärksten industrialisierte Land des Imperiums und beherbergt sowohl die Hauptstadt als auch Duskwall selbst. Es ist als vielfältiger Schmelztiegel der Kulturen bekannt, die, ähnlich wie in Europa, im Laufe der Jahrhunderte durch ihre unmittelbare Nähe zusammengewachsen sind."
+		},
+		"Iruvia": {
+			"name": "Iruvien",
+      "description": "Wenn du aus einer Kultur kommen willst, die von den Einheimischen als „Ausländer“ betrachtet wird, könntest du aus Iruvien stammen, einem mächtigen und wohlhabenden Wüstenreich im fernen Süden. Es ist ebenfalls ein sehr vielfältiges Land mit unterschiedlichen Kulturen, das dem alten Persien, Ägypten oder Indien ähnelt."
+		},
+		"Severos": {
+			"name": "Severos",
+      "description": "Wenn du aus einer Gegend kommen willst, die vom restlichen Imperium als „wild“ betrachtet wird, könntest du aus Severos stammen. Abgesehen von wenigen imperialen Siedlungen leben die meisten Severosier in nomadischen, über die öden Siechlande verstreuten Reiterstämmen und verbergen sich in den Ruinen uralter arkaner Festungen, die immer noch Geister abwehren."
+		},
+		"Skovlan": {
+			"name": "Skovlan",
+      "description": "Wenn du aus einem ausgegrenzten Volk stammen willst, könntest du aus Skovlan kommen, dem Inselreich auf der anderen Seite des Meeres gegenüber von Doskvol. Skovlan wurde im Verlauf des 36-jährigen Einheitskrieges (der erst vor wenigen Jahren endete) alsletztes Land unter die Herrschaft des Imperiums gebracht. Viele Skoven, die Heimat und Arbeit in der Zerstörung des Krieges verloren haben, sind geflohen und auf der Suche nach besseren Aussichten nach Doskvol gekommen."
+		},
+		"The Dagger Isles": {
+			"name": "Die Dolchinseln",
+      "description": "Wenn du ein Wanderer ohne Wurzeln sein willst, könntest du von den Dolchinseln stammen. Dort wachsen die Leute häufig auf Schiffen auf und reisen viel, bevor sie sich niederlassen. Sie sind als Korsaren und Kaufleute bekannt, die ohne Blitzwälle leben – und auf anderem Wege mit Geistern fertigwerden."
+		},
+		"Tycheros": {
+			"name": "Tycheros",
+      "description": "Wenn du sonderbar sein willst, könntest du aus Tycheros stammen. Das ist ein halbmythischer Ort in weiter Ferne jenseits der Leeren See. Es heißt, dass die Leute dort zum Teil Dämonen seien. Falls du eine tycherosische Herkunft wählst, denkst du dir außerdem ein verräterisches dämonisches Mal (zum Beispiel schwarze Haiaugen, Federn statt Haare etc.) aus, das deinen Charakter kennzeichnet."
+		}
+	}
+}

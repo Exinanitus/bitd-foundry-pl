@@ -1,0 +1,250 @@
+{
+	"label": "Gang-Fähigkeiten",
+	"mapping": {
+    "description": "system.description",
+		"class":"system.class"
+  },
+  
+	"entries": {
+		"(A) Crow's Veil": {
+			"name": "(A) Krähenschleier",
+      "description" :"Eure Aktivitäten sind vor den Augen der Todsucher- Krähen verborgen. Ihr erhaltet keinen zusätzlichen Verdacht, wenn ein Coup Tötungen beinhalt.",
+      "class": "Attentäter"      
+		},
+		"(A) Deadly": {
+			"name": "(A) Tödlich",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Jagen, Schleichen oder Kämpfen hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Attentäter"      
+		},
+		"(A) Emberdeath": {
+			"name": "(A) Todesglut",
+      "description" :"Ihr kennt die arkane Methode, mit der man die Seele eines lebendigen Opfers in genau in dem Moment zerstört, in dem man es tötet. Erleide 3 Stress, um elektroplasmatische Energie aus dem Geisterfeld zu bündeln und Seele sowie Körper in glühende Asche aufzulösen.",
+      "class": "Attentäter"      
+		},
+		"(A) No Traces": {
+			"name": "(A) Ohne Spuren",
+      "description" :"Wenn ihr einen Einsatz geheim haltet oder wie einen Unfall aussehen lasst, erhaltet ihr die Hälfte des Respekt-Wertes des Ziels (aufgerundet) statt null. Beendet ihr die Zwischenzeit mit 0 Verdacht, erhaltet ihr +1 Respekt.",
+      "class": "Attentäter"      
+		},
+		"(A) Patron": {
+			"name": "(A) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+      "class": "Attentäter"      
+		},
+		"(A) Predators": {
+			"name": "(A) Raubtiere",
+      "description" :"Nutzt ihr einen Heimlichkeits- oder Täuschungs-Plan, um Morde zu begehen, erhaltet ihr +1W auf den Einstiegswurf.",
+      "class": "Attentäter"      
+		},
+		"(A) Veteran": {
+			"name": "(A) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Attentäter"      
+		},
+		"(A) Vipers": {
+			"name": "(A) Giftschlangen",
+      "description" :"Wenn ihr Gifte erwerbt oder erzeugt, erhaltet ihr dabei +1 Wirkungsgrad auf euren Wurf. Setzt ihr ein Gift ein, seid ihr sorgfältig vorbereitet, sodass ihr gegen seine Wirkung immun seid.",
+      "class": "Attentäter"      
+		},
+		"(Br) Blood Brothers": {
+			"name": "(H) Blutsbrüder",
+      "description" :"Wenn ihr in der Schlacht Seite an Seite mit euren Komplizen kämpft, erhalten sie +1W auf Teamarbeits-Würfe (Vorbereitung und Gruppenaktionen). Alle eure Komplizen erhalten den Typ Schläger gratis (sind sie bereits Schläger, fügt einen anderen Typ hinzu).",
+	  "class": "Haudegen"
+		},
+		"(Br) Dangerous": {
+			"name": "(H) Gefährlich",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Jagen, Kämpfen oder Zerstören hinzufügen (bis zum Höchstwert von 3).",
+	  "class": "Haudegen"
+		},
+		"(Br) Door Kickers": {
+			"name": "(H) Türeintreter",
+      "description" :"Führt ihr einen Angriffs-Plan durch, erhaltet ihr +1W auf den Einstiegswurf.",
+	  "class": "Haudegen"
+		},
+		"(Br) Fiends": {
+			"name": "(H) Unholde",
+      "description" :"Für euch gilt jeder Fahndungsgrad als Revier.",
+	  "class": "Haudegen"
+		},
+		"(Br) Forged In The Fire": {
+			"name": "(H) Feuertaufe",
+      "description" :"Ihr erhaltet +1W auf Widerstandswürfe.",
+	  "class": "Haudegen"
+		},
+		"(Br) Patron": {
+			"name": "(H) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+	  "class": "Haudegen"
+		},
+		"(Br) Veteran": {
+			"name": "(H) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+	  "class": "Haudegen"
+		},
+		"(Br) War Dogs": {
+			"name": "(H) Eisenfresser",
+      "description" :"Wenn ihr euch im Krieg befindet (−3 Fraktionsstatus), erleidet eure Gang nicht −1 Griff und SC haben weiterhin zwei Zwischenzeitaktivitäten statt nur einer.",
+	  "class": "Haudegen"
+		},    
+		"(C) Anointed": {
+			"name": "(K) Gesalbt",
+      "description" :"Ihr erhaltet +1W auf Widerstands- und +1W auf Heilungswürfe gegen übernatürliche Gefahren bzw. übernatürlichen Schaden.",
+      "class": " Kultisten"      
+		},
+		"(C) Bound in Darkness": {
+			"name": "(K) In Dunkelheit gebunden",
+      "description" :"Ihr könnt Teamarbeit mit allen Mitgliedern eures Kults ausführen, egal welche Entfernung euch trennt. Wer +1 Stress auf sich nimmt, kann eine Botschaft flüstern, die alle Kultisten hören.",
+      "class": "Kultisten"      
+		},
+		"(C) Chosen": {
+			"name": "(K) Auserwählt",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Beeinflussen, Einstimmen oder Studieren hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Kultisten"      
+		},
+		"(C) Conviction": {
+			"name": "(K) Fester Glaube",
+      "description" :"Jeder SC erhält ein zweites Laster: Gottesdienst. Gibst du dich diesem Laster hin und erbringst ein wohlgefälliges Opfer, gilt es nicht als maßlos, wenn du überschüssigen Stress abbaust. Bis du das nächste Mal diesem Laster frönst, wird dir die Gottheit außerdem bei einem beliebigen kommenden Aktionswurf zu Hilfe kommen.",
+      "class": "Kultisten"      
+		},
+		"(C) Glory Incarnate": {
+			"name": "(K) Fleischgewordene Herrlichkeit",
+      "description" :"Eure Gottheit manifestiert sich zuweilen. Das kann sich als großer Segen erweisen, doch die Prioritäten und Werte von Göttern und Sterblichen sind nicht immer dieselben.",
+      "class": "Kultisten"      
+		},
+		"(C) Sealed in Blood": {
+			"name": "(K) Mit Blut besiegelt",
+      "description" :"Jedes Menschenopfer verringert die Kosten für ein beliebiges durchgeführtes Ritual um 3 Stress.",
+      "class": "Kultisten"      
+		},
+		"(C) Veteran": {
+			"name": "(K) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Kultisten"      
+		},
+		"(C) Zealotry": {
+			"name": "(K) Fanatismus",
+      "description" :"Eure Komplizen führen jeden noch so gefährlichen oder absonderlichen Auftrag aus. Sie erhalten +1W auf Würfe, um gegen Feinde des Glaubens vorzugehen.",
+      "class": "Kultisten"      
+		},
+		"(H) Accord": {
+			"name": "(Sb) Abkommen",
+      "description" :"Manchmal sind Freunde so viel wert wie Gebiet. Für euch gelten bis zu drei verbündete Fraktionen (Status +3) als Revier.",
+      "class": "Schieber"      
+		},
+		"(H) Ghost Market": {
+			"name": "(Sb) Geistermarkt",
+      "description" :"Ihr könnt eure Ware für den Verkauf an Geister und/oder Dämonen präparieren. Sie zahlen nicht mit Münzen – womit dann?",
+      "class": "Schieber"      
+		},
+		"(H) High Society": {
+			"name": "(Sb) Gute Gesellschaft",
+      "description" :"Ihr erhaltet in der Zwischenzeit –1 Verdacht und +1W, wenn ihr über die Elite der Stadt Informationen sammelt.",
+      "class": "Schieber"      
+		},
+		"(H) Hooked": {
+			"name": "(Sb) Süchtig",
+      "description" :"Fügt brutal, unzuverlässig oder wild als Schwäche zu euren Banden hinzu, um ihnen +1 Qualität zu verleihen.",
+      "class": "Schieber"      
+		},
+		"(H) Patron": {
+			"name": "(Sb) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+      "class": "Schieber"      
+		},
+		"(H) Silver Tongues": {
+			"name": "(Sb) Redegewandt",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Beeinflussen, Befehlen oder Verkehren hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Schieber"      
+		},
+		"(H) The Good Stuff": {
+			"name": "(Sb) Feinster",
+      "description" :"Eure Waren sind erlesen. Ihre Qualität entspricht eurer Stufe +2. Wenn ihr mit einer Gang oder Fraktion zu tun habt, sagt euch die SL, wer unter ihnen danach süchtig ist (einer, manche, viele oder alle).",
+      "class": "Schieber"      
+		},
+		"(H) Veteran": {
+			"name": "(Sb) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Schieber"      
+		},
+		"(Sh) Everyone Steals": {
+			"name": "(P) Alle stehlen",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Schleichen, Tricksen oder Tüfteln hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Phantome"      
+		},
+		"(Sh) Ghost Echoes": {
+			"name": "(P) Geisterecho",
+      "description" :"Alle Gangmitglieder erhalten die Fähigkeit, das im Geisterfeld existierende Echo von Doskvol mit seinen geisterhaften Bauten, Straßen und Objekten zu sehen und mit diesen zu interagieren.",
+      "class": "Phantome"      
+		},
+		"(Sh) Pack Rats": {
+			"name": "(P) Hamsterer",
+      "description" :"Euer Versteck ist ein einziges Durcheinander gestohlener Gegenstände. Ihr erhaltet +1W auf Würfe, um Anschaffungen zu machen.",
+      "class": "Phantome"      
+		},
+		"(Sh) Patron": {
+			"name": "(P) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+      "class": "Phantome"      
+		},
+		"(Sh) Second Story": {
+			"name": "(P) Fassadenkletterer",
+      "description" :"Wenn ihr irgendwo heimlich eindringt, erhaltet ihr +1W auf euren Einstiegswurf.",
+      "class": "Phantome"      
+		},
+		"(Sh) Slippery": {
+			"name": "(P) Aalglatt",
+      "description" :"Wenn ihr Verwicklungen auswürfelt, würfelt zweimal und nehmt das Ergebnis, das euch besser gefällt. Wenn ihr für eure Gang den Verdacht verringern wollt, erhaltet ihr +1W.",
+      "class": "Phantome"      
+		},
+		"(Sh) Synchronized": {
+			"name": "(P) Ein Rad greift ins andere",
+      "description" :"Wenn ihr eine Gruppenaktion ausführt, dürft ihr mehrere Sechsen aus unterschiedlichen Würfen zusammennehmen, um einen kritischen Erfolg zu erzielen.",
+      "class": "Phantome"      
+		},
+		"(Sh) Veteran": {
+			"name": "(P) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Phantome"      
+		},
+		"(Sm) All Hands": {
+			"name": "(Sm) Handlanger",
+      "description" :"Ein Komplize der Gang kann in der Zwischenzeit eine Aktivität ausführen, um Anschaffungen zu machen, Verdacht zu verringern oder an einem Langzeitprojekt zu arbeiten.",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Ghost Passage": {
+			"name": "(Sm) Geisterfahrt",
+      "description" :"Alle Gangmitglieder sind immun gegen die Ergreifung durch Seelen, können aber freiwillig einen Geist als „Passagier“ im eigenen Körper befördern.",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Just Passing Through": {
+			"name": "(Sm) Nur auf Durchreise",
+      "description" :"Ihr erhaltet in der Zwischenzeit −1 Verdacht. Ist euer Verdacht höchstens 4, erhaltet ihr +1W, um jemandem zu täuschen, indem ihr euch als normale Bürger ausgebt.",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Leverage": {
+			"name": "(Sm) Druckmittel",
+      "description" :"Eure Gang beliefert andere Fraktionen mit illegalen Gütern. Jedes Mal, wenn ihr Respekt erhaltet, erhaltet ihr +1 Respekt dazu.",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Like Part of the Family": {
+			"name": "(Sm) Gehört fast zur Familie",
+      "description" :"Eines eurer Fahrzeuge gilt als Komplize (nutzt für die Stärken und Schwächen für Fahrzeuge). Seine Qualität entspricht eurer Stufe +1.",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Reavers": {
+			"name": "(Sm) Enterkampf",
+      "description" :"Wenn ihr mit eurem Fahrzeug in den Kampf zieht, erhaltet ihr +1 Wirkung. Euer Fahrzeug erhält außerdem Rüstung.",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Renegades": {
+			"name": "(Sm) Gesetzlose",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Kämpfen, Schleichen oder Tricksen hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Schmuggler"      
+		},
+		"(Sm) Veteran": {
+			"name": "(Sm) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Schmuggler"      
+		}
+	}
+}

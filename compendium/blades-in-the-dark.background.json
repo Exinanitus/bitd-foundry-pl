@@ -1,0 +1,37 @@
+{
+	"label": "Vorgeschichte",
+  "mapping": {
+    "description": "system.description"
+  },
+  
+	"entries": {
+		"Academic": {
+			"name": "Akademisch",
+      "description": "Gelehrter, Professor oder Student von der Akademie zu Doskvol, Philosoph oder Journalist etc."
+		},
+		"Labor": {
+			"name": "Arbeit",
+      "description":"Dienstbote, Fabrikarbeiter, Kutscher, Dockarbeiter, Matrose, Schienentreiber etc."
+		},
+		"Law": {
+			"name": "Gesetz",
+      "description":"Advokat oder Anwalt, Blaurock oder Inspektor (oder sogar Seelenwächter), Gefängniswärter vom Ironhook etc."
+		},
+		"Military": {
+			"name": "Militär",
+      "description":"imperialer oder skovischer Soldat, Söldner, Geheimagent, Stratege, Ausbilder etc."
+		},
+		"Noble": {
+			"name": "Adel",
+      "description":"Müßiggänger, Höfling, Spross eines gefallenen Hauses etc."
+		},
+		"Trade": {
+			"name": "Gewerbe",
+      "description":"Ladenbesitzer, Händler, ausgebildeter Handwerker, Schiffsspediteur etc."
+		},
+		"Underworld": {
+			"name": "Unterwelt",
+      "description": "Straßenkind, Bandenmitglied, junger Schläger oder anderer Ausgestoßener."
+		}
+	}
+}

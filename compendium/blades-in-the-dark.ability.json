@@ -1,0 +1,377 @@
+{
+	"label": "Spezialfähigkeiten",
+  "mapping": {
+    "description": "system.description",
+    "class":"system.class"
+  },
+  
+	"entries": {
+		"(C) Battleborn": {
+			"name": "(Sn) Zum Kampf geboren",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um den durch einen Angriff erlittenen Schaden zu verringern oder dich im Kampf zu verausgaben.",
+      "class": "Schnitter"      
+		},
+		"(C) Bodyguard": {
+			"name": "(Sn) Leibwächter",
+      "description": "Wenn du ein Gruppenmitglied beschützt, erhältst du +1W auf deinen Widerstandswurf. Wenn du Informationen sammelst, um mögliche Bedrohungen der gegenwärtigen Lage vorherzusehen, erhältst du +1 Wirkung.",
+      "class": "Schnitter"  
+		},
+		"(C) Ghost Fighter": {
+			"name": "(Sn) Geisterkrieger",
+      "description": "Du kannst deine Hände, Nahkampfwaffen oder Werkzeuge mit Seelenenergie durchwirken. Im Kampf gegen das Übernatürliche haben sie so eine höhere Eignung. Du kannst mit Seelen ringen, um sie zu bändigen oder einzufangen.",
+      "class": "Schnitter"        
+		},
+		"(C) Leader": {
+			"name": "(Sn) Anführer",
+      "description": "Befiehlst du Komplizen im Kampf, kämpfen sie auch dann weiter, wenn sie sonst erledigt wären (sie sind nicht außer Gefecht gesetzt, wenn sie Schaden 3. Grades erleiden). Sie erhalten +1 Wirkung und 1 Rüstung hinzu.",
+      "class": "Schnitter"  
+		},
+		"(C) Mule": {
+			"name": "(Sn) Packesel",
+      "description": "Deine Lastgrenzen sind erhöht. Leicht: 5. Normal: 7. Schwer: 8..",
+      "class": "Schnitter"        
+		},
+		"(C) Not to be Trifled With": {
+			"name": "(Sn) Nicht mit zu spassen:",
+      "description": "Du kannst dich verausgaben, um entweder einen schier übermenschlichen körperlichen Kraftakt zu leisten – oder – es mit einer kleinen Bande gleichberechtigt im Nahkampf aufzunehmen.",
+      "class": "Schnitter"  
+		},
+		"(C) Savage": {
+			"name": "(Sn) Brutal",
+      "description": "Wenn du rohe Gewalt entfesselst, ist das besonders furchterregend. Beim Befehlen eines verängstigten Ziels erhältst du +1W.",
+      "class": "Schnitter"        
+		},
+		"(C) Veteran": {
+			"name": "(Sn) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Schnitter"  
+		},
+		"(C) Vigorous": {
+			"name": "(Sn) Kraftstrotzend",
+      "description": "Du erholst dich schneller von Schaden. Fülle ein Segment deiner Heilungsuhr dauerhaft aus. Du erhältst +1W auf Würfe zur medizinischen Behandlung.",
+      "class": "Schnitter"  
+		},
+		"(H) Focused": {
+			"name": "(B) Konzentriert",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um den Konsequenzen einer Überraschung oder psychischem Schaden (Furcht, Verwirrung, jemanden aus den Augen verlieren) zu widerstehen oder dich im Fernkampf oder bei der Verfolgung zu verausgaben.",
+      "class": "Bluthund"  
+		},
+		"(H) Ghost Hunter": {
+			"name": "(B) Geisterjäger",
+      "description": "Dein Jagdtier ist besser dazu geeignet, das Übernatürliche zu verfolgen oder zu bekämpfen und erhält eine arkane Fähigkeit: Geistergestalt, Psychische Verbindung oder Pfeilschnell. Nimm diese Fähigkeit erneut, um eine zusätzliche arkane Fähigkeit für deinen tierischen Komplizen zu wählen.",
+      "class": "Bluthund"  
+		},
+		"(H) Scout": {
+			"name": "(B) Kundschafter",
+      "description": "Sammelst du Informationen, um den Standort eines Zieles aufzuspüren, erhältst du +1 Wirkung. Versteckst du dich an einer vorbereiteten Stelle oder nutzt Tarnung, erhältst du +1W, um der Entdeckung zu entgehen.",
+      "class": "Bluthund"  
+		},
+		"(H) Sharpshooter": {
+			"name": "(B) Scharfschütze",
+      "description": "Du kannst dich verausgaben, um einen Fernkampfangriff aus extremer Entfernung, die die normale Reichweite deiner Waffe übersteigt, zu machen – oder – ein Sperrfeuer zu eröffnen, das den Feind hemmt.",
+      "class": "Bluthund"  
+		},
+		"(H) Survivor": {
+			"name": "(B) Überlebenskünstler",
+      "description": "Du bist immun gegen den giftigen Pesthauch der Siechlande und kannst dich von der dortigen sonderbaren Flora und Fauna ernähren. Du erhältst 1 zusätzliches Stress-Kästchen.",
+      "class": "Bluthund"  
+		},
+		"(H) Tough as Nails": {
+			"name": "(B) Knochenhart",
+      "description": "Abzüge durch Schaden sind um einen Grad verringert (Schaden 4. Grades ist dennoch tödlich).",
+      "class": "Bluthund"  
+		},
+		"(H) Vengeful": {
+			"name": "(B) Rachsüchtig",
+      "description": "Du erhältst einen zusätzlichen EP-Auslöser: Du hast dich an jemandem rächen können, der dir oder einer dir wichtigen Person geschadet hat. Wenn deine Gang dir dabei geholfen hat, markiert euch auch Gang-EP.",
+      "class": "Bluthund"  
+		},
+		"(H) Veteran": {
+			"name": "(B) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Bluthund"  
+		},
+		"(Le) Alchemist": {
+			"name": "(Sr) Alchemist",
+	  "description": "Wenn du eine alchemische Erfindung erfindest oder anfertigst, erhältst du +1 Wirkungsgrad. Zu Beginn kennst du bereits eine Spezialformel.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Analyst": {
+			"name": "(Sr) Analytiker",
+      "description": "Du erhältst während der Zwischenzeit zwei Uhren-Segmente für Langzeitprojekte, die etwas mit Recherche oder dem Herausfinden einer neuen Formel oder eines neuen Konstruktionsplans zu tun haben.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Artificer": {
+			"name": "(Sr) Konstrukteur:",
+      "description": "Wenn du eine Funkenwerk-Erfindung erfindest oder anfertigst, erhältst du +1 Wirkungsgrad auf deinen Wurf. Zu Beginn kennst du bereits eine Spezialkonstruktion.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Fortitude": {
+			"name": "(Sr) Unerschütterlich:",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um den Konsequenzen von Ermüdung, Schwäche oder chemischen Effekten zu widerstehen oder dich bei technischer Arbeit oder dem Hantieren mit alchemistischen Substanzen zu verausgaben.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Ghost Ward": {
+			"name": "(Sr) Bannkreis:",
+      "description": "Zerstörst du einen Bereich mit arkanen Substanzen, wird er für Seelen abstoßend oder anziehend (du hast die Wahl).",
+      "class": "Schröpfer"  
+		},
+		"(Le) Physicker": {
+			"name": "(Sr) Medikus",
+      "description": "Du kannst an Körpern tüfteln, um Wunden zu versorgen oder Sterbende zu stabilisieren. Du darfst Erkrankungen oder Leichen studieren. Jeder in deiner Gang erhält +1W auf Würfe zur medizinischen Behandlung.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Saboteur": {
+			"name": "(Sr) Saboteur",
+      "description": "Beim Zerstören ist dein Werk sehr viel leiser und die Beschädigung ist vor flüchtiger Betrachtung äußerst gut verborgen.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Venomous": {
+			"name": "(Sr) Toxisch",
+      "description": "Wähle eine Droge oder ein Gift (von deinem Bandelier-Vorrat), wogegen du immun geworden bist. Du kannst dich verausgaben, um es über die Haut abzusondern oder als Gifthauch auszuatmen.",
+      "class": "Schröpfer"  
+		},
+		"(Le) Veteran": {
+			"name": "(Sr) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Schröpfer"  
+		},
+		"(Lu) Ambush": {
+			"name": "(L) Hinterhalt",
+      "description": "Wenn du aus dem Verborgenen angreifst oder eine Falle zuschnappen lässt, erhältst du +1W auf deinen Wurf.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Daredevil": {
+			"name": "(L) Draufgänger",
+      "description": "Wenn du auf eine aussichtslose Aktion würfelst, erhältst du +1W auf deinen Wurf, falls du dafür −1W auf alle Widerstandswürfe gegen Konsequenzen deiner Aktion annimmst.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Expertise": {
+			"name": "(L) Kompetenz",
+      "description": "Wähle einen deiner Aktionswerte. Wenn du eine Gruppenaktion mit dieser Aktion anführst, kannst du höchstens 1 Stress erleiden, ungeachtet der Anzahl fehlgeschlagener Würfe.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Ghost Veil": {
+			"name": "(L) Geisterschleier",
+      "description": "Du kannst dich zum Teil ins Geisterfeld versetzen und erscheinst für wenige Augenblicke schemenhaft und gestaltlos. Wenn du dich so entrückst, erleidest du 2 Stress und zusätzlich 1 Stress pro weitere Eigenschaft: es hält statt Augenblicken einige Minuten an – du bist unsichtbar statt nur schemenhaft – du kannst wie ein Gespenst durch die Luft schweben.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Infiltrator": {
+			"name": "(L) Unterwanderung",
+      "description": "Wenn du Sicherheitsmaßnahmen umgehst, wirst du nicht durch Qualität oder Stufe beeinträchtigt.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Reflexes": {
+			"name": "(L) Reflexe",
+      "description": "Wenn fraglich ist, wer zuerst handelt, lautet die Antwort: Du.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Shadow": {
+			"name": "(L) Schatten",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um Konsequenzen von Sicherheitsmaßnahmen oder Entdeckung zu widerstehen oder dich für Höchstleistungen in Sachen Athletik oder Heimlichkeit zu verausgaben.",
+      "class": "Lauerer"  
+		},
+		"(Lu) The Devil's Footsteps": {
+			"name": "(L) Des Teufels Fussstapfen",
+      "description": "Du kannst dich verausgaben, um einen schier übermenschlichen sportlichen Kraftakt zu leisten – oder – so um deine Feinde zu manövrieren, dass sie sich in der Verwirrung versehentlich gegenseitig angreifen.",
+      "class": "Lauerer"  
+		},
+		"(Lu) Veteran": {
+			"name": "(L) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Lauerer"  
+		}, 
+		"(Sl) A Little Something on the Side": {
+			"name": "(E) Nebeneinkünfte",
+      "description": "Am Ende jeder Zwischenzeit verdienst du +2 Vermögen.",
+      "class": "Emissär"  
+		},
+		"(Sl) Cloak & Dagger": {
+			"name": "(E) Tarnen & Täuschen",
+      "description": "Nutzt du Verkleidungen oder andere Formen von Tarnung und Irreführung, erhältst du +1W auf Würfe zum Verwirren oder zum Ablenken von Verdacht. Wenn du deine Tarnung abwirfst, verleiht dir die Überraschung in dieser Situation die Initiative.",
+      "class": "Emissär"  
+		},
+		"(Sl) Ghost Voice": {
+			"name": "(E) Geisterstimme",
+      "description": "Du kennst das Geheimnis, wie man selbst mit wild und ungezähmt wirkenden Geistern und Dämonen wie mit normalen Menschen interagieren kann. Du gewinnst an Eignung, wenn du mit dem Übernatürlichen kommunizierst.",
+      "class": "Emissär"  
+		},
+		"(Sl) Like Looking into a Mirror": {
+			"name": "(E) Den Schleier lüften",
+      "description": "Du merkst stets, wenn dich jemand belügt.",
+      "class": "Emissär"  
+		},
+		"(Sl) Mesmerism": {
+			"name": "(E) Hypnose",
+      "description": "Wenn du jemanden beeinflusst, kannst du die Person das Geschehene vergessen lassen, bis sie das nächste Mal wieder mit dir in Kontakt kommt.",
+      "class": "Emissär"  
+		},
+		"(Sl) Rook's Gambit": {
+			"name": "(E) Gaunerstreich",
+      "description": "Erleide 2 Stress, um auf deinen besten Aktionswert zu würfeln, obwohl du eine andere Aktion ausführst. Schildere, wie du deine Fertigkeit für diesen Zweck anpasst.",
+      "class": "Emissär"  
+		},
+		"(Sl) Subterfuge": {
+			"name": "(E) List",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um Konsequenzen von Misstrauen oder Überredung zu widerstehen oder dich für eine Ausrede zu verausgaben.",
+      "class": "Emissär"  
+		},
+		"(Sl) Trust in Me": {
+			"name": "(E) Vertraulich",
+      "description": "Du erhältst +1W gegen Ziele, mit denen du in inniger Beziehung stehst.",
+      "class": "Emissär"  
+		},
+		"(Sl) Veteran": {
+			"name": "(E) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Emissär"  
+		},
+		"(Sp) Calculating": {
+			"name": "(Sp) Kalkül",
+      "description": "Dank sorgfältiger Planung darfst du dir selbst und einem weiteren Gangmitglied während der Zwischenzeit +1 Aktivität gewähren.",
+      "class": "Spinne"  
+		},
+		"(Sp) Connected": {
+			"name": "(Sp) Beziehungen",
+      "description": "Während der Zwischenzeit erhältst du +1 Wirkungsgrad, wenn du Anschaffungen machst oder Verdacht verringerst.",
+      "class": "Spinne"  
+		},
+		"(Sp) Foresight": {
+			"name": "(Sp) Weitblick",
+      "description": "Zweimal pro Coup darfst du einem Teammitglied helfen, ohne Stress dafür auszugeben. Beschreibe, wie du dich hierauf vorbereitet hast.",
+      "class": "Spinne"  
+		},
+		"(Sp) Functioning Vice": {
+			"name": "(Sp) Kontrolliertes Laster",
+      "description": "Wenn du dich deinem Laster hingibst, kannst du das Würfelergebnis um 1 oder 2 (nach oben oder unten) anpassen. Verbündete, die dich begleiten, können das ebenso.",
+      "class": "Spinne"  
+		},
+		"(Sp) Ghost  Contract": {
+			"name": "(Sp) Geistervertrag",
+      "description": "Wenn du eine Abmachung per Handschlag besiegelst oder schriftlich festhältst, tragen sowohl du als auch dein Partner das Mal eures Schwurs. Bricht eine Partei den Vertrag, erleidet sie Schaden 3. Grades: „Verflucht“.",
+      "class": "Spinne"  
+		},
+		"(Sp) Jail Bird": {
+			"name": "(Sp) Knastologie",
+      "description": "Wenn du inhaftiert bist, gilt dein Fahndungsgrad als −1, deine Stufe als +1 und du erhältst +1 Status bei einer Fraktion, der du drinnen hilfst, zusätzlich zu allem, was du durch den Inhaftierungswurf bekommst.",
+      "class": "Spinne"  
+		},
+		"(Sp) Mastermind": {
+			"name": "(Sp) Drahtzieher",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um ein Teammitglied zu schützen oder um dich beim Sammeln von Informationen oder bei der Arbeit an einem Langzeitprojekt zu verausgaben.",
+      "class": "Spinne"  
+		},
+		"(Sp) Veteran": {
+			"name": "(Sp) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Spinne"  
+		},
+		"(Sp) Weaving the Web": {
+			"name": "(Sp) Im Zentrum des Netzes",
+      "description": "Du erhältst +1W auf Verkehren, wenn du für einen Coup über ein Ziel Informationen sammelst. Für diesen Einsatz erhältst du +1W auf den Einstiegswurf.",
+      "class": "Spinne"  
+		},
+		"(W) Compel": {
+			"name": "(F) Binden",
+      "description": "Du kannst dich auf das Geisterfeld Einstimmen, um einen in der Nähe befindlichen Geist zu zwingen, vor dir zu erscheinen und einem Befehl zu gehorchen. Du hast keine übernatürliche Angst vor diesen Geistern.",
+      "class": "Flüsterer"  
+		},
+		"(W) Ghost Mind": {
+			"name": "(F) Geistersinn",
+      "description": "Du bist dir stets der übernatürlichen Wesen bewusst, die sich in deiner Gegenwart befinden. Jedes Mal, wenn du mit beliebigen Mitteln über das Übernatürliche Informationen sammelst, erhältst du +1W.",
+      "class": "Flüsterer"  
+		},
+		"(W) Iron Will": {
+			"name": "(F) Eiserner Wille",
+      "description": "Du bist unempfindlich gegenüber der Todesangst, die manche übernatürliche Wesen durch ihren Anblick erzeugen. Wenn du einen Widerstandswurf mit Wille machst, erhältst du +1W.",
+      "class": "Flüsterer"  
+		},
+		"(W) Occultist": {
+			"name": "(F) Okkultist",
+      "description": "Du kannst mit uralten Mächten, vergessenen Gottheiten oder Dämonen verkehren. Sobald du mit einem verkehrt hast, erhältst du +1W beim Befehligen von Kultisten, die dieses Wesen anbeten.",
+      "class": "Flüsterer"  
+		},
+		"(W) Ritual": {
+			"name": "(F) Rituale",
+      "description": "Du kannst okkulte Rituale Studieren (oder neue erfinden), um einen übernatürlichen Effekt oder ein übernatürliches Wesen hervorzurufen. Zu Beginn kennst du ein bereits erlerntes Ritual.",
+      "class": "Flüsterer"  
+		},
+		"(W) Strange Methods": {
+			"name": "(F) Seltsame Praktiken",
+      "description": "Wenn du eine arkane Erfindung erfindest oder anfertigst, erhältst du +1 Wirkungsgrad. Du kennst bereits eine arkane Konstruktion.",
+      "class": "Flüsterer"  
+		},
+		"(W) Tempest": {
+			"name": "(F) Sturmwind",
+      "description": "Du kannst dich verausgaben, um einen Blitzschlag als Waffe zu entfesseln – oder – in deiner unmittelbaren Nähe ein Unwetter heraufzubeschwören.",
+      "class": "Flüsterer"  
+		},
+		"(W) Veteran": {
+			"name": "(F) Veteran",
+      "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
+      "class": "Flüsterer"  
+		},
+		"(W) Warded": {
+			"name": "(F) Gefeit",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um übernatürlichen Konsequenzen zu widerstehen oder dich zu verausgaben, wenn du mit arkanen Kräften ringst oder dich ihrer bedienst.",
+      "class": "Flüsterer"  
+		},
+		"(Hu) Automaton": {
+			"name": "(Hu) Automaton"
+		},
+		"(Hu) Compartments": {
+			"name": "(Hu) Compartments"
+		},
+		"(Hu) Electroplasmic Projectors": {
+			"name": "(Hu) Electroplasmic Projectors"
+		},
+		"(Hu) Interface": {
+			"name": "(Hu) Interface"
+		},
+		"(Hu) Overcharge": {
+			"name": "(Hu) Overcharge"
+		},
+		"(Hu) Secondary Hull": {
+			"name": "(Hu) Secondary Hull"
+		},
+		"(G) Dissipate": {
+			"name": "(G) Dissipate"
+		},
+		"(G) Ghost Form": {
+			"name": "(G) Ghost Form"
+		},
+		"(G) Manifest": {
+			"name": "(G) Manifest"
+		},
+		"(G) Poltergeist": {
+			"name": "(G) Poltergeist"
+		},
+		"(G) Possess": {
+			"name": "(G) Possess"
+		},
+		"(G) Veteran": {
+			"name": "(G) Veteran"
+		},
+		"(V) A Void in the Echo": {
+			"name": "(V) A Void in the Echo"
+		},
+		"(V) Arcane Sight": {
+			"name": "(V) Arcane Sight"
+		},
+		"(V) Dark Talent": {
+			"name": "(V) Dark Talent"
+		},
+		"(V) Sinister Guile": {
+			"name": "(V) Sinister Guile"
+		},
+		"(V) Terrible Power": {
+			"name": "(V) Terrible Power"
+		},
+		"(V) Undead": {
+			"name": "(V) Undead"
+		},
+		"(V) Veteran": {
+			"name": "(V) Veteran"
+		}
+	}
+}

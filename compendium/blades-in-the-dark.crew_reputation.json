@@ -1,0 +1,69 @@
+{
+	"label": "Ruf der Gang",
+	"entries": {
+		"Alluring": {
+			"name": "verführerisch",
+			"description": ""
+		},
+		"Ambitious": {
+			"name": "ehrgeizig",
+			"description": ""
+		},
+		"Brutal": {
+			"name": "brutal",
+			"description": ""
+		},
+		"Cruel": {
+			"name": "grausam",
+			"description": ""
+		},
+		"Daring": {
+			"name": "waghalsig",
+			"description": ""
+		},
+		"Ferocious": {
+			"name": "wild",
+			"description": ""
+		},
+		"Honorable": {
+			"name": "ehrenhaft",
+			"description": ""
+		},
+		"Monstrous": {
+			"name": "abscheulich",
+			"description": ""
+		},
+		"Professional": {
+			"name": "professionell",
+			"description": ""
+		},
+		"Radiant": {
+			"name": "strahlend",
+			"description": ""
+		},
+		"Savvy": {
+			"name": "gerissen",
+			"description": ""
+		},
+		"Serene": {
+			"name": "friedvoll",
+			"description": ""
+		},
+		"Sinister": {
+			"name": "düster",
+			"description": ""
+		},
+		"Strange": {
+			"name": "seltsam",
+			"description": ""
+		},
+		"Subtle": {
+			"name": "diskret",
+			"description": ""
+		},
+		"Transcendent": {
+			"name": "transzendent",
+			"description": ""
+		}
+	}
+}

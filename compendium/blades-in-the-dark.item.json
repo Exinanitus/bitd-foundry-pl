@@ -1,0 +1,253 @@
+{
+	"label": "Gegenstände",
+	"mapping": {
+    "description": "system.description",
+    "class":"system.class"
+  },
+  
+	"entries": {
+		"(C) Fine hand weapon": {
+			"name": "(E) Hochwertige Handwaffe",
+      "description": "Eine fein gearbeitete einhändige Nahkampfwaffe deiner Wahl. Handelt es sich um eine Standardwaffe in guter Qualität, zum Beispiel einen perfekt ausbalancierten Dolch, oder um etwas Exotisches, wie einen iruvischen Duellsäbel oder einen eisenbeschlagene Kriegskeule?",
+      "class":"Schnitter"      
+		},
+		"(C) Fine heavy weapon": {
+			"name": "(E) Hochwertige schwere Waffe",
+      "description": "Eine fein gearbeitete zweihändige Nahkampfwaffe deiner Wahl. Kriegshammer, Großschwert, Militärspieß, Streitaxt etc. Schwere Waffen haben eine größere Reichweite und schlagen härter zu als normale Waffen. Das kann sie besser geeignet machen, wenn Schlagkraft oder Reichweite der Waffe entscheidende Faktoren sind.",
+      "class":"Schnitter"      
+		},
+		"(C) Manacles & chain": {
+			"name": "(E) Handschellen mit Ketten",
+     "description": "Ein paar schwere Handschellen mit Ketten, geeignet zum Fesseln von Gefangenen. Womöglich Souvenir eines Besuches bei den Blauröcken?",
+      "class":"Schnitter"      
+		},
+		"(C) Rage essence vial": {
+			"name": "(E) Phiole Rauschessenz",
+      "description": "Einzeldosis. Verleiht dem Anwender für einige Minuten mehr Kraft, Schmerzresistenz und irrationale Aggressivität. Die SL wird Position und Wirkung entsprechend anpassen, wenn du mit Rauschessenz kämpfst. Außerdem erleidest du zwei Konsequenzen: „Kann Freund und Feind nicht auseinanderhalten“ und „Kann erst aufhören, wenn alle niedergestreckt sind“. Du darfst ihnen wie üblich widerstehen.",
+      "class":"Schnitter"      
+		},
+		"(C) Scary weapon or tool": {
+			"name": "(E) Furchterregende Waffe oder Werkzeug",
+      "description": "Handwaffe oder Werkzeug mit beängstigendem Aussehen. Dieser Gegenstand gewährt dir keinen verstärkten Schaden im Kampf, sondern eine erhöhte Wirkung beim Einschüchtern.",
+      "class":"Schnitter"      
+		},
+		"(H) A trained hunting pet": {
+			"name": "(B) Abgerichtetes Jagdtier",
+      "description": "Dein Tierbegleiter gehorcht deinen Befehlen und kann deine Handlungen vorausahnen. Komplize (Experte: Jäger)." ,
+	  "class":"Bluthund"
+		},
+		"(H) Electroplasmic ammunition": {
+			"name": "(B) Elektroplasma-Munition",
+      "description": "Munitionsgürtel mit Elektroplasmageschossen, besonders wirksam gegen Seelen, doch weniger effektiv gegen materielle Ziele. Die elektrische Ladung genügt, um einen Menschen zu betäuben, verursacht jedoch kaum echten Schaden. Mehrere Treffer könnten ein menschliches Ziel eventuell außer Gefecht setzen. Diese Munition ist im Geisterfeld besonders reaktionsfreudig – erstelle eine 4er-Uhr „Aufmerksamkeit der Seelenwächter“ und stelle sie pro Einsatz, bei dem die Munition benutzt wird, um eins vor.",
+      "class":"Bluthund" 
+		},
+		"(H) Fine long rifle": {
+			"name": "(B) Hochwertiges langläufiges Gewehr",
+      "description": "Fein gearbeitete Jagdbüchse, aus großer Entfernung tödlich, auf engem Raum unhandlich. Langlaufgewehre sind in Doskvol normalerweise für Privatpersonen illegal, doch für dieses hast du (echte oder gefälschte) Militärpapiere.",
+      "class":"Bluthund" 
+		},
+		"(H) Fine pair of pistols": {
+			"name": "(B) Zwei hochwertige Pistolen",
+      "description": "Zwei identische Handfeuerwaffen, auf erhöhte Treffsicherheit ausgelegt, mit Doppelläufen, die zwei Schüsse ermöglichen, bevor man nachladen muss. Sind deine Pistolen von den Töchtern Karderas, von Templeton & Slane, der imperialen Schmiede oder einem anderen Büchsenmacher angefertigt? Was hebt sie von Durchschnittspistolen ab?",
+      "class":"Bluthund" 
+		},
+		"(H) Spyglass": {
+			"name": "(B) Fernrohr",
+      "description": "Eine Messingröhre mit Linsen, die den Blick in die Ferne ermöglicht. Ausziehbar. Lässt sich an Gewehren befestigen.",
+      "class":"Bluthund" 
+		},
+		"(Le) Bandolier": {
+			"name": "(Sr) Bandolier",
+      "description": "Schräg über den Körper getragener Gurt, ausgerüstet mit speziell gepolsterten Beuteln, in die drei alchemistische Mittel oder Funkenwerkbomben passen. Wähle beim Einsatz von Alchemie oder Bomben aus dem Bandelier etwas aus der Liste rechts aus (oder eine deiner eigenen Sonderformeln). Mehr zu Alchemie und Bomben auf S. 232. Während der Zwischenzeit füllst du deine Bandeliere automatisch wieder auf, sofern du angemessenen Zugang zu einem Lieferanten oder einer Werkstatt hast. (Alkahest, Bindungsöl, Blendgift, Ertränkungspulver, Feueröl, Funken (Droge), Granate, Quecksilber, Rauchbombe, Schädelspaltergift, Schwebeöl, Stillstandgift, Trancepulver)",
+      "class":"Schröpfer" 
+		},
+		"(Le) Blowgun & darts, syringes": {
+			"name": "(Sr) Blasrohr & Pfeile, Spritzen",
+      "description": "Röhrchen mit Pfeilen, die aus Alchemiekolben befüllt werden können. Leere Spritzen.",
+      "class":"Schröpfer" 
+		},
+		"(Le) Fine tinkering tools": {
+			"name": "(Sr) Hochwertiges Bastlerwerkzeug",
+      "description": "Fein gearbeiteter Satz Mechanikerwerkzeug. Uhrmacherlupe. Messinstrumente.",
+      "class":"Schröpfer" 
+		},
+		"(Le) Fine wrecking tools": {
+			"name": "(Sr) Hochwertiges Brechwerkzeug",
+      "description": "Spezialwerkzeugsatz für Sabotage und Zerstörung. Kleiner aber leistungsstarker Bohrer. Hammer und Stahldornen. Brechstange. Elektroplasmabatterie, Klemmen, Draht. Giftfläschchen. Funkenschneidbrenner mit Brennstofftank.",
+      "class":"Schröpfer" 
+		},
+		"(Le) Gadgets": {
+			"name": "(Sr) Apparaturen",
+      "description": "Du darfst während der Zwischenzeit Apparaturen bauen, indem du mit Werkzeug und Material tüftelst (siehe Funkenapparaturen auf S. 233). Halte die Last jedes Apparats fest, den du während eines Einsatzes anwendest.",
+      "class":"Schröpfer" 
+		},
+		"(Lu) Dark-sight goggles": {
+			"name": "(L) Dunkelsichtbrille",
+      "description": "Arkanes Gerät, das es dem Träger ermöglicht, in pechschwarzer Dunkelheit zu sehen, als wäre sie hell erleuchtet.",
+      "class":"Lauerer" 
+		},
+		"(Lu) Fine lockpicks": {
+			"name": "(L) Hochwertige Dietriche",
+      "description": "Fein gearbeiteter Satz Werkzeuge zum Öffnen und Ausschalten von Schlössern.",
+      "class":"Lauerer" 
+		},
+		"(Lu) Fine shadow cloak": {
+			"name": "(L) Hochwertiger Schattenläufermantel",
+      "description": "Aus seltener iruvischer Schattenseide hergestellter Kapuzenmantel, der mit der umgebenden Dunkelheit verschmilzt. Dieser Gegenstand verbessert deinen Wirkungsgrad beim Umherschleichen.",
+      "class":"Lauerer" 
+		},
+		"(Lu) Light climbing gear": {
+			"name": "(L) Leichte Kletterausrüstung",
+      "description": "Gut verarbeiteter Satz Kletterzubehör, der nicht so sperrig und schwer ist wie gewöhnlich. Standard-Kletterausrüstung hat Last 2.",
+      "class":"Lauerer" 
+		},
+		"(Lu) Silence potion vial": {
+			"name": "(L) Phiole Lautloselixier",
+      "description": "Wird dieses Fläschchen mit goldener Flüssigkeit zerbrochen, werden über einen Zeitraum von mehreren Augenblicken jegliche Geräusche im Umkreis von 10 Schritten verschluckt.",
+      "class":"Lauerer" 
+		},
+		"(Sl) A cane-sword": {
+			"name": "(E) Stockdegen",
+      "description": "Ein schmales Schwert mit Scheide, getarnt als Gehstock eines Adligen. Die Tarnung hält oberflächlicher Betrachtung stand.",
+      "class":"Suave" 
+		},
+		"(Sl) Fine clothes & jewelry": {
+			"name": "(E) Hochwertige Kleidung & Schmuck",
+      "description": "Eine Garderobe, die von so vornehmer Machart zu sein scheint, dass du als wohlhabend und adlig durchgehst. Hast du diesen Gegenstand als Zweitgarderobe zum Wechseln dabei, zählt er als 2 Last.",
+      "class":"Suave" 
+		},
+		"(Sl) Fine disguise kit": {
+			"name": "(E) Hochwertiger Verkleidungskoffer",
+      "description": "Maskenbildnerkoffer, ausgestattet mit einer beeindruckenden Auswahl professioneller Utensilien zur Verwandlung der äußeren Erscheinung. Die hochwertige Qualität dieses Koffers kann bei Gebrauch die Wirkung deiner Täuschungsaktionen steigern.",
+      "class":"Suave" 
+		},
+		"(Sl) Fine loaded dice, trick cards": {
+			"name": "(E) Hochwertige Trickwürfel und gezinkte Spielkarten",
+      "description": "Glücksspielrequisiten, auf subtile Weise manipuliert, damit sie bevorzugt bestimmte Ergebnisse zeigen. Die hochwertige Qualität dieser Gegenstände kann bei Gebrauch die Wirkung deiner Täuschungsaktionen steigern.",
+      "class":"Suave" 
+		},
+		"(Sl) Trance powder": {
+			"name": "(E) Trancepulver",
+      "description": "Eine Dosis der beliebten bewusstseinsverändernden Droge. Das Opfer des Pulvers ist nicht vollständig bewusstlos, sondern schwebt in einem gelassenen, leicht beeinflussbaren Bewusstseinszustand, der einer Hypnose ähnelt.",
+      "class":"Suave" 
+		},
+		"(Sp) Blueprints": {
+			"name": "(Sp) Blaupausen",
+      "description": "Mappe mit nützlichen Architekturzeichnungen und Stadtplänen. Gib ruhig genauer an, welche Pläne du dabeihast, wenn du diesen Gegenstand auswählst.",
+      "class":"Spinne" 
+		},
+		"(Sp) Concealed palm pistol": {
+			"name": "(Sp) Verborgene Taschenpistole",
+      "description": "Kleine Feuerwaffe mit schwacher Ladung, leicht in Ärmel oder Weste zu verbergen. Diese Pistole hat eine stark eingeschränkte Reichweite von nur wenigen Schritt. Am Körper getragen ist sie sehr schwer zu entdecken, selbst wenn du durchsucht wirst.",
+      "class":"Spinne" 
+		},
+		"(Sp) Fine bottle of whiskey": {
+			"name": "(Sp) Hochwertige Flasche Whiskey",
+      "description": "Rares Destillat aus deiner Privatsammlung. Mit starker Wirkung, sowohl im Alkoholgehalt als auch im hinterlassenen Eindruck.",
+      "class":"Spinne" 
+		},
+		"(Sp) Fine cover identity": {
+			"name": "(Sp) Hochwertige Tarnidentität",
+      "description": "Papiere, fingierte Geschichten und Gerüchte und gefälschte Beziehungen, die dich als jemand anderes ausgeben.",
+      "class":"Spinne" 
+		},
+		"(Sp) Vial of slumber essence": {
+			"name": "(Sp) Phiole Schlafessenz",
+      "description": "Eine Dosis Schlafessenz, die ausreicht, um jemanden eine Stunde lang zu betäuben. Der Schlaf des Opfers ist nicht übernatürlich, aber sehr tief – es kann mit einiger Mühe aufgeweckt werden.",
+      "class":"Spinne" 
+		},
+		"(W) Demonbane charm": {
+			"name": "(F) Dämonenbann-Talisman",
+      "description": "Arkanes Schmuckstück, das Dämonen meiden.",
+      "class":"Flüsterer"       
+		},
+		"(W) Fine lightning hook": {
+			"name": "(F) Hochwertiger Blitzhaken",
+      "description": "Langer zweihändiger Stab mit stabiler Drahtschlinge, an einen Elektroplasmakondensator angeschlossen. Nützlich, um eine Seele zu greifen und in eine Seelenflasche zu ziehen. Dieser maßgefertigte Haken lässt sich kompakt zusammenschieben, wodurch sich seine Last auf 1 verringert, obwohl er zweihändig ist.",
+      "class":"Flüsterer"       
+		},
+		"(W) Fine spirit mask": {
+			"name": "(F) Hochwertige Seelenmaske",
+      "description": "Arkanes Objekt, das es dem geschulten Nutzer erlaubt, übernatürliche Energien bis ins kleinste Detail zu betrachten. Bietet zudem einen gewissen Schutz gegen Besessenheit durch Geister. Jede Seelenmaske ist ein Unikat. Wie sieht deine aus? Was macht ihren Anblick so seltsam und verstörend?",
+      "class":"Flüsterer"       
+		},
+		"(W) Ghost key": {
+			"name": "(F) Geisterschlüssel",
+      "description": "Ein arkanes Gerät zum Öffnen von Geistertüren. Ein Echo der gesamten Stadt und ihrer Vergangenheit ist im Geisterfeld eingeschlossen. Manchmal stößt man auf eine Tür zu diesem Ort.",
+      "class":"Flüsterer"       
+		},
+		"(W) Spirit bottles (2)": {
+			"name": "(F) Seelenflaschen (2)",
+      "description": "Arkanes Gerät zum Einfangen von Seelen. Ein Zylinder aus Metall und Kristall von der Größe eines Brotlaibs.",
+      "class":"Flüsterer"       
+		},
+		"+ Heavy": {
+			"name": "+Schwer",
+      "description": "Zusätzlich Kettenhemd, Metallplatten und Metallhelm. Die Last für schwere Rüstung gilt zusätzlich zur normalen Rüstung – insgesamt also Last 5."
+		},
+		"A 2nd Pistol": {
+			"name": "Eine zweite Pistole",
+      "description": "Schwerer, einschüssiger Hinterlader. Auf 20 Schritt verheerend, langsam nachzuladen."
+		},
+		"A Blade or Two": {
+			"name": "Ein oder zwei Klingen",
+      "description": "Vielleicht trägst du ein einfaches Kampfmesser bei dir. Oder zwei geschwungene Schwerter. Oder ein Rapier und ein Stilett. Oder ein schweres Fleischerbeil. <br>Eventuell spiegelt deine Klingenwahl deine Herkunft wider: <br><br>Im Norden (Akoros und Skovlan) sind die Klingen eher breit, schwer und einschneidig. <br>In Severos bevorzugen die Pferdeherren im Gefecht Speere, tragen aber für den Zweikampf auffällige zweischneidige Dolche mit sehr breiten Klingen, die oft aufwändige Gravuren der Familiengeschichten tragen.<br>Auf den Dolchinseln verwenden die Korsaren häufig schmale und wendige Klingen, die für schnelle Stiche gemacht sind – wie das Rapier und das Stilett.<br>In Iruvien sind geschwungene Klingen üblich; an der Außenkante geschliffen wie ein Säbel oder an der Innenkannte wie eine Sichel."
+		},
+		"A Large Weapon": {
+			"name": "Große Waffe",
+      "description": "Beidhändige Waffe. Streitaxt, Langschwert, Kriegshammer oder Stangenwaffe. Jagdgewehr oder Donnerbüchse. Bogen oder Armbrust."
+		},
+		"A Pistol": {
+			"name": "Pistole",
+      "description": "Schwerer, einschüssiger Hinterlader. Auf 20 Schritt verheerend, langsam nachzuladen."
+		},
+		"An Unusual Weapon": {
+			"name": "Ungewöhnliche Waffe",
+      "description": "Zur Waffe umfunktioniertes Werkzeug oder Kuriosität. Peitsche, Dreschflegel, Beil, Schaufel, Kette, Fächer mit rasiermesserscharfen Kanten, Stahlkappenstiefel."
+		},
+		"Arcane Implements": {
+			"name": "Arkane Gerätschaften",
+      "description": "Phiole Quecksilber. Beutel schwarzes Salz. Seelenanker in Form eines kleinen Steins. Seelenflasche. Phiole Elektroplasma, dazu ausgelegt, beim Aufprall zu zerspringen und zu verspritzen."
+		},
+		"Armor": {
+			"name": "Rüstung",
+      "description": "Waffenrock aus dickem Leder mit verstärkten Handschuhen und Stiefeln."
+		},
+		"Burglary Gear": {
+			"name": "Einbrecherausrüstung",
+      "description": "Satz Dietriche. Kleine Brechstange. Ölfläschchen, um quietschende Scharniere zum Schweigen zu bringen. Drahtrolle und Angelhaken. Kleiner Beutel feiner Sand."
+		},
+		"Climbing Gear": {
+			"name": "Kletterausrüstung",
+      "description": "Große Rolle Seil. Kleine Rolle Seil. Wurfhaken. Kleiner Beutel Kreidestaub. Klettergurt mit Schlaufen und Metallringen. Satz eiserner Kletterhaken und ein kleiner Hammer."
+		},
+		"Demolition Tools": {
+			"name": "Brechwerkzeug",
+      "description": "Vorschlaghammer und Stahleisen. Schwerer Bohrer. Brechstange."
+		},
+		"Documents": {
+			"name": "Dokumente",
+      "description": "Sammlung schmaler Bände zu einer Vielzahl von Themen, unter anderem ein Verzeichnis der Adelsfamilien, Stadtwachen-Kommandanten und anderer bedeutender Bürger. Leere Blätter, ein Fläschchen Tinte, ein Füllfederhalter. Einige interessante Landkarten."
+		},
+		"Lantern": {
+			"name": "Laterne",
+      "description": "Einfache Öllaterne, raffinierte Elektroplasmalampe oder andere Lichtquelle."
+		},
+		"Spiritbane Charm": {
+			"name": "Seelenbann-Talisman",
+      "description": "Kleines arkanes Schmuckstück, das Geister lieber meiden."
+		},
+		"Subterfuge Supplies": {
+			"name": "Täuscherzubehör",
+      "description": "Maskenbildnerkoffer. Sammlung von Blankodokumenten, bereit für das Fälschen. Modeschmuck. Wendeumhang und markanter Hut. Gefälschte Dienstmarke."
+		},
+		"Throwing Knives": {
+			"name": "Wurfmesser",
+      "description": "Sechs kleine, leichte Klingen."
+		},
+		"Tinkering Tools": {
+			"name": "Bastlerwerkzeug",
+      "description": "Sortiment feinmechanische Werkzeuge: Uhrmacherlupe, Pinzette, kleiner Hammer, Zange, Schraubenzieher etc."
+		}
+	}
+}

@@ -1,0 +1,274 @@
+{
+	"label": "Gang-Verbesserungen",
+  "mapping":{
+      "description":"system.description",
+      "class":"system.class"
+   },
+   
+	"entries": {
+		"(A) Assassin Rigging": {
+			"name": "(A) Attentäter-Ausstattung",
+      "description":"Ihr könnt Waffen oder Ausrüstungsgegenstände von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last eine Pistole (Waffe) und Einbrecherwerkzeug (Ausrüstung) bei euch tragen.",
+      "class":"Attentäter"
+		},
+		"(A) Elite Skulks": {
+			"name": "(A) Elite-Baldower",
+      "description":"Alle eure Komplizen vom Typ Baldower erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Attentäter"
+		},
+		"(A) Elite Thugs": {
+			"name": "(A) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Attentäter"
+		},
+		"(A) Hardened": {
+			"name": "(A) Abgebrüht",
+      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
+      "class":"Attentäter"
+		},
+		"(A) Ironhook Contacts": {
+			"name": "(A) Ironhook-Kontakte",
+      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
+      "class":"Attentäter"
+		},
+		"(B) Bravos Rigging": {
+			"name": "(H) Haudegen-Ausstattung",
+      "description":"Ihr könnt Waffen oder Rüstungen von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last Schwert und Pistole oder normale Rüstung tragen.",
+      "class":"Haudegen"
+		},
+		"(B) Elite Rovers": {
+			"name": "(H) Elite-Vagabunden",
+      "description":"Alle eure Komplizen vom Typ Vagabunden erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Haudegen"
+		},
+		"(B) Elite Thugs": {
+			"name": "(H) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Haudegen"
+		},
+		"(B) Hardened": {
+			"name": "(H) Abgebrüht",
+      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
+      "class":"Haudegen"
+		},
+		"(B) Ironhook Contacts": {
+			"name": "(H) Ironhook-Kontakte",
+      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
+      "class":"Haudegen"
+		},
+		"(C) Cult Rigging": {
+			"name": "(K) Kultisten-Ausstattung",
+      "description":"Ihr könnt Dokumente oder Gerätschaften von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last ein lästerliches Buch der Flüche und eine Dämonenhand bei euch tragen.",
+      "class":"Kultisten"
+		},
+		"(C) Elite Adepts": {
+			"name": "(K) Elite-Adepten",
+      "description":"Alle eure Komplizen vom Typ Adepten erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Kultisten"
+		},
+		"(C) Elite Thugs": {
+			"name": "(K) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Kultisten"
+		},
+		"(C) Ordained": {
+			"name": "(K) Weihe",
+      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
+      "class":"Kultisten"
+		},
+		"(C) Ritual Sanctum in Lair": {
+			"name": "(K) Rituelle Kultstätte im Versteck",
+      "description":"Zählt als heilige und arkane Werkstatt für okkulte Praktiken und Rituale.",
+      "class":"Kultisten"
+		},
+		"(H) Composed": {
+			"name": "(Sb) Gelassen",
+      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
+      "class":"Schieber"
+		},
+		"(H) Elite Rooks": {
+			"name": "(Sb) Elite-Schwindler",
+      "description":"Alle eure Komplizen vom Typ Schwindler erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Schieber"
+		},
+		"(H) Elite Thugs": {
+			"name": "(Sb) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Schieber"
+		},
+		"(H) Hawker Rigging": {
+			"name": "(Sb) Schieber-Ausstattung",
+      "description":"Ein getragener Gegenstand ist verborgen und ist keine Last. Ihr könntet also zum Beispiel für 0 Last eine Ladung Drogen oder eine Waffe vollkommen verborgen bei euch tragen.",
+      "class":"Schieber"
+		},
+		"(H) Ironhook Contacts": {
+			"name": "(Sb) Ironhook-Kontakte",
+      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
+      "class":"Schieber"
+		},
+		"(Sh) Elite Rooks": {
+			"name": "(P) Elite-Schwindler",
+      "description":"Alle eure Komplizen vom Typ Schwindler erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Phantome"
+		},
+		"(Sh) Elite Skulks": {
+			"name": "(P) Elite-Baldower",
+      "description":"Alle eure Komplizen vom Typ Baldower erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Phantome"
+		},
+		"(Sh) Steady": {
+			"name": "(P) Ruhig",
+      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
+      "class":"Phantome"
+		},
+		"(Sh) Thief Rigging": {
+			"name": "(P) Diebes-Ausstattung",
+      "description":"Ihr könnt Werkzeuge oder Ausrüstungsgegenstände von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. von. Ihr könntet also zum Beispiel für 0 Last Einbrecherausrüstung oder Bastlerwerkzeug bei euch tragen.",
+      "class":"Phantome"
+		},
+		"(Sh) Underground Maps and Passkeys": {
+			"name": "(P) Untergrundkarten und -schlüssel",
+      "description":"Ihr könnt ungehindert die unterirdischen Kanäle, Tunnel und Keller der Stadt passieren.",
+      "class":"Phantome"
+		},
+		"(Sm) Barge": {
+			"name": "(Sm) Frachtkahn",
+      "description":"Ergänzt euer Versteck um Beweglichkeit. Ihr könnt es als Zwischenzeitaktivität zu einem neuen Standort bewegen.",
+      "class":"Schmuggler"
+		},
+		"(Sm) Camouflage": {
+			"name": "(Sm) Tarnung",
+      "description":"Eure Fahrzeuge sind stillstehend vollkommen verborgen. Sie gehen als Teil der Umgebung oder als uninteressantes Zivilfahrzeug durch (eure Wahl).",
+      "class":"Schmuggler"
+		},
+		"(Sm) Elite Rovers": {
+			"name": "(Sm) Elite-Vagabunden",
+      "description":"Alle eure Komplizen vom Typ Vagabunden erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Schmuggler"
+		},
+		"(Sm) Smuggler Rigging": {
+			"name": "(Sm) Schmuggler-Ausstattung",
+      "description":"Zwei der Gegenstände, die ihr bei euch tragt, sind vollkommen verborgen. Ihr könntet also 1 Last Schmuggelware und eine Pistole tragen, die selbst gegen Abtasten vollkommen verborgen sind.",
+      "class":"Schmuggler"
+		},
+		"(Sm) Steady": {
+			"name": "(Sm) Standhaft",
+      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
+      "class":"Schmuggler"
+		},
+		"(Sm) Vehicle 1": {
+			"name": "(Sm) Fahrzeug 1",
+      "description":"Alle Schmuggler beginnen das Spiel mit einem Fahrzeug.",
+      "class":"Schmuggler"
+		},
+		"(Sm) Vehicle 2": {
+			"name": "(Sm) Fahrzeug 2",
+      "description":"Wird das Fahrzeug verbessert (zwei Kästchen), erhält es außerdem Panzerung (Rüstung).",
+      "class":"Schmuggler"
+		},
+		"Boat House 1": {
+			"name": "Bootshaus 1",
+      "description":"Ihr habt ein Boot, eine Anlegestelle an einer Wasserstraße und einen kleinen Schuppen zum Aufbewahren eurer Bootsausrüstung."
+		},
+		"Boat House 2": {
+			"name": "Bootshaus 2",
+      "description":"Eine zweite Verbesserung ergänzt euer Boot um Panzerung und mehr Laderaum."
+		},
+		"Carriage House 1": {
+			"name": "Kutschenhaus 1",
+      "description":"Ihr habt eine Kutsche, zwei Zugziegen und einen Stall."
+		},
+		"Carriage House 2": {
+			"name": "Kutschenhaus 2",
+      "description":"Eine zweite Verbesserung ergänzt die Kutsche um Panzerung und größere und schnellere Ziegen."
+		},
+		"Cohort 1": {
+			"name": "Komplizen 1",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		},
+		"Cohort 2": {
+			"name": "Komplizen 2",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		},
+		"Cohort 3": {
+			"name": "Komplizen 3",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		},
+		"Cohort 4": {
+			"name": "Komplizen 4",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
+		},
+		"Hidden Lair": {
+			"name": "Geheimes Versteck",
+      "description":"Euer Versteck befindet sich an einer geheimen Stelle und ist vor fremden Blicken getarnt. Wird euer Versteck entdeckt, wendet zwei Zwischenzeitaktivitäten auf und zahlt Münzen in Höhe eurer Stufe, um es umzuziehen und erneut zu verstecken."
+		},
+		"Mastery": {
+			"name": "Meisterschaft",
+      "description":"Eure Gang hat Zugang zu Training auf Meisterniveau. Ihr dürft die Aktionswerte eurer SC auf bis zu 4 steigern (bevor ihr diese Verbesserung freischaltet, haben SC-Aktionswerte eine Obergrenze von 3). Das Freischalten kostet vier Verbesserungskästchen."
+		},
+		"Quality: Arcane Implements": {
+			"name": "Qualität: Arkane Gerätschaften",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		},
+		"Quality: Documents": {
+			"name": "Qualität: Dokumente",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		},
+		"Quality: Gear": {
+			"name": "Qualität: Ausrüstung",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen. (deckt Einbrecher- und Kletterausrüstung ab.)"
+		},
+		"Quality: Subterfuge Supplies": {
+			"name": "Qualität: Täuscherzubehör",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen. (deckt Brech- und Bastlerwerkzeug ab.)"
+		},
+		"Quality: Tools": {
+			"name": "Qualität: Werkzeug",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		},
+		"Quality: Weapons": {
+			"name": "Qualität: Waffen",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
+		},
+		"Quarters": {
+			"name": "Wohnraum",
+      "description":"Euer Versteck verfügt über einen Wohnbereich für die Gang. Ohne diese Verbesserung muss jeder SC woanders schlafen und ist dabei entsprechend angreifbar."
+		},
+		"Secure Lair 1": {
+			"name": "Sicheres Versteck 1",
+      "description":"Euer Versteckt hat Schlösser, Alarmvorrichtungen und Fallen, um Eindringlinge abzuwehren. Werden diese Maßnahmen je auf die Probe gestellt, müsst ihr eventuell auf die Stufe eurer Gang würfeln, um zu sehen, wie gut sie Eindringlinge fernhalten können."
+		},
+		"Secure Lair 2": {
+			"name": "Sicheres Versteck 2",
+      "description":"Eine zweite Verbesserung ergänzt die Abwehr um arkane Maßnahmen zur Abwehr von Geistern."
+		},
+		"Training: Insight": {
+			"name": "Training: Verstand",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		},
+		"Training: Personal Exp": {
+			"name": "Training: Charakterbuch-EP",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		},
+		"Training: Prowess": {
+			"name": "Training: Zähigkeit",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		},
+		"Training: Resolve": {
+			"name": "Training: Wille",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
+		},
+		"Vault 1": {
+			"name": "Speicher 1",
+      "description":"Euer Versteck hat einen sicheren Speicher, wodurch sich euer Münzen-Lagerraum auf 8 vergrößert. Ein getrennter Bereich eures Speichers kann als Gefängniszelle genutzt werden."
+		},
+		"Vault 2": {
+			"name": "Speicher 2",
+      "description":"Eine zweite Verbesserung vergrößert euren Lagerraum auf 16."
+		},
+		"Workshop": {
+			"name": "Werkstatt",
+      "description":"Euer Versteck hat eine Werkstatt, die mit Bastler- und Alchemiewerkzeugen ausgestattet ist, sowie eine kleine Bibliothek aus Büchern, Dokumenten und Karten. Mit diesen Mitteln könnt ihr Langzeitprojekte bewerkstelligen, ohne euer Versteck zu verlassen."
+		}
+	}
+}

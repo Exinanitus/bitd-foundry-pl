@@ -1,0 +1,455 @@
+{
+   "label": "Fraktionen",
+   "mapping": {
+      "description": "system.description",
+      "type": "system.type",
+      "goal_1": "system.goal_1",
+      "goal_2": "system.goal_2",
+      "turf": "system.turf",
+      "assets": "system.assets",
+      "quirks": "system.quirks",
+      "notables": "system.notables",
+      "allies": "system.allies",
+      "enemies": "system.enemies",
+      "situation": "system.situation"
+   },
+   "entries": {
+      "Bluecoats": {
+         "name": "Blauröcke",
+         "description": "Die Stadtwache. Bekannt als fieseste Gang der Stadt. Korrupt, gewalttätig, grausam.",
+         "type": "Obrigkeit",
+         "goal_1": "Mehr Budget, Waffen und Ausrüstung beschaffen",
+         "turf": "Die Blauröcke beanspruchen die ganze Stadt als ihr Revier. Tatsächlich aber ist ihr Einfluss in Whitecrown stark eingeschränkt, da hier die imperiale Militärgarnison unter dem Kommando des Generalgouverneurs das Sagen hat.",
+         "assets": "Zahlreiche große Banden von grausamen Schlägern in Uniform. Gepanzerte Kutschen und Patrouillenboote für die Kanäle. Öffentliche Strafstätten (Pranger, Schandstöcke, hängende Käfige).",
+         "quirks": "Die Mannschaften der Blauröcke sind nach Bezirken unterteilt. Zwischen ihnen bestehen ernste Rivalitäten, oft zusätzlich angespornt durch ihre Vorgesetzten. Meist bleibt es harmloser Wettstreit, aber manchmal wird es gewalttätig.",
+         "notables": "Commissioner Clelland (Kommandant der Stadtwache, korrupt, grausam, arrogant). Captain Mickter (oberste Ausbilderin, ehrgeizig, kämpferisch, selbstsicher). Captain Vale (Quartiermeister, loyal, wissend, ruhig).",
+         "allies": "Der Stadtrat, Die Billhooks, Die Crows, Das Ironhook-Gefängnis, Lord Scurlock, Die Unsichtbaren.",
+         "enemies": "Das imperiale Militär, viele kriminelle Organisationen.",
+         "situation": "Die Blauröcke beneiden das imperiale Militär um deren herausragende Ausrüstung und ihre Fahrzeuge. Sie möchten ihre Wachen mit schwerer Rüstung und Bewaffnung neu ausstatten, um ihren Opfern besser Angst einjagen zu können."
+      },
+      "Cabbies": {
+         "name": "Kutscher",
+         "description": "Die Fuhrleute der öffentlichen Kutschen. Sie züchten auch die großen akorosischen Ziegen, die die Wägen ziehen. Ein beeindruckendes Netzwerk für Gerüchte.",
+         "type": "Arbeit & Handel"
+      },
+      "Citizenry": {
+         "name": "Bürgerschaft",
+         "description": "Die gewöhnlichen Bürger eines Bezirks können auch als Fraktion dargestellt werden, falls ihr ihren Status nachverfolgen wollt. Die SL setzt dazu die Stufe entsprechend des Reichtums und der Macht der Bürgerschaft in diesem Bezirk fest (Whitecrown könnte also Stufe V sein, Die Docks Stufe II und Charhollow Stufe 0)."
+      },
+      "City Council": {
+         "name": "Der Stadtrat",
+         "description": "Die herrschende adlige Elite, die die Verwaltung, Schatzmeisterei, Gerichte und die öffentlichen Bauvorhaben leitet.",
+         "type": "Obrigkeit",
+         "goal_1": "Artefakte von Qotar werden beschafft",
+         "goal_2": "Strangford schaltet Bedrohungen aus",
+         "turf": "Die Kammern des Stadtrats befinden sich in Charterhall, wie auch die Regierungsbüros und der unbezwingbare Tresor der Schatzmeisterei. Zudem sind sämtliche öffentlichen Plätze im Besitz des Rates, inklusive der Straßen, Docks und Kanäle.",
+         "assets": "Eine riesige Schatzkammer voller Münzen und Wertsachen. Viele Funktionäre, Juristen und Beamte. Die Fuhrwerke der Stadt, von den Kutschern betrieben.",
+         "quirks": "Alle Mitglieder des Rates sind hochrangige Eingeweihte der Kirche der fleischlichen",
+         "notables": "Die Nachkommen der sechs mächtigsten Adelsfamilien von Doskvol, im Moment: Bowmore, Clelland, Dunvil, Penderyn, Rowan und Strangford.",
+         "allies": "Blauröcke, Die Kirche der fleischlichen Verzückung, Der Zirkel der Flamme, Lord Scurlock, Die Wehr, Kutscher, Funkenmacher, Das Fundament.",
+         "enemies": "Imperiales Militär, Inspektoren, Ministerium für Verpflegung, Die Ausgesöhnten.",
+         "situation": "Drei der Räte (Bowmore, Clelland, Rowan) haben sich gegen Strangford zusammengeschlossen und versuchen, dieses Haus aus dem Rat auszuschließen. Dunvil und Penderyn haben sich bisher noch auf keine der Seiten geschlagen. Wird es den Verschwörern gelingen, einen Skandal heraufzubeschwören, Strangford die Schuld an einem Verbrechen zuzuschieben oder den Mord in Auftrag zu geben, um Strangford loszuwerden? Oder wird Haus Strangford gegen sie bestehen und die Bedrohung abwenden?"
+      },
+      "Cyphers": {
+         "name": "Chiffren",
+         "description": "Die Zunft der Kuriere in der Stadt. Chiffren schwören heilige Eide, den Inhalt der Botschaften und die Identität ihrer Kunden nie preiszugeben – angeblich.",
+         "type": "Arbeit & Handel"
+      },
+      "Deathlands Scavengers": {
+         "name": "Siechland-Plünderer",
+         "description": "Sträflinge aus Ironhook und verzweifelte Söldner, die das Ödland jenseits des Blitzwalls durchstreifen.",
+         "type": "Anderweltliches",
+         "goal_1": "Begnadigungen erhalten (wiederkehrend)",
+         "turf": "Ein paar wenige Stützpunkte in den Siechlanden, durch alte Riten vor den Geistern geschützt. Jagdgebiete, um sich von den wenigen seltsamen Tieren zu ernähren, die den Kataklysmus überlebt haben.",
+         "assets": "Generatoren, Blitzhaken, Gasmasken, Sauerstofftanks und andere entscheidende Ausrüstung für das Überleben in den Siechlanden. Ein geheimes, altes Buch über rituelle Magie.",
+         "quirks": "Besessenheit ist eine ständige Gefahr und Plünderer lernen entweder damit umzugehen oder verfallen dem Wahnsinn und verschwinden in der Dunkelheit der Ödnis. Alle, die noch in Lady Thorns Gesellschaft verblieben sind, haben sich gut angepasst und erleiden durch Besessenheit nur geringe Nebenwirkungen.",
+         "notables": "Lady Thorn (Anführerin, heimgesucht, mutig, fürsorglich). Rickter (Jäger, geduldig, ruhig, tödlich).",
+         "allies": "Die Vergessenen Gottheiten, Gondolieri, Seelenwächter.",
+         "enemies": "Ironhook-Gefängnis.",
+         "situation": "Verurteilte Sträflinge werden manchmal „begnadigt“ und in die Siechlande geschickt, anstatt in Ironhook hingerichtet zu werden. Einige von ihnen überleben dank Lady Thorn und ihren Plünderern, die sie aufnehmen und ihnen beibringen, wie man im Siechland jagt und lebt. Die Plünderer suchen nach verlorenen Artefakten und Schätzen im Ödland, die sie in der Stadt verkaufen oder tauschen, in der Hoffnung, dass es genug abwirft, um eine Begnadigung erkaufen und in das Leben innerhalb des Blitzwalls zurückkehren zu können."
+      },
+      "Dockers": {
+         "name": "Hafenarbeiten",
+         "description": "Die abgebrühten Arbeiter, die an den Docks schuften.",
+         "type": "Arbeit & Handel"
+      },
+      "Gondoliers": {
+         "name": "Gondolieri",
+         "description": "Die Zunft der Kanalbootführer. Traditionell verehrt. Verfügen angeblich über okkulte Geheimnisse (vieles liegt versunken im Dosk).",
+         "type": "Arbeit & Handel",
+         "goal_1": "Den geschändeten Hohlen nachforschen",
+         "goal_2": "Seelenquellen zerstören (wiederkehrend)",
+         "turf": "Die Kanäle von Doskvol. Selbst die Kanalpatrouillen der Blauröcke zollen ihnen Respekt.",
+         "assets": "Flotte an Gondeln und anderen Wasserfahrzeugen. Karte der bekannten Seelenquellen und anderer arkaner Orte in der Stadt. Eine eingefleischte Schar von Eingeweihten.",
+         "quirks": "Aufnahme bei den Gondolieri verleiht die Flüsterer-Sonderfähigkeit Binden.",
+         "notables": "Eiselle (Anführerin, abgeklärt, kenntnisreich, furchtlos). Griggs (oberster Flüsterer, seltsam, rücksichtslos, heimgesucht).",
+         "allies": "Die Lampblacks, Bürgerschaft aller Bezirke.",
+         "enemies": "Die Rotschärpen, Seelenwächter.",
+         "situation": "Seit Jahrhunderten haben Mörder in den Kanälen von Doskvol Leichen verschwinden lassen. Die rachsüchtigen Geister dieser Opfer sind eine ernste Bedrohung, der sich die Gondolieri seit jeher gestellt haben. Bevor der Imperator die Seelenwächter gründete, haben die Gondolieri die Bürgerschaft vor widernatürlichen Gefahren aller Art beschützt. Und so gehen die meisten Bürger mit ihren „unheimlichen Problemen“ lieber zu ihnen, als sich auf das gnadenlose Urteil der Seelenwächter zu verlassen. Ein überraschender Fall von rituell geschändeten Hohlen, die in die Kanäle geworfen wurden, führt nun zu Nachforschungen der Gondolieri (die Seelenwächter ignorieren das Verbrechen demonstrativ)."
+      },
+      "Imperial Military": {
+         "name": "Imperials Militär",
+         "description": "Streitkräfte des Imperiums, die in Doskvol stationiert sind. Garnisonen liegen in der Gaddoc Station, an Bord des Zerstörers „Paragon“ und in der Festung des Generalgouverneurs (mit einer Truppenstärke von insgesamt etwa 250).",
+         "type": "Obrigkeit"
+      },
+      "Ink Rakes": {
+         "name": "Tintenspeier",
+         "description": "Journalisten, Skandalreporter und Zeitungsherausgeber.",
+         "type": "Arbeit & Handel"
+      },
+      "Inspectors": {
+         "name": "Inspektoren",
+         "description": "Die Ermittler der Stadtwache. Sie sind bekannt für ihre Moral und Integrität (niemand kann sie also leiden). Sie sammeln Beweise für die Anklage vor den städtischen Magistraten.",
+         "type": "Obrigkeit"
+      },
+      "Ironhook Prison": {
+         "name": "Ironhook-Gefängnis",
+         "description": "Der Ort, an dem die meisten Schurken den Großteil ihres Lebens verbringen. Einige kriminelle Vereinigungen werden von Sträflingen aus dem Gefängnis heraus geleitet.",
+         "type": "Obrigkeit"
+      },
+      "Leviathan Hunters": {
+         "name": "Leviathanfänger",
+         "description": "Die waghalsigen Kapitäne und Besatzungen, die ausziehen, um mit den gigantischen Dämonen der Leeren See zu ringen, damit ihr Blut zu Elektroplasma verarbeitet werden kann.",
+         "type": "Obrigkeit",
+         "goal_1": "Neue Jagdgründe entdecken",
+         "goal_2": "Die Reserven versiegen",
+         "turf": "Die gewaltigen metallenen Docks für die riesigen Fängerschiffe und die zugehörigen Werften. Einige kleine private Leviathanblut-Raffinerien für die persönlichen Anteile der Kapitäne.",
+         "assets": "Die Leviathanfänger-Flotte (jedes Schiff wurde von einer Adelsfamilie, gebaut, die es besitzt und führt). Scharen ausgezeichneter Seeleute sowie Blitzwerk-Techniker, auf Dämonologie spezialisierte Flüsterer und von der Leeren See gezeichnete Navigatoren. Trupps von Marinesoldaten, die die Schiffe und ihre wertvolle Fracht auf See und im Hafen verteidigen.",
+         "notables": "Lord Strangford (Kapitän, rücksichtslos, arrogant, verseucht). Lady Clave (Kapitänin, waghalsig, grausam, versiert). Lady Ankhayat (iruvische Kapitänin, selbstsicher, charmant, Schurkin).",
+         "allies": "Stadtrat, Die Kirche der fleischlichen Verzückung, Seeleute, Hafenarbeiter, Funkenmacher.",
+         "enemies": "Die Grinders, Ministerium für Verpflegung, Der Weg des Widerhalls",
+         "situation": "Die Käpitäne wahren ein schreckliches Geheimnis: Die bekannten Jagdgründe für Leviathane sind bald leergefischt. Die unsterblichen Wesen, deren Wanderungen einst so zuverlässig waren, sind fortgezogen. Nun müssen neue Jagdgründe gefunden werden, bevor die Bluteserven aufgebraucht sind – der Betrieb der Blitzwälle und das Überleben der menschlichen Spezies hängt davon ab."
+      },
+      "Lord Scurlock": {
+         "name": "Lord Scurlock",
+         "description": "Ein uralter Adliger, dem nachgesagt wird, wie der Imperator unsterblich zu sein. Möglicherweise ein Vampir. Versessen auf arkane Geheimnisse.",
+         "type": "Unterschicht",
+         "goal_1": "Schuld gegenüber Setarra erfüllen",
+         "goal_2": "Arkane Geheimnisse erlangen (wiederkehrend)",
+         "turf": "Ein geheimes Versteck außerhalb der Stadt. Ein verfallenes Herrenhaus in Six Towers und die Katakomben darunter. Eine Reihe an Unternehmen und Schreinen in der ganzen Stadt, deren höheres Ziel nur Scurlock selbst kennt.",
+         "assets": "Eine beeindruckende Sammlung okkulter und arkaner Kuriositäten, Bücher und Sammlerstücke. Ein alter dämonischer Tempel.",
+         "quirks": "Scurlock ist immun gegen Geister, sie können ihn weder sehen, hören noch verletzen. Er bewegt sich geräuschlos und es ist manchmal schwierig, ihn direkt anzusehen.",
+         "notables": "Lord Scurlock (enigmatisch, kalt, undurchsichtig, altmodisch) ist zwar eine Einzelperson, aber so mächtig, dass er als Fraktion gilt. Er allein hat deshalb Stufe III inne und gilt in Konflikten als große Bande (20 Personen).",
+         "allies": "Stadtrat, Blauröcke, Inspektoren, Die Vergessenen Gottheiten.",
+         "enemies": "Seelenwächter, Der Unsterbliche Imperator",
+         "situation": "Lord Scurlock ist durch uralte Magie an die Dämonin Setarra gebunden. Wer dabei Herr und wer Diener, hat sich über die Jahrhunderte viele Male geändert. Jetzt muss Lord Scurlock eine Schuld begleichen. Setarra hat im Hafen ein Nest von Meeresdämonen entdeckt, seit dem Kataklysmus eingeschlossen in Stein. Die Dämonin versucht, sie daraus zu befreien und ihre blinde Wut auf die Welt der Menschen loszulassen. Scurlock muss ihr dabei helfen, falls er kein düsteres Schicksal erleiden will."
+      },
+      "Ministry of Preservation": {
+         "name": "Ministerium für Verpflegung",
+         "description": "Beaufsichtigt den Transport zwischen den Städten sowie die Verteilung von Nahrung und anderen wichtigen Ressourcen.",
+         "type": "Obrigkeit",
+         "goal_1": "Die Leviathanfänger unter ihre Kontrolle bringen",
+         "turf": "Das Elektroschienennetz des Imperiums. Strahlende Höfe, Aalzuchten und andere Landwirtschaftsbetriebe überall in der Stadt.",
+         "assets": "Eine Flotte Frachtschiffe mitsamt bewaffneten Eskorten. Eine bedeutende Schatzkammer, die sich aus Steuergeldern und Transport-Lizenzen speist. Die Schienentreiber, die die Zugverbindungen begleiten. Ein privater Söldnertrupp, der einzig dem Ministerium verpflichtet ist.",
+         "quirks": "",
+         "notables": "Lord Dalmore (ranghöchster Ministerialbeamter in Doskvol, bestimmend, intelligent). Lady Slane (operative Leiterin, wissend, raffiniert, effektiv). Kapitän Lannock (Söldnerkommandant, durchtrieben, rücksichtslos).",
+         "allies": "Die Billhooks, Imperiales Militär, Schienentreiber, Funkenmacher.",
+         "enemies": "Leviathanfänger.",
+         "situation": "Die Führung des Ministeriums ist der Meinung, dass der Leviathanfang zu wichtig für die öffentliche Wohlfahrt sei, als dass man ihn zänkischen Adelsfamilien und ihren kleinlichen Rivalitäten und Fehden überlassen dürfe. Agenten des Ministeriums wurden mit Spionage- und Sabotagemissionen sowie politischem Vorgehen beauftragt, um die Fänger langfristig unter die Kontrolle des Ministeriums zu bringen."
+      },
+      "Rail Jacks": {
+         "name": "Schienentreiber",
+         "description": "Die Männer und Frauen, die die Elektrozüge des Imperiums vor den grausamen Geistern der Siechlande beschützen. Sie denken seit kurzem laut darüber nach, eine Gewerkschaft zu gründen.",
+         "type": "Arbeit & Handel"
+      },
+      "Sailors": {
+         "name": "Seeleute",
+         "description": "Die Kapitäne und Crews der Handelsschiffe und der Kriegsmarine.",
+         "type": "Arbeit & Handel"
+      },
+      "Skovlander Refugees": {
+         "name": "Skovische Geflüchtete",
+         "description": "Überlebende des Vereinigungskriegs, die keine andere Möglichkeit haben, als sich mit kriminellen Aktivitäten über Wasser zu halten.",
+         "type": "Anderweltliches"
+      },
+      "Sparkwrights": {
+         "name": "Funkenmacher",
+         "description": "Die Ingenieure, die den Blitzwall warten. Als Pioniere neuer Technik oft mit Begeisterung in gefährliche Forschung verwickelt.",
+         "type": "Obrigkeit",
+         "goal_1": "Alternativen Treibstoff entwickeln",
+         "turf": "Eine riesige Anlage in Coalridge mit Werkstätten, einer Fabrik und Planungsbüros.",
+         "assets": "Die elektroplasmatischen Generatoren, die Straßenbeleuchtung, der Blitzwall und dazugehörige Einrichtungen und Systeme in der ganzen Stadt.",
+         "notables": "Una Farros (Lehrende an der Charterhall-Universität, neugierig, eitel, berühmt).",
+         "allies": "Stadtrat, Leviathanfänger, Das Ministerium für Verpflegung.",
+         "enemies": "Der Weg des Widerhalls, Die Ausgesöhnten, Das Fundament.",
+         "situation": "Die Funkenmacher arbeiten im Geheimen seit Jahrhunderten an einem alternativen Treibstoff, der Leviathanblut als Energiequelle für die Blitzwälle des Imperiums ersetzen könnte. Einige Forscher standen kurz vor dem Durchbruch, kamen aber jedes Mal bei „Unfällen“ ums Leben, bei denen auch ihre gesamte Arbeit zerstört wurde (sicherlich arrangiert vom Adel, dessen gesamte Herrschaft auf dem Monopol für Leviathanfang beruht). Trotzdem gibt es immer einzelne waghalsige Visionäre, die bereit sind, die Bruchstücke wieder zusammenzuführen und die Arbeit zu vollenden, selbst wenn sie damit ihr eigenes Leben riskieren. Wird jemand von ihnen es diesmal schaffen oder werden auch sie Opfer der tödlichen Agenten der Mächtigen?"
+      },
+      "Spirit Wardens": {
+         "name": "Seelenwächter",
+         "description": "Die maskierten Jäger, die herumirrende Geister zerstören. Sie betreiben auch das Krematorium, wo sie Leichname ordentlich entsorgen.",
+         "type": "Obrigkeit",
+         "goal_1": "Den Spion entlarven",
+         "turf": "Das Bellweather-Krematorium. Das Anwesen des Obersten Wächters in Whitecrown.",
+         "assets": "Die Seelenglocken, die läuten, wann immer jemand in der Stadt stirbt, und die Todsucher-Krähen, die losfliegen und den Körper finden (alt, arkan). Scharen von ausgezeichneten Flüsterern. Fortschrittlichste spektrologische und Blitzwerk-Ausrüstung, darunter einige Geisterjäger-Gehäuse.",
+         "quirks": "Die Mitgliedschaft bei den Wächtern ist geheim und anonym. Wächter brechen alle Kontakte ab und haben deshalb keine Familien oder Beziehungen, außer zu anderen Seelenwächtern.",
+         "notables": "Es gibt keine bekannten Seelenwächter, alle Mitglieder stammen ursprünglich nicht aus Duskwall und bleiben anonym, einzig durch Codenamen bezeichnet. Eine Person namens „Bakoros“ (hinter der möglicherweise auch mehrere Personen stecken) lehrt manchmal an der Fakultät für Unsterblichkeitsstudien der Akademie zu Doskvol.",
+         "allies": "Die Kirche der fleischlichen Verzückung, Siechland-Plünderer.",
+         "enemies": "Die Fahlen Schwestern, Gondolieri, Lord Scurlock, Die Silbernägel, Die Unsichtbaren, Der Weg des Widerhalls, Die Ausgesöhnten.",
+         "situation": "Die Seelenwächter wissen, dass ein Feind versucht, ihre Reihen zu unterwandern (aber sie wissen noch nicht, dass es die Unsichtbaren sind). Sie stellen diesem Feind nun eine Falle, um die Identität des Spions festzustellen – und um ihn auszuschalten."
+      },
+      "The Billhooks": {
+         "name": "Die Billhooks",
+         "description": "Eine knallharte Schlägertruppe mit Beilen, Fleischerhaken und Stangenwaffen.",
+         "type": "Unterschicht",
+         "goal_1": "Magistrate terrorisieren, damit inhaftierte Mitglieder begnadigt werden",
+         "turf": "Ein Fleischerladen (Hauptquartier), ein Viehhof und ein Schlachthaus. Tierkampfarenen und Spielhallen. Mehrere Geschäfte und eingeschüchterte Händler, die Schutzgeld zahlen.",
+         "assets": "Eine große Bande blutrünstiger Fleischer. Ein Rudel Kampfhunde.",
+         "quirks": "Die Billhooks pflegen ihren blutigen Ruf, indem sie die verunstalteten Leichenteile ihrer Opfer grausig zur Schau gestellt zurücklassen. Viele fragen sich, warum die Blauröcke vor diesen bestialischen Schauspielen die Augen verschließen.",
+         "notables": "Tarvul (Oberhaupt, lebenslang im Gefängnis, brutal, arrogant, familiär). Erin (Anführerin, Tarvuls Schwester, selbstsicher, tödlich, ehrgeizig). Coran (Schläger, Tarvuls Sohn, kämpferisch, loyal, ruhig).",
+         "allies": "Blauröcke, Das Ministerium für Verpflegung.",
+         "enemies": "Ulf Eisenbart, Die Verlorenen, Bürgerschaften von Crow’s Foot und den Docks.",
+         "situation": "Erin und Coran wollen beide die Führung über die Billhooks an sich reißen, entweder wenn Tarvul zu alt dafür wird (und das ist bald) oder mit Gewalt. Beide haben nichts füreinander übrig und keinerlei Scheu vor einer Familienfehde, um die Kontrolle zu erlangen. Unterdessen ist der Rest der Gang damit beschäftigt, ihr Terrorregime aufrechtzuerhalten und das Gericht so unter zu Druck setzen, dass Tarvul und andere Mitglieder aus Ironhook entlassen werden."
+      },
+      "The Brigade": {
+         "name": "Die Wehr",
+         "description": "Die Feuerwehr der Stadt. Geliebt für ihre Heldentaten, gehasst für ihre Brandschatzung und Schutzgelderpressung. Auch bekannt als „Sallies“ (von „Salamandern“, ihrem alten Namen).",
+         "type": "Obrigkeit"
+      },
+      "The Church of Ecstasy": {
+         "name": "Die Kirche der Verzückung",
+         "description": "Die „Staatsreligion“ huldigt dem körperlichen Leben und verabscheut die korrumpierte Seelenwelt. Im Grunde eine Geheimgesellschaft.",
+         "type": "Anderweltliches",
+         "goal_1": "Das Geheimnis des Aufstiegs wird entschlüsselt",
+         "goal_2": "Die Ausgesöhnten beseitigen",
+         "turf": "Das Sanktorium, die Kathedrale in Brightstone. Viele andere kleinere Tempel in der Stadt.",
+         "assets": "Eine große, mit den Zehntabgaben der Bürger angefüllte Schatzkammer.Umfangreiche arkane und okkulte Bibliotheken, Werkstätten und Artefakte. Scharen von Altardienern und Hohlen, die den Willen der Kirchenführung durchsetzen.",
+         "quirks": "Übereifrige Gläubige melden sich freiwillig, „gereinigt“ und zu Hohlen zu werden. Das war einst gängig im alten Kult des Leeren Gefäßes, aus dem die Kirche hervorgegangen ist.",
+         "notables": "Rowan, der Älteste (Anführer, fromm, entschlossen, visionär). Präzeptor Dunvil (Forscher für das Arkane, unkonventionell, obsessiv, enigmatisch).",
+         "allies": "Stadtrat, Leviathanfänger, Seelenwächter.",
+         "enemies": "Der Weg des Widerhalls, Die Ausgesöhnten.",
+         "situation": "Die reinsten Wesen (nach der geheimen Lehre der Kirche) sind jene ganz ohne Seelen: die Dämonen. Dämonen sind unsterblich, verfallen aber nie dem Wahnsinn oder der Lust des Hungers, wie das herumirrende Geister und Vampire tun. Sie sind perfekt – und die Frommsten der Kirche streben danach, das Geheimnis des Aufstiegs zu entschlüsseln und wie sie zu werden. Viele düstere Experimente und Rituale mit Gehäusen, Hohlen, Vampiren – und hin und wieder einem Dämonen – werden dazu in den labyrinthartigen Kellern unter der zentralen Kathedrale in Brightstone durchgeführt."
+      },
+      "The Circle of Flame": {
+         "name": "Der Zirkel der Flamme",
+         "description": "Eine feine Geheimgesellschaft von Gelehrten; Deckmantel für Bestechung, Laster und Mord.",
+         "type": "Unterschicht",
+         "goal_1": "Artefakte von Qotar werden beschafft",
+         "turf": "Der Centuralia-Club, Six Towers (Hauptquartier).",
+         "assets": "Eine gewaltige Schatzkammer. Beeindruckende Sammlung alter Artefakte, Karten und Sammlerstücke. Hervorragend ausgebildete, sehr diskrete Sicherheitskräfte.",
+         "quirks": "Eine Person in den Reihen der Sieben ist eigentlich ein getarnter Dämon.",
+         "notables": "Die Sieben (Führung): Elstera Avrathi (Iruvische Diplomatin, geheimnisvoll, gütig), Lady Drake (Magistratin, gewieft, rücksichtslos), Raffello (Maler, visionär, obsessiv), Lord Mora (vornehm, kalt, argwöhnisch), Lady Penderyn (Adliger, charmant, geduldig), Madame Tesslyn (Versorgerin, weltgewandt, raffiniert), Harvale Brogan (Versorger, durchtrieben, ruhig).",
+         "allies": "Die Vergessenen Gottheiten, Der Weg des Widerhalls, Stadtrat, Das Fundament.",
+         "enemies": "Der Stock, Die Silbernägel.",
+         "situation": "Der Zirkel verfügt über eine umfangreiche Bibliothek an Fachliteratur, in der viele der arkanen Artefakte und wertvollen Schätze aufgeführt sind, die mit dem Verlorenen Bezirk außerhalb des Blitzwalls untergegangen sind. Von speziellem Interesse sind dabei die Überreste von Qotar, einem sagenumwobenen Magier, Dämon oder Helden, der vor dem Kataklysmus mumifiziert wurde. Das Auge, die Hand und das Herz von Qotar sollen Erzählungen zufolge denjenigen zu großer Macht verhelfen, die sie einzusetzen wagen."
+      },
+      "The Crows": {
+         "name": "Die Crows",
+         "description": "Eine alte Gang unter neuer Führung. Bekannt dafür, illegales Glücksspiel zu betreiben und Schutzgeld zu erpressen.",
+         "type": "Unterschicht",
+         "goal_1": "Die Kontrolle über Crow’s Foot zurückerlangen",
+         "goal_2": "Eine Stufe aufsteigen",
+         "turf": "Sie beanspruchen ganz Crow’s Foot als Revier und stehen an der Spitze der Hackordnung im Bezirk. Ihr Hauptquartier liegt in einem verlassenen Turm der Stadtwache. Sie betreiben Spielhallen in Crow’s Foot und erpressen Schutzgeld an den Docks.",
+         "assets": "Eine erfahrene Bande von Schlägern und Mördern. Einige kleine Boote. Ein befestigtes Hauptquartier.",
+         "quirks": "Rorics Leichnam verschwand nach dem Mord an ihm (er fiel in einen Kanal). Nun sucht sein rachsüchtiger Geist die Stadt heim.",
+         "notables": "Lyssa (Anführerin, ungestüm, mörderisch, adlige Familie). Bell (Stellvertreterin, loyal).",
+         "allies": "Blauröcke, Seeleute, Die Verlorenen, Bürgerschaft von Crow’s Foot.",
+         "enemies": "Der Stock, Inspektoren, Hafenarbeiter.",
+         "situation": "Lyssa ermordete den früheren Boss der Crows, Roric. Sie ist eine gefürchtete Killerin und die wenigsten wollen ihr in die Quere kommen. Jedoch ist ihre Stellung als Anführerin der Crows unsicher, da einige von ihnen Roric gegenüber sehr loyal waren. Solange dieser Machtkampf anhält, könnten die Crows den Bezirk aus dem Griff verlieren."
+      },
+      "The Dimmer Sisters": {
+         "name": "Die fahlen Schwestern",
+         "description": "Einsiedlerinnen mit okkultem Ruf, die nie das Haus verlassen.",
+         "type": "Unterschicht",
+         "goal_1": "Den Seelenhandel beherrschen",
+         "goal_2": "Arkane Geheimnisse erlangen (wiederkehrend)",
+         "turf": "Ein schönes altes Herrenhaus samt Gelände (Hauptquartier) sowie die alten Tempelruinen und der unterirdische Kanal darunter. Apotheker und Hexen in ihrem Dienst.",
+         "assets": "Ein privater Elektroplasma-Generator, ein Blitzwall und Geisterbehältnisse. Viele Geister, die in ihrer Knechtschaft stehen.",
+         "quirks": "Die genaue Anzahl an Schwestern ist nicht bekannt. Manche erzählen sich, sie seien eine alte Familie von Geistern, die von Menschen Besitz ergreifen würden. Andere sagen, sie seien Vampire. Eins jedoch ist allgemein bekannt: Wer in dieses Haus geht, kommt nicht wieder raus.",
+         "notables": "Die Schwestern haben keine Anführerin, ihre wahren Namen sind nicht bekannt. Roslyn (Dienerin, geduldig, loyal, undurchsichtig) kümmert sich um die Kontakte außerhalb des Hauses. Irelen (Blitzwerk-Tüftlerin, loyal, enigmatisch, obsessiv).",
+         "allies": "Die Vergessenen Gottheiten, Das Fundament.",
+         "enemies": "Seelenwächter, Die Ausgesöhnten.",
+         "situation": "Die Schwestern arbeiten seit Jahrzehnten langsam und geheim an einem Monopol auf den Handel mit gefangenen Geistern und Seelenessenzen in Doskvol. Nur mehr ein paar wenige Konkurrenten stehen zwischen ihnen und der totalen Kontrolle dieses Marktes. Haben sie einen Hintergedanken dabei, so viele Geister und Essenzen aufzukaufen, oder geht es ihnen nur um Reichtum und Macht?"
+      },
+      "The Fog Hounds": {
+         "name": "Die Fog Hounds",
+         "description": "Eine Mannschaft grober Schmuggler auf der Suche nach einem Patron.",
+         "type": "Unterschicht",
+         "goal_1": "Konkurrierende Schmuggler beseitigen",
+         "goal_2": "Eine Stufe aufsteigen",
+         "turf": "Unterirdisches Dock an den Kanälen (Hauptquartier). Die Kanäle der Schmuggelrouten im Norden und Osten der Stadt. Routen in die nördliche Leere See. Versteckte Vorräte beim Alten Nordhafen.",
+         "assets": "Mittelgroßes Dampfschiff, die „Fog Hound“. Eine Mannschaft aus abgebrühten, zähen Seebären – allesamt frühere Frachtschiffer der Leeren See, die von den neuen Elektrozug-Verbindungen arbeitslos gemacht wurden. Imperiale Papiere für Transport und Fracht, teils gefälscht, teils echt.",
+         "quirks": "Nach den zahllosen Fahrten auf der Leeren See bleiben Vale und ihre Mannschaft oft unter sich und halten wenig von anderen, die sich noch nicht in ähnlicher Form bewiesen haben. Hat man sie aber einmal für sich gewonnen, ist ihre Loyalität stark und unerschütterlich.",
+         "notables": "Margette Vale (Anführerin, ruhig, kalt, furchtlos). Bear (Stellvertreter, kämpferisch, launisch, ungestüm). Goldie (Navigatorin, berechnend, geduldig, selbstsicher).",
+         "allies": "Hafenarbeiter, Die Lampblacks.",
+         "enemies": "Kanalpatrouillen der Blauröcke, Die Vultures (eine konkurrierende Schmuggler-Gang, Stufe I).",
+         "situation": "Vale und ihre Mannschaft beherrschen die nördlichen Schmuggelrouten in und aus der Stadt. Sie versuchen, die wenigen verbliebenen Konkurrenten entweder zu sich zu holen oder zu beseitigen und dann verlässliche, regelmäßige Arbeit für einen Patron zu finden, der ständig Schmuggelware braucht."
+      },
+      "The Forgotten Gods": {
+         "name": "Die vergessenen Gottheiten",
+         "description": "Kulte, die versuchen, den alten Riten aus der Zeit vor dem Kataklysmus zu folgen, und die Dämonen oder dunkleren Wesen dienen. Es gibt viele Kulte, aber sie sind untereinander kaum organisiert. Ein einzelner Kult hat normalerweise Stufe I oder Stufe II"
+      },
+      "The Foundation": {
+         "name": "Das Fundament",
+         "description": "Der alte und mächtige und Orden der Architekten und Baumeister. Viele seiner Feinde sind schon hinter den Mauern von Doskvol verschwunden.",
+         "type": "Arbeit & Handel"
+      },
+      "The Gray Cloaks": {
+         "name": "Die Grauröcke",
+         "description": "Ehemalige Blauröcke, die sich der Kriminalität zugewandt haben, nachdem sie als Sündeböcke aus der Stadtwache entlassen wurden.",
+         "type": "Unterschicht",
+         "goal_1": "Six Towers als ihr Revier fest in den Griff bekommen",
+         "goal_2": "Ihren Rauswurf rächen",
+         "turf": "Der Keller eines niedergebrannten Wachpostens (Hauptquartier). Mehrere Wohnungen über einem Tabakladen in Six Towers. Eine Kampfarena und Spielhalle.",
+         "assets": "Die Grauröcke konnten andere ehemalige Blauröcke für ihre Gang gewinnen und haben damit eine große Truppe an geschulten Schlägern. Sie haben immer noch ihre alten Uniformen und Marken und nutzen sie oft, um sich als Stadtwache auszugeben.",
+         "notables": "Nessa (Anführerin, gewissenhaft, waghalsig). Hutch (Stellvertreter, ungestüm, kämpferisch).",
+         "allies": "Inspektoren.",
+         "enemies": "Blauröcke, Lord Strangford (Leviathanfänger).",
+         "situation": "Die Grauröcke sind alle ehemalige Blauröcke, die für ein Verbrechen beschuldigt werden, das ihr Wachkommandant begangen hat. Klar, sie haben von der Stadt ein wenig Geld abgezweigt und Schmiergelder angenommen wie alle anderen auch, aber sie haben zumindest nicht den Wachposten niedergebrannt und damit die Beweise im Fall Lord Strangford (von den Leviathanfängern) zerstört. Einige Inspektoren, die an dem Fall dran waren, kennen die Wahrheit, können aber nichts beweisen – noch nicht. Lord Strangford würde gut dafür bezahlen, diese Altlasten für immer loszuwerden."
+      },
+      "The Grinders": {
+         "name": "Die Grinders",
+         "description": "Eine brutale Bande früherer Hafen- und Blutraffinerie-Arbeiter.",
+         "type": "Unterschicht",
+         "goal_1": "Eine Mannschaft aufstellen, ein Kriegsschiff stehlen",
+         "goal_2": "Die Kriegskasse füllen",
+         "turf": "Verlassenes Lagerhaus an den Docks (Hauptquartier) und unterirdisches Kanaldock.",
+         "assets": "Ein paar kleine Kanalboote. Sprengstoff und Abrisswerkzeug.",
+         "quirks": "Viele der Grinders sind vom giftigen Regen, der Lockport plagt, mutiert.",
+         "notables": "Hutton (Anführer, selbstsicher, sprunghaft). Sercy (Stellvertreterin, versehrt, aufsässig). Derret (härtestes Mitglied, riesig, durchtrieben).",
+         "allies": "Ulf Eisenbart, Hafenarbeiter.",
+         "enemies": "Blauröcke, Imperiales Militär, Leviathanfänger, Seeleute, Die Silbernägel.",
+         "situation": "Die Stadt Lockport im Norden von Skovlan verarbeitet 90 % des Dämonenbluts, das die Leviathanfänger-Schiffe von Doskvol absaugen (die Fänger liefern ihre unverarbeitete Fracht in Lockport ab, bevor sie die Laderäume mit raffiniertem Blood wieder auffüllen und nach Doskvol zurückkehren, wo Reparaturen durchgeführt werden und die Besatzung nach den Verlusten an die Leere See wieder vollständig bestückt wird). Aus den riesigen Raffinerien von Lockport erhebt sich eine stinkende Wolke an giftigen Dämpfen und saurem Regen über die Stadt. Eine Gruppe von Hafen- und Raffineriearbeitern aus Skovlan ist deshalb nach Doskvol gereist, um hier eine Armee aufzustellen, ein Kriegsschiff zu kapern, damit die Kontrolle über Lockport wiederzuerlangen und die Raffinerien des Imperiums zu zerstören. Sie nennen sich selbst „die Grinders“ und versuchen mit allerlei Verbrechen Geld für ihre Mission aufzustellen. Besonders häufig stürmen, plündern und übernehmen sie Frachtkähne überall in der Stadt."
+      },
+      "The Hive": {
+         "name": "Der Stock",
+         "description": "Eine Handelsgilde, die im Geheimen Schmuggelware verkauft. Benannt nach ihrem Symbol, einer goldenen Biene.",
+         "type": "Unterschicht",
+         "goal_1": "Den Schmuggelmarkt kontrollieren",
+         "goal_2": "Den Mord an Roric rächen",
+         "turf": "Viele Läden, Kneipen, Cafés, Lagerhäuser und andere Handelsposten überall in der Stadt. Kein zentrales Hauptquartier.",
+         "assets": "Eine riesige Schatzkammer. Elitesöldner unter Vertrag. Eine Flotte Transportschiffe, Fuhrwerke, Kutschen und private Zügen.",
+         "quirks": "Der Stock ist bekannt dafür, Geschäftsbeziehungen mit okkulten oder arkanen Gruppen zu meiden. Entsprechend ist die Kirche der fleischlichen Verzückung, die den Aberglauben und die unheimlichen Praktiken der Vergangenheit ablehnt, beliebt unter den Mitgliedern des Stocks.",
+         "notables": "Djera Maha (Anführerin, kühn, strategisch, selbstsicher). Karth Orris (Söldnerkommandant, rücksichtslos, wissend, eifersüchtig).",
+         "allies": "Ministerium für Verpflegung, Konsulat der Dolchinseln.",
+         "enemies": "Der Zirkel der Flamme, Die Unsichtbaren, Die Crows, Die Wraiths.",
+         "situation": "Djera Maha wuchs als Waise auf den Dolchinseln auf. Von dort aus arbeitete sie sich in allen Banden entlang der Handelsrouten nach Doskvol hoch und lernte dabei die Kunst des Verbrechens. Mit ihrem Netzwerk für Anschaffungen und Vertrieb in der ganzen Stadt (und auch im Ministerium für Verpflegung) ist sie drauf und dran, den ganzen Schmuggelwarenmarkt zu übernehmen. Maha hatte eine enge (und angeblich romantische) Beziehung zum vormaligen Anführer der Crows, Roric, der vor kurzem von seiner Stellvertreterin ermordet wurde."
+      },
+      "The Horde": {
+         "name": "Die Horde",
+         "description": "Ein Mob von Hohlen, die ein fürchterliches Ziel eint und die von einer unbekannten Macht kontrolliert werden.",
+         "type": "Anderweltliches"
+      },
+      "The Lampblacks": {
+         "name": "Die Lampblacks",
+         "description": "Die ehemalige Zunft der Laternenanzünder, die sich der Kriminalität zugewandt haben, nachdem die elektrischen Lichter ihre Arbeit überflüssig machten.",
+         "type": "Unterschicht",
+         "goal_1": "Die Rotschärpen zerschlagen",
+         "goal_2": "Crow’s Foot an sich reißen",
+         "turf": "Ihr Hauptquartier sind die Geschäftsräume eines Kohlenlagerhauses. Sie betreiben eine Handvoll Bordelle und billige Drogenhöhlen in ganz Crow’s Foot.",
+         "assets": "Eine furchteinflößende Bande von Knochenbrechern und Unruhestiftern. Eine Reihe Schmuggler, die von ihnen dafür bezahlt werden, ihre Drogen auszuliefern.",
+         "quirks": "Bazso Baz ist Mitglied einer Geheimgesellschaft (der Kult der Vergessenen Gottheit „Das Leere Gefäß“) und die Bedürfnisse dieser Gesellschaft sind ihm bisweilen wichtiger als das Wohlergehen seiner Gang.",
+         "notables": "Bazso Baz (Anführer, charmant, offen, rücksichtslos, Whiskeykenner). Pickett (Stellvertreter, durchtrieben, hinterhältig, argwöhnisch). Henner (Schläger, loyal, rücksichtslos).",
+         "allies": "Die Fog Hounds, Gondolieri, Ironhook-Gefängnis.",
+         "enemies": "Die Rotschärpen, Blauröcke, Kutscher.",
+         "situation": "Die Lampblacks und die Rotschärpen befinden sich in Revier- und Vergeltungskriegen. Bazso Baz heuert alle verfügbaren Messerstecher im Bezirk als zusätzliche Schläger an und duldet keinen Widerspruch. Man ist entweder für ihn oder gegen ihn. Politisch sind die Lampblacks nicht besonders gut vernetzt, aber unter der Arbeiterschaft sind sie quasi Volkshelden und gelten als „liebenswürdige Schurken“, die es mit der Obrigkeit aufnehmen."
+      },
+      "The Lost": {
+         "name": "Die Verlorenen",
+         "description": "Eine Bande von Straßenschlägern und früheren Soldaten, die sich dem Schutz der Unterdrückten und Hoffnungslosen verschrieben haben.",
+         "type": "Unterschicht",
+         "goal_1": "Grausame Arbeitshäuser zerstören (wiederkehrend)",
+         "goal_2": "",
+         "turf": "Umgebauter Bahnwaggon (Hauptquartier). Die von Armut geplagten Straßen von Coalridge und Dunslough.",
+         "assets": "Eine äußerst erfahrene Bande von vormaligen Schlägern, Killern und imperialen Soldaten.",
+         "quirks": "Die Verlorenen haben alle in ihrem früheren Leben Furchtbares getan und glauben jetzt, sie müssten für ihre „Sünden“ Buße tun. Jedes Mitglied bewahrt einen Haufen Steine unter dem Bett, einen für jede Sünde, die es gilt, mit einer gerechten Tat aufzuwiegen.",
+         "notables": "Cortland (Anführer, idealistisch, aufrichtig, ungezwungen).",
+         "allies": "Zuchthaus-Arbeiter, Bürgerschaft von Coalridge und Dunslough, Die Crows.",
+         "enemies": "Vorarbeiter der Zuchthäuser, Blauröcke, Die Billhooks.",
+         "situation": "Die Verlorenen konzentrieren sich gerade ganz auf Coalridge und gehen dort gezielt mit Sabotage, Terror und brutaler Prügel gegen die berüchtigt grausamen Vorarbeiter der Arbeitshäuser vor. Die ohnehin bereits brodelnden Bemühungen zu einer Gewerkschaftgründung werden durch diese Angriffe der Verlorenen noch ermutigt. Die lokalen Patrouillen der Blauröcke beschweren sich neuerdings bei ihren Vorgesetzten, dass sie zusätzliche Unterstützung aus anderen Bezirken bräuchten. Inzwischen geben die Vorarbeiter bekannt, dass sie gutes Geld dafür zahlen, wenn sich jemand um die Verlorenen kümmert"
+      },
+      "The Path of Echoes": {
+         "name": "Der Weg des Widerhalls",
+         "description": "Ein Mysterienkult, der beinahe offen gegen die Seelengesetze rebelliert. Mitglieder verehren das Altertum und versuchen, Wissen über die Vergangenheit zu erlangen, auch indem sie mit Geistern verkehren.",
+         "type": "Anderweltliches"
+      },
+      "The Reconciled": {
+         "name": "Die Ausgesöhnten",
+         "description": "Eine Vereinigung uralter Geister, die sich über die Jahre ihre Menschlichkeit bewahrt haben.",
+         "type": "Anderweltliches",
+         "goal_1": "Den Stadtrat unterwandern",
+         "goal_2": "Die Kirche der fleischlichen Verzückung unterwandern",
+         "turf": "Nirgendwo.",
+         "assets": "Mehrere geheime und verborgene Seelenquellen in der Stadt und in den Siechlanden, aus denen die Ausgesöhnten arkane Energie schöpfen, um zu überleben.",
+         "quirks": "Die Seelen der Ausgesöhnten verlieren ihren Verstand nicht und werden nicht von ihren Rachegelüsten verzehrt, wie das bei anderen Geistern der Fall ist. Sie können ganz ohne Nebenwirkungen auf unbestimmte Zeit von jemandem Besitz ergreifen.",
+         "notables": "Die Ausgesöhnten haben von einigen wichtigen Bürgern Doskvols Besitz ergriffen. Ihre genaue Mitgliedschaft ist nicht bekannt.",
+         "allies": "Stadtrat, Gondolieri.",
+         "enemies": "Die Kirche der fleischlichen Verzückung, Seelenwächter, Funkenmacher.",
+         "situation": "Die Ausgesöhnten sind uralt und weise. Sie sehen sich selbst als die wahren und gerechten Herrscher, die Duskwall braucht. Einzelne Mitglieder des Stadtrats wurden in den Weg des Widerhalls aufgenommen und werden so bald anfällig für die Besessenheit durch die Ausgesöhnten sein. Diese Räte sind auch hochrangige Mitglieder der Kirche der fleischlichen Verzückung, was den Ausgesöhnten Gelegenheit bieten wird, auch diese Organisation zu unterwandern."
+      },
+      "The Red Sashes": {
+         "name": "Die Rotschärpen",
+         "description": "Ursprünglich eine iruvische Schwertkampfschule, jetzt ausgeweitet auf kriminelle Unterfangen.",
+         "type": "Unterschicht",
+         "goal_1": "Die Lampblacks zerstören",
+         "goal_2": "Crow’s Foot an sich reißen",
+         "turf": "Ihr Hauptquartier ist Schwertkampfschule und Tempel zugleich. Sie betreiben außerdem eine Handvoll erstklassiger Drogenhöhlen in Crow’s Foot und den Docks.",
+         "assets": "Ein kleines Aufgebot an meisterhaften Schwertkämpfern. Ein Meisteralchemist, viele mächtige Tränke und Essenzen.",
+         "quirks": "Einige Mitglieder der Rotschärpen sind die Söhne und Töchter iruvischer Adliger und Diplomaten in Doskvol. Sie trainieren Schwertkampf an der Schule und nehmen manchmal an Bandenumtrieben teil. Ihre Familien sind mächtig und werden viel investieren, um alle zu bestrafen, die es wagen sollten, ihre Kinder zu verletzen.",
+         "notables": "Mylera Klev (Anführerin, durchtrieben, rücksichtslos, gebildet, Kunstsammlerin).",
+         "allies": "Iruvisches Konsulat, Der Weg des Widerhalls, Hafenarbeiter, Kutscher, Inspektoren.",
+         "enemies": "Die Lampblacks, Blauröcke, Gondolieri.",
+         "situation": "Die Rotschärpen und die Lampblacks befinden sich in Revier- und Vergeltungskriegen. Mylera heuert alle verfügbaren Messerstecher im Bezirk als zusätzliche Schläger an und duldet keinen Widerspruch. Man ist entweder für sie oder gegen sie. Die Rotschärpen sind gut vernetzt und konnten ehemalige Schüler ebenso beim Iruvischen Konsulat unterbringen wie beim Weg des Widerhalls und bei den Inspektoren."
+      },
+      "The Silver Nails": {
+         "name": "Die Silbernägel",
+         "description": "Ein severosischer Söldnertrupp, der im Vereinigungskrieg für das Imperium gekämpft hat. Berühmte Geisterschlächter.",
+         "type": "Unterschicht",
+         "goal_1": "Geister im Verlorenen Bezirk zerstören",
+         "goal_2": "Den Verlorenen Bezirk unter ihre Kontrolle bringen",
+         "turf": "Ein großes Gasthaus – das „Mustang“ – mit herausragenden Ställen (Hauptquartier).",
+         "assets": "Eine Reihe auserlesener severosischer Kavalleriepferde, furchtlos, schnell und für die Jagd und den Kampf mit Geistern trainiert. Arkane Lanzen.",
+         "quirks": "Jedes Mitglied trägt einen Ring aus einem Silbernagel, der gegen Besessenheit schützt. Alle sind in der Geisterkrieger-Sonderfähigkeit (des Schnitters) geübt.",
+         "notables": "Seresh (Anführer, kühn, ungestüm, aufsässig). Tuhan (erste Kundschafterin, kühn, gewieft, charmant).",
+         "allies": "Imperiales Militär, Seeleute, Severosisches Konsulat.",
+         "enemies": "Der Zirkel der Flamme, Die Grinders, Skovisches Konsulat, Skovische Geflüchtete, Seelenwächter.",
+         "situation": "Durch ihre Erfahrung als Kavallerie in den severosischen Siechlanden sind die Silbernägel bestens vorbereitet, das Sperrgebiet des Verlorenen Bezirks außerhalb des Blitzwalls zu erforschen. Sobald die schlimmsten Geister von dort vertrieben oder zerstört sind, können die Silbernägel die Kontrolle übernehmen und die längst vergessenen Schätze und Artefakte in den Ruinen plündern. (Im Moment kontrollieren die Seelenwächter den Zugang zum Verlorenen Bezirk und tun alles in ihrer Macht Stehende, um die Silbernägel – und alle anderen – draußen zu halten)."
+      },
+      "The Unseen": {
+         "name": "Die Unsichtbaren",
+         "description": "Eine heimtückische kriminelle Organisation mit geheimer Mitgliedschaft. Angeblich die Strippenzieher der ganzen Unterwelt.",
+         "type": "Unterschicht",
+         "goal_1": "Die Seelenwächter unterwandern",
+         "goal_2": "Sich in anderen Städten ausbreiten",
+         "turf": "Eine Vielzahl von Lasterhöhlen. Überall, wo Schutzgeld erpresst wird; praktisch niemand weiß, dass er an die Unsichtbaren zahlt. Einige opulente Stadthäuser, die als sicherer Unterschlupf dienen.",
+         "assets": "Eine Armee von Schlägern, Dieben und Meuchelmördern, die auf Abruf für ihre geheimen Bosse zur Verfügung stehen.",
+         "quirks": "Dass die Unsichtbaren völlig geheim operieren, ist einem arkanen Ritual zu verdanken. Die Kernmitglieder erkennen einander durch einen eingestimmten Blick. Außenstehende, die die Identität eines Mitglieds herausfinden, werden allerdings zum Opfer des Rituals und verlieren diese Erinnerung nach wenigen Augenblicken wieder.",
+         "notables": "Der Turm (Oberhaupt). Der Stern (rechte Hand). Grull (Person fürs Grobe in der Mitte der Hackordnung, aber mit großen Zielen, fährt die Kutsche als Tarnung).",
+         "allies": "Blauröcke, Ironhook-Gefängnis, Die Vergessenen Gottheiten, Chiffren.",
+         "enemies": "Tintenspeier, Der Stock, Seelenwächter.",
+         "situation": "Die Unsichtbaren gieren nach der Macht und Autorität der Seelenwächter, deren geheime Mitgliedschaft bisher jedem Versuch der Unterwanderung standgehalten hat. Der Turm und Der Stern planen nun, Agenten in die Reihen der Wächter einzuschleusen und von innen die Kontrolle zu erlangen"
+      },
+      "The Weeping Lady": {
+         "name": "Die weinende Dame",
+         "description": "Ein Wohltätigkeitsverein und eine Quasi-Religion. Hält das Erbe von Lady Devera hoch, der ersten Generalgouverneurin von Doskvol, verehrt als Fürsprecherin der Armen.",
+         "type": "Anderweltliches"
+      },
+      "The Wraiths": {
+         "name": "Die Wraiths",
+         "description": "Eine geheimnisvolle Bande von maskierten Dieben und Spionen.",
+         "type": "Unterschicht",
+         "goal_1": "Meisterdiebe anheuern",
+         "goal_2": "Einen arkanen Verbündeten finden",
+         "turf": "Silkshore und Nightmarket sind ihre vorrangigen „Jagdgründe“. Sie haben sich auf den Diebstahl von Luxusgegenständen und das Sammeln kompromittierender Informationen für Auftraggeber spezialisiert.",
+         "assets": "Geheime Zufluchtsorte auf verschiedensten Dächern. Ein geheimes Versteck in einem Turm in Silkshore. Allerlei Handwerkszeug für Einbrüche.",
+         "quirks": "Jedes Mitglied trägt eine Maske und versteckt die wahre Identität hinter einem Decknamen. Sie verständigen sich mit einer eigenen Zeichensprache.",
+         "notables": "Slate (gibt Befehle, weltgewandt, waghalsig, geheimnisvoll). Loop (schätzt Wertsachen, obsessiv, launisch, geheimnisvoll).",
+         "allies": "Kutscher.",
+         "enemies": "Blauröcke, Inspektoren, Der Stock.",
+         "situation": "Den Wraiths ist kürzlich ein raffinierter Einbruch in ein Luxusbordell in Nightmarket gelungen, bei dem sie zufällig die Kartensammlung eines Leviathanfängers mitgenommen haben. Diese geheimen Karten zeigen die Orte, die dem Schiff „Storm Palace“ für die nächste Saison als reiche Jagdgründe prophezeit wurden. Eine solche Karte ist für die Wraiths nutzlos, aber für andere Leviathanfänger ein kleines Vermögen wert. Die Wraiths suchen deshalb im Moment Kontakte in der Unterwelt, um unbemerkt den Verkauf zu organisieren."
+      },
+      "Ulf Ironborn": {
+         "name": "Ulf Eisenbart",
+         "description": "Ein brutaler Skove. Als Neuankömmling in Doskvol trägt er mit allen Revierkämpfe aus.",
+         "type": "Unterschicht",
+         "goal_1": "Revier für seine Bande erkämpfen",
+         "goal_2": "Eine Stufe aufsteigen",
+         "turf": "Einzelne Zimmer, eine Werkstatt und der Stall im Gasthaus „The Old Forge“ (Hauptquartier). Eine Spielhalle.",
+         "assets": "Eine kleine, aber umso brutalere Bande von Schlägern.",
+         "quirks": "Vor dem Vereinigungskrieg geflohen, traut Ulf keinen Akorosiern oder Anhängern des Imperiums. Gebürtige Skoven können sein Vertrauen allerdings sehr leicht erlangen.",
+         "notables": "Ulf Eisenbart (Anführer, rücksichtslos, brutal, kühn). Havid (rechte Hand, rücksichtslos, sprunghaft, durchtrieben).",
+         "allies": "Die Grinders.",
+         "enemies": "Bürgerschaft von Coalridge, Die Billhooks.",
+         "situation": "Ulf ist erst kürzlich in Doskvol angekommen und versucht sein Glück auf den Straßen. Da seine Gang an Getreuen schon einigen Erfolg mit schnellen, brachialen Raubüberfällen hatte, könnte sie jetzt Schutzgeld erpressen. Während immer mehr Skoven vor dem Krieg in die Stadt fliehen, wird der Rassismus in einigen Einheimischen immer deutlicher und „Skoven raus“-Schilder tauchen vor Kneipen und Geschäften auf. Wann immer Ulf so etwas mitbekommt, wird er sofort in blinder Wut mit seiner Gang in den Krieg gegen alle „echten Dusker“ ziehen, die mutig genug sind, sich ihm entgegenzustellen."
+      }
+   }
+}
