@@ -22,9 +22,9 @@
   "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/test.zip",
    "languages":[
       {
-         "lang": "pl-PL",
+         "lang": "pl",
          "name": "Polish",
-         "path":"pl-PL.json"
+         "path":"pl.json"
       }
    ],
    "dependencies":[
