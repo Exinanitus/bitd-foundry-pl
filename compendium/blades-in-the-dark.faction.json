@@ -1,22 +1,22 @@
 {
-	"label": "Factions",
+	"label": "Frakcje",
 	"mapping": {
-		"description": "data.description",
-		"type": "data.type",
-		"goal_1": "data.goal_1",
-		"goal_2": "data.goal_2",
-		"turf": "data.turf",
-		"assets": "data.assets",
-		"quirks": "data.quirks",
-		"notables": "data.notables",
-		"allies": "data.allies",
-		"enemies": "data.enemies",
-		"situation": "data.situation"
+		"description": "system.description",
+		"type": "system.type",
+		"goal_1": "system.goal_1",
+		"goal_2": "system.goal_2",
+		"turf": "system.turf",
+		"assets": "system.assets",
+		"quirks": "system.quirks",
+		"notables": "system.notables",
+		"allies": "system.allies",
+		"enemies": "system.enemies",
+		"situation": "system.situation"
 			},
 	"entries": [
 		{
 			"id": "Bluecoats",
-			"name": "Błękitne Płaszcze 8",
+			"name": "Błękitne Płaszcze",
 			"description": "Straż Miejska Doskvol. Powszechnie uznawana za najwredniejszy z miejskich gangów. Skorumpowana, brutalna i okrutna.",
 			"type": "Instytucja",
 			"goal_1": "Zdobyć większy budżet oraz wojskową broń i ekwipunek",
@@ -120,7 +120,7 @@
 			"situation": ""
 		},
 		{
-			"id": "JUJZXGo662cp18Ag",
+			"id": "Gondoliers",
 			"name": "Gondolierzy",
 			"description": "Przewoźnicy po miejskich kanałach. Otaczani czcią zgodnie ze starą tradycją. Wielu uważa ich za skarbnicę wiedzy tajemnej.",
 			"type": "Trade & Labor",
