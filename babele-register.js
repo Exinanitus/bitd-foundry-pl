@@ -1,7 +1,7 @@
 Hooks.once('init', () => { 
 	if(typeof Babele !== 'undefined') { 
 		Babele.get().register({
-			module: 'bitd-babele-pl',
+			module: 'nazwa modułu',
 			lang: 'pl',
 			dir: 'compendium'
 		}); 

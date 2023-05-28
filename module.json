@@ -2,7 +2,6 @@
   "id":"bitd-babele-pl",
   "title":"Blades in the Dark - Polish",
   "description":"Testowe tłuamczenie na polski",  
-  
   "version":"0.1",
   "authors": [
     {
@@ -21,6 +20,7 @@
   "url":"https://github.com/Axotte/bitd-foundry-pl",
   "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
   "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/Test.zip",
+  
   "languages":[
       {
          "lang": "pl-PL",
@@ -28,7 +28,8 @@
          "path":"pl-PL.json"
       }
    ],
-  "dependencies":[
+  
+   "dependencies":[
       {
          "name":"babele",
          "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
