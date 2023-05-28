@@ -19,7 +19,7 @@
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/Axotte/bitd-foundry-pl",
   "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
-  "download": "None",
+  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/Test.zip",
    "dependencies":[
       {
          "name":"babele",
