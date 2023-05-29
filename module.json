@@ -1,5 +1,5 @@
 {
-  "name": "bitd-pl",
+  "id": "bitd-pl",
   "title": "Blades in the Dark - Polish",
   "description": "Testowe tłumaczenie na jezyk polski",
   "version": "0.5",
@@ -10,8 +10,11 @@
       "url": "Nun"
     }
     ],
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
+  "compatibility":{
+    "minimum":10,
+    "verified":"10"
+  },
+  "esmodules": ["bitd-pl.js"]
   "url": "https://github.com/Axotte/bitd-foundry-pl/",
   "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.5.zip",
   "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
@@ -32,8 +35,10 @@
         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       }
     ],
-"esmodules": [
-  "./bitd-pl.js"
-]
- 
+  "systems":[
+      {
+        "id":"blades-in-the-dark"
+      }
+    ]
+  }
 }
