@@ -1,0 +1,253 @@
+{
+	"label": "Przedmioty",
+	"mapping": {
+    "description": "system.description",
+    "class":"system.class"
+  },
+  
+	"entries": {
+		"(C) Fine hand weapon": {
+			"name": "(Si) Wyśmienita broń ręczna:",
+      "description": "Świetnie wykonana jednoręczna broń biała. <i>Czy jest to dobrze wykonany standardowy oręż, taki jak perfekcyjnie wyważony sztylet, czy może coś egzotycznego, na przykład iruwiańska szabla pojedynkowa lub okuta żelazem maczuga?</i>",
+      "class":"Siepacz"      
+		},
+		"(C) Fine heavy weapon": {
+			"name": "(Si) Wyśmienita broń ciężka",
+      "description": "Świetnie wykonana dwuręczna broń biała. <i>Młot bojowy, miecz dwuręczny, wojskowa pika, topór bojowy itd. Broń ciężka ma większy zasięg i bije mocniej niż oręż jednoręczny. Może zapewnić ci to siłę, kiedy skuteczność lub zasięg broni ma znaczenie.</i>",
+      "class":"Siepacz"      
+		},
+		"(C) Manacles & chain": {
+			"name": "(Si) Łańcuchy i kajdany",
+     "description": "Idealne, aby zakuć więźnia. <i>Być może jest to pamiątka po twoim spotkaniu z Błękitnymi Płaszczami?</i>",
+      "class":"Siepacz"      
+		},
+		"(C) Rage essence vial": {
+			"name": "(Si) Fiolka z esencją szału",
+      "description": "Jedna dawka specyfiku, który na kilka minut znacznie zwiększa siłę fizyczną, odporność na ból i irracjonalną agresję. Gdy walczysz pod wpływem esencji szału, MG stosownie modyfikuje twoje położenie i efekt. <i>Niestety ponosisz również dwie konsekwencje: „Nie rozróżniam wrogów od przyjaciół” i „Nie mogę przestać, dopóki nie zrobię ze wszystkich miazgi”. Możesz odpierać te konsekwencje zgodnie z normalnymi zasadami.</i>",
+      "class":"Siepacz"      
+		},
+		"(C) Scary weapon or tool": {
+			"name": "(Si) Przerażająca broń lub narzędzie",
+      "description": "Broń lub narzędzie o przerażającym wyglądzie. Zapewnia to zwiększony efekt, gdy kogoś zastraszasz, lecz nie zwiększa krzywdy wyrządzanej w walce. ",
+      "class":"Siepacz"      
+		},
+		"(H) A trained hunting pet": {
+			"name": "(Og) Wytresowany towarzysz polowań",
+      "description": "Twój zwierzęcy towarzysz słucha poleceń i przewiduje twoje działania. <i>Kohorta (Ekspert: Łowca).</i>" ,
+	  "class":"Ogar"
+		},
+		"(H) Electroplasmic ammunition": {
+			"name": "(Og) Amunicja elektroplazmowa:",
+      "description": "Bandolier z amunicją elektroplazmową, skuteczną przeciwko duchom, lecz mało przydatną w starciu z celami istniejącymi fizycznie. Ładunek elektryczny wystarcza, aby oszołomić osobę, lecz nie zrobi jej większej krzywdy. Kilka strzałów może obezwładnić człowieka. Amunicja tego rodzaju szczególnie oddziałuje z polem duchowym – stwórz czterosegmentowy zegar „Zainteresowanie ze strony Strażników Dusz” i zaznacz jeden z nich po każdej operacji, w której została użyta.",
+      "class":"Ogar" 
+		},
+		"(H) Fine long rifle": {
+			"name": "(Og) Wyśmienity karabin:",
+      "description": "Świetnie wykonany sztucer, zabójczy na dalekim zasięgu, nieporęczny w zwarciu. <i>Osoby prywatne w Doskvol zazwyczaj nie mogą legalnie posiadać broni długiej. Ty jednak masz na swoją broń wojskowe papiery (prawdziwe lub sfałszowane).</i>",
+      "class":"Ogar" 
+		},
+		"(H) Fine pair of pistols": {
+			"name": "(Og) Wyśmienita para pistoletów",
+      "description": "Zestaw dwóch identycznych egzemplarzy krótkiej broni palnej odznaczających się doskonałą celnością, o podwójnych lufach pozwalających oddać po dwa strzały z każdego pistoletu przed koniecznością przeładowania. <i>Czy twoje pistolety zostały stworzone przez Córy Kardery, Templetona & Slane’a, Imperialną Kuźnię lub innego rusznikarza? Czym odróżniają się od typowej krótkiej broni palnej?</i>",
+      "class":"Ogar" 
+		},
+		"(H) Spyglass": {
+			"name": "(Og) Luneta",
+      "description": "Mosiężna, składana tuba z soczewkami, pozwalająca na prowadzenie obserwacji z dystansu.<i> Może zostać przymocowana do karabinu.</i>",
+      "class":"Ogar" 
+		},
+		"(Le) Bandolier": {
+			"name": "(Pi) Bandolier",
+      "description": "Pas noszony przez pierś, wyposażony w specjalnie wyściełane kieszenie, w których można przechowywać trzy odczynniki alchemiczne lub bomby iskroksięskie. Kiedy dobywasz z niego substancję alchemiczną lub bombę, wybierz ją z listy - Alkahest, Bomba dymna, Granat, Iskra (narkotyk), Olej wiążący, Olej wznoszący, Olej zapalający, Płonące myśli, Rtęć, Stupor, Topielczy proszek, Transowy proszek, Trupi wzrok (lub wskaż jedną z formuł stworzonych przez ciebie). <i>W trakcie przestoju automatycznie uzupełniasz bandolier, jeśli masz dostęp do swojego warsztatu lub dostawcy.</i> ",
+      "class":"Pijawka" 
+		},
+		"(Le) Blowgun & darts, syringes": {
+			"name": "(Pi) Dmuchawka i strzałki, strzykawki",
+      "description": "Niewielka tuba i strzałki, które mogą zostać napełnione zawartością alchemicznych flaszek. Puste strzykawki.",
+      "class":"Pijawka" 
+		},
+		"(Le) Fine tinkering tools": {
+			"name": "(Pi) Wyśmienite narzędzia majsterkowicza",
+      "description": " Służą do precyzyjnej pracy z różnorakimi mechanizmami. Lupa jubilerska. Urządzenia pomiarowe.",
+      "class":"Pijawka" 
+		},
+		"(Le) Fine wrecking tools": {
+			"name": "(Pi) Wyśmienite narzędzia sabotażysty",
+      "description": "Służą do dokonywania sabotażu i zniszczeń. Małe, mocne wiertło. Młotek i stalowe kolce. Łom. Bateria elektroplazmowa, zaciski, drut. Fiolki z kwasem. Przecinarka iskrogniowa i zbiornik paliwa",
+      "class":"Pijawka" 
+		},
+		"(Le) Gadgets": {
+			"name": "(Pi) Gadżety",
+      "description": "W trakcie przestoju możesz tworzyć gadżety za pomocą <b>Majsterkowania</b>, narzędzi i materiałów. Zaznacz obciążanie dla każdego gadżetu, którego użyjesz podczas skoku.",
+      "class":"Pijawka" 
+		},
+		"(Lu) Dark-sight goggles": {
+			"name": "(Cz) Gogle mrocznowizyjne",
+      "description": "Urządzenie tajemne, które pozwala użytkownikowi widzieć w kompletnych ciemnościach, tak jakby było jasno",
+      "class":"Czychacz" 
+		},
+		"(Lu) Fine lockpicks": {
+			"name": "(Cz) Wyśmienite wytrychy",
+      "description": "Świetnie wykonany zestaw narzędzi służących do otwierania i obchodzenia zamków.",
+      "class":"Czychacz" 
+		},
+		"(Lu) Fine shadow cloak": {
+			"name": "(Cz) Wyśmienita cienista peleryna",
+      "description": "Peleryna z kapturem uszyta z rzadkiego iruwiańskiego cienistego jedwabiu, który wtapia się w ciemność. Przedmiot ten zwiększa poziom efektu, kiedy przekradasz się lub ukrywasz. ",
+      "class":"Czychacz" 
+		},
+		"(Lu) Light climbing gear": {
+			"name": "(Cz) Lekki sprzęt do wspinaczki",
+      "description": "Dobrze wykonany zestaw do wspinaczki, który jest lżejszy i bardziej poręczny. <i>Standardowy zestaw do wspinaczki to 2 obciążenia.</i>",
+      "class":"Czychacz" 
+		},
+		"(Lu) Silence potion vial": {
+			"name": "(Cz) Fiolka eliksiru ciszy",
+      "description": " Złocisty płyn, który wycisza na kilka chwil wszelkie odgłosy w odległości dziesięciu kroków od pijącego.",
+      "class":"Czychacz" 
+		},
+		"(Sl) A cane-sword": {
+			"name": "(Śc) Szpada ukryta w lasce",
+      "description": "Cienki miecz wraz z pochwą zamaskowane jako laska należąca do szlachcica. <i>Pobieżne oględziny nie ujawnią prawdziwej natury przedmiotu.</i> ",
+      "class":"Ściemniacz" 
+		},
+		"(Sl) Fine clothes & jewelry": {
+			"name": "(Śc) Wyśmienity ubiór i biżuteria",
+      "description": " Strój, który wygląda na tak świetnie wykonany, że możesz uchodzić za bogatego szlachcica. <i>Jeśli niesiesz go ze sobą jako drugi komplet na zmianę, wtedy „waży” </i><b>2 obciążenia</b>",
+      "class":"Ściemniacz" 
+		},
+		"(Sl) Fine disguise kit": {
+			"name": "(Śc) Wyśmienite narzędzia oszusta",
+      "description": "Teatralny przybornik do makijażu wyposażony w imponujący wybór fachowych narzędzi służących do osiągnięcia pożądanego efektu. <i>Jeśli go użyjesz, jego wyśmienita jakość może zwiększyć poziom efektu twoich zwodniczych akcji.</i>",
+      "class":"Ściemniacz" 
+		},
+		"(Sl) Fine loaded dice, trick cards": {
+			"name": "(Śc) Wyśmienite obciążone kości, znaczone karty",
+      "description": "Sprzęt profesjonalnego hazardzisty, który subtelnie zwiększa twoje szanse na uzyskanie określonych wyników. <i>Jeśli go użyjesz, jego wyśmienita jakość może zwiększyć poziom efektu zwodniczych akcji.</i>",
+      "class":"Ściemniacz" 
+		},
+		"(Sl) Trance powder": {
+			"name": "(Śc) Transowy proszek",
+      "description": " Dawka popularnego narkotyku wywołującego odmienny stan świadomości. <i>Ofiara działania substancji nie traci przytomności. Wpada raczej w spokojny, podatny na sugestię stan podobny do hipnozy.</i>",
+      "class":"Ściemniacz" 
+		},
+		"(Sp) Blueprints": {
+			"name": "(Pa) Plany",
+      "description": " Foliał zawierający przydatne rysunki architektoniczne i plany miejskie. <i>Kiedy chcesz użyć tego przedmiotu, określ, jakie plany masz przy sobie.</i>",
+      "class":"Pająk" 
+		},
+		"(Sp) Concealed palm pistol": {
+			"name": "(Pa) Ukryty pistolet kieszonkowy",
+      "description": "Mała broń ze słabym ładunkiem, którą można łatwo schować w rękawie lub kamizelce. <i>Pistolet ma bardzo ograniczony zasięg, zaledwie parę metrów. Bardzo trudno go znaleźć, nawet podczas rewizji osobistej.</i>",
+      "class":"Pająk" 
+		},
+		"(Sp) Fine bottle of whiskey": {
+			"name": "(Pa) Butelka wyśmienitej whisky",
+      "description": "Rzadki alkohol pochodzący z twojej prywatnej piwniczki, mocny zarówno pod względem zawartości procentów, jak i zdolności wywierania wrażenia. ",
+      "class":"Pająk" 
+		},
+		"(Sp) Fine cover identity": {
+			"name": "(Pa) Wyśmienita fałszywa tożsamość",
+      "description": "Dokumenty, zmyślone historie i plotki oraz fałszywe relacje towarzyskie wystarczające, aby uchodzić za inną osobę.",
+      "class":"Pająk" 
+		},
+		"(Sp) Vial of slumber essence": {
+			"name": "(Pa) Fiolka z esencją snu",
+      "description": "Dawka esencji snu, która wystarczy, aby uśpić kogoś na godzinę. <i>Sen ofiary nie jest nadnaturalny, choć głęboki – jeśli ktoś się postara, uda mu się ją obudzić.</i>",
+      "class":"Pająk" 
+		},
+		"(W) Demonbane charm": {
+			"name": "(Sz) Amulet na demony",
+      "description": "Błyskotka, której wszystkie demony bardzo starają się unikać. ",
+      "class":"Szeptuch"       
+		},
+		"(W) Fine lightning hook": {
+			"name": "(Sz) Wyśmienity elektrohak",
+      "description": "Długi, dwuręczny kij z pętlą z mocnego drutu zawieszoną na jednym z końców, podłączony do kondensatora elektroplazmowego. Służy do chwytania duchów i przeciągania ich do butli duchowej. Wykonany na zamówienie składany hak – mimo że jest dwuręczny, zajmuje tylko 1 obciążenia.",
+      "class":"Szeptuch"       
+		},
+		"(W) Fine spirit mask": {
+			"name": "(Sz) Wyśmienita duchowa maska",
+      "description": "Przedmiot tajemny, który pozwala wyszkolonemu użytkownikowi dokładnie postrzegać energie nadnaturalne. Zapewnia też pewną ochronę przeciwko opętaniu przez ducha. <i>Każda duchowa maska jest wyjątkowa. Jak wygląda twoja? Co sprawia, że jest dziwna i niepokojąca?</i>",
+      "class":"Szeptuch"       
+		},
+		"(W) Ghost key": {
+			"name": "(Sz) Klucz duchowy",
+      "description": "Urządzenie tajemne otwierające duchowe drzwi. <i>Istnieje duchowe echo miasta, ciągnące się przez wszystkie stulecia, uwięzione w polu duchowym. Czasami można odnaleźć drzwi prowadzące do tego tajemniczego miejsca</i>",
+      "class":"Szeptuch"       
+		},
+		"(W) Spirit bottles (2)": {
+			"name": "(Sz) Butle duchowe (2)",
+      "description": "Urządzenie tajemne używane do więzienia duchów. Metalowo-krystaliczny cylinder o wielkości bochenka chleba.",
+      "class":"Szeptuch"       
+		},
+		"+ Heavy": {
+			"name": "+ Ciężki",
+      "description": "Dodatkowo kolczuga, metalowe płyty, metalowy hełm. [3 obciążenia] <i>Obciążenie ciężkiego pancerza sumuje się z obciążeniem pancerza: łącznie 5 punktów.</i>"
+		},
+		"A 2nd Pistol": {
+			"name": "Drugi pistolet",
+      "description": "Ciężka, jednostrzałowa, ładowana odtylcowo broń palna. Niszczycielska na odległość 20 kroków, wolno się ją przeładowuje."
+		},
+		"A Blade or Two": {
+			"name": "Ostrze lub dwa",
+      "description": "Być może nosisz ze sobą zwykły nóż lub dwa zakrzywione miecze bądź rapier i sztylet, a może ciężki tasak rzeźniczy.<br>Wybór broni może oddawać twoje dziedzictwo:<br><br><i>Na Północy (Akoros i Skowlan) ostrza są szerokie, ciężkie i jednosieczne.<br>W Seweros władcy koni preferują zabieranie w bitwę włóczni, lecz do walki wręcz używają charakterystycznych, obosiecznych sztyletów z bardzo szerokimi ostrzami, często pokrytymi misternie wygrawerowanymi historiami rodzinnymi.<br>Na Wyspach Sztyletowych korsarze często używają wąskich, lekkich ostrzy stworzonych do szybkich pchnięć – na przykład sztyletów i rapierów.<br>W Iruwii zakrzywione klingi są czymś powszechnym. Ostrzy się je po zewnętrznej krawędzi niczym szable lub po wewnętrznej na podobieństwo sierpów.</i>"
+		},
+		"A Large Weapon": {
+			"name": "Duża broń",
+      "description": "Broń stworzona, aby używać jej oburącz. Topór bojowy, miecz dwuręczny, młot bojowy, broń drzewcowa. Sztucer. Garłacz. Łuk lub kusza"
+		},
+		"A Pistol": {
+			"name": "Pistolet",
+      "description": "Ciężka, jednostrzałowa, ładowana odtylcowo broń palna. Niszczycielska na odległość 20 kroków, wolno się ją przeładowuje."
+		},
+		"An Unusual Weapon": {
+			"name": "Nietypowa broń",
+      "description": "Ciekawostka lub narzędzie zmienione w oręż. Bicz, cep, siekiera, łopata, kawałek łańcucha, zaostrzony wachlarz, buty z okutymi stalą czubami. "
+		},
+		"Arcane Implements": {
+			"name": "Narzędzia tajemne",
+      "description": "PFlakonik rtęci. Sakiewka czarnej soli. Duchowa kotwica pod postacią małego kamienia. Butla duchowa. Fiolka elektroplazmy wykonana w taki sposób, aby roztrzaskała się przy uderzeniu."
+		},
+		"Armor": {
+			"name": "Pancerz",
+      "description": "Gruba, skórzana bluza bez rękawów oraz wzmocnione rękawice i buty."
+		},
+		"Burglary Gear": {
+			"name": "Narzędzia włamywacza",
+      "description": "Zestaw wytrychów. Mały łom. Fiolki z olejem służącym do wyciszania skrzypiących zawiasów. Zwój drutu i haczyki do łowienia ryb. Sakiewka drobnego piasku."
+		},
+		"Climbing Gear": {
+			"name": "Sprzęt do wspinaczki",
+      "description": "Duży i mały zwój liny. Kotwiczki. Sakiewka sproszkowanej kredy. Uprząż wspinaczkowa z oczkami i metalowymi pierścieniami. Zestaw metalowych haków wspinaczkowych i mały młotek."
+		},
+		"Demolition Tools": {
+			"name": "Narzędzia sabotażysty",
+      "description": "Młot dwuręczny i żelazne kolce. Ciężkie wiertło. Łom."
+		},
+		"Documents": {
+			"name": "Dokumenty",
+      "description": "Kolekcja cienkich książek poświęconych różnym tematom: rejestrom rodów szlacheckich, dowódcom Straży Miejskiej i innym ważnym mieszczanom. Puste kartki, fiolka atramentu, pióro. Kilka map. "
+		},
+		"Lantern": {
+			"name": "Latarnia",
+      "description": " Prosta lampa naftowa, luksusowa lampa elektroplazmowa lub inne źródło światła."
+		},
+		"Spiritbane Charm": {
+			"name": "Amulet na duchy",
+      "description": "Błyskotka, której duchy starają się unikać."
+		},
+		"Subterfuge Supplies": {
+			"name": "Narzędzia oszusta",
+      "description": "Teatralny zestaw do makijażu. Wybór niewypełnionych dokumentów, gotowych do uzupełnienia przez fałszerza. Sztuczna biżuteria. Dwustronna peleryna i wyróżniający się kapelusz. Podrobione insygnia urzędu"
+		},
+		"Throwing Knives": {
+			"name": "Noże do rzucania",
+      "description": "sześć małych, lekkich ostrzy"
+		},
+		"Tinkering Tools": {
+			"name": "Narzędzia majsterkowicza",
+      "description": "Zestaw narzędzi do precyzyjnej pracy: lupa jubilerska, pęsety, mały młotek, obcęgi, szczypce, śrubokręt itp."
+		}
+	}
+}

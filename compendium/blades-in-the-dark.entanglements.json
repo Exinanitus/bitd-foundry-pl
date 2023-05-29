@@ -1,0 +1,17 @@
+{
+	"label": "Uwikłania",
+	"entries": {
+		"Entanglements - Heat 0-3": {
+			"name": "Uwikłania - przypał 0–3",
+			"description": "W przypadku dwóch wyników decyzja należy do MG"
+		},
+		"Entanglements - Heat 4/5": {
+			"name": "Uwikłania - przypał 4/5",
+			"description": "W przypadku dwóch wyników decyzja należy do MG"
+		},
+		"Entanglements - Heat 6+": {
+			"name": "Uwikłania - przypał 6+",
+			"description": "W przypadku dwóch wyników decyzja należy do MG"
+		}
+	}
+}

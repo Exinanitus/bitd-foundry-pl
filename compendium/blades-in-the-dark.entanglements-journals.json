@@ -1,0 +1,53 @@
+{
+	"label": "Uwikłania",
+	"entries": {
+		"Arrest": {
+			"name": "Aresztowanie",
+			"description": "<p>Aspirant przedstawia sędziemu dossier dowodów, aby rozpocząć postępowanie przeciwko szajce. Błękitne Płaszcze wysyłają oddział, aby was aresztować (gang o skali co najmniej równej waszemu <b>poziomowi obławy</b>). Zapłaćcie im tyle <b>dukatów</b>, ile wynosi wasz <b>poziom obławy +3</b>, wydajcie kogoś (zeruje to wasz <b>przypał</b>) lub spróbujcie uniknąć aresztowania</p>"
+		},
+		"Cooperation": {
+			"name": "Współpraca",
+			"description": "<p>Frakcja, u której macie +3 statusu, prosi was o przysługę. Zgódźcie się, straćcie 1 <b>rep</b> za każdy Krąg owej frakcji lub utraćcie u niej 1 statusu. Jeśli nie macie u nikogo +3 statusu, od razu unikacie tego uwikłania.</p>"
+		},
+		"Demonic Notice": {
+			"name": "Demoniczne zainteresowanie",
+			"description": "<p>Demon przedstawia szajce mroczną ofertę. Zgódźcie się na nią, ukryjcie się do czasu, aż straci wami zainteresowanie (i straćcie <b>3 rep</b>) lub poradźcie sobie w inny sposób</p>"
+		},
+		"Flipped": {
+			"name": "Zmiana stron",
+			"description": "<p>Jeden z waszych rywali przekonał kontakt, sponsora, zleceniodawcę lub grupę klientów szajki, aby ze względu na wasz przypał przeszli na jego stronę. Od teraz są lojalni wobec innej frakcji.</p>"
+		},
+		"Gang Trouble": {
+			"name": "Problem z gangiem",
+			"description": "<p>Jeden z waszych gangów (lub inna kohorta) sprawia problemy ze względu na swoją wadę (lub wady). Możecie stracić twarz (straćcie punkty <b>rep</b> w liczbie równej waszemu Kręgowi +1), zdyscyplinować niepokornych, karząc jednego członka gangu lub zmierzyć się z represjami ze strony urażonych.</p>"
+		},
+		"Interrogation": {
+			"name": "Przesłuchanie", 
+			"description": "<p>Błękitne Płaszcze zwijają jednego z BG, aby przesłuchać go w związku z przestępstwami popełnionymi przez szajkę. W jaki sposób cię dopadli? Zapłać im 3 <b>dukaty</b>, inaczej wezmą cię na buty (<b>krzywda 2 poziomu</b>) i wyśpiewasz wszystko, co chcą wiedzieć (3 <b>przypału</b>). Możesz oddzielnie <b>odpierać</b> każdą z tych konsekwencji.</p> <blockquote><p><i>Niektórzy z graczy nie cierpią, gdy ich postać zostaje złapana! Wytłumacz im, że jest to całkowicie normalne w łotrowskim półświatku. Na zmianę siedzisz i wychodzisz z ciupy, przepytywany i nękany przez stróżów prawa. To nie jest koniec świata. W tym właśnie momencie, gdy siedzisz w pokoju przesłuchań, zastanów się, jaką osobą jesteś. Będziesz sypać? Postawisz się? Pójdziesz na układ?</i></p></blockquote>"
+		},
+		"Questioning": {
+			"name": "Przepytywanie",
+			"description": "<p>Błękitne Płaszcze łapią jednego BN należącego do szajki lub ktoryś z waszych kontaktów, aby wypytać ich o popełnione przez was przestępstwa. Kto według Błękitnych Płaszczy jest najsłabszym ogniwem? Wykonaj rzut na szczęście, aby zobaczyć, jak dużo wygadał (<b>1–3: +2 przypału, 4/5: +1 przypału</b>) lub opłaćcie się Błękitnym Płaszczom, wydając 2 <b>dukaty</b></p> <blockquote><p><i>Rzuć 2k dla zwykłej osoby, aby zobaczyć, jak dobrze utrzyma język za zębami. Jeśli jest to doświadczony przestępca lub twardziel, przyznaj mu 3–4 kości. Jeśli to ktoś słaby lub przejawiający przywiązanie do przepisów prawa, przyznaj mu 0–1 kości.</i></p></blockquote>"
+		},
+		"Reprisals": {
+			"name": "Odwet",
+			"description": "<p>Wroga frakcja podejmuje działania przeciwko wam (lub przeciw przyjacielowi, kontaktowi lub dostawcy słabości). W ramach przeprosin zapłaćcie im 1 <b>rep</b> i 1 <b>dukata</b> za każdy ich Krąg, pozwólcie sobą pomiatać lub postawcie się i pokażcie, kto tu rządzi.</p>"
+		},
+		"Rivals": {
+			"name": "Rywale",
+			"description": "<p>Neutralna frakcja zaczyna zgrywać ważniaków. Grożą wam, waszemu przyjacielowi, kontaktowi lub dostawcy słabości. Straćcie 1 <b>rep</b> i 1 <b>dukata</b> za każdy ich Krąg lub postawcie się i utraćcie u nich 1 statusu.</p>"
+		},
+		"Show of Force": {
+			"name": "Pokaz siły",
+			"description": "<p>Frakcja, u której macie negatywny status, występuje przeciwko waszemu roszczeniu. Oddajcie im jedno ze swoich <b>roszczeń</b> lub rozpocznijcie wojnę (spadając do −3 statusu). Jeśli nie macie żadnych roszczeń, <b>tracicie 1 poziom kontroli</b>.</p>"
+		},
+		"The Usual Suspects": {
+			"name": "Typowi podejrzani",
+			"description": "<p>Błękitne Płaszcze łapią kogoś na waszym terenie. Postać jednego z graczy wskazuje przyjaciela lub dostawcę słabości – kogoś, kto ma największe szanse wpaść. Wykonajcie rzut na szczęście, aby sprawdzić, czy owa osoba postawi się podczas przepytywania (<b>1–3: +2 przypału, 4/5: krzywda 2 poziomu</b>) lub opłaćcie Płaszcze 1 <b>dukatem.</b></p>"
+		},
+		"Unquiet Dead": {
+			"name": "Niespokojni zmarli",
+			"description": "<p>Przyciągacie do siebie niespokojnego ducha – być może jedną z waszych ofiar? Zatrudnijcie Szeptucha lub Majchra Kolejowego, aby zniszczył bądź przegnał ducha lub zajmijcie się nim sami.</p> <blockquote><p><i>BN można zatrudnić, korzystając z aktywności przestoju nabycie aktywów (spójrz na stronę 155). Wykonaj rzut na szczęście tyloma kośćmi, ile wynosi jego poziom jakości, aby zobaczyć, jak dobrze poradził sobie z duchem</i></p></blockquote>"
+		}
+	}
+}

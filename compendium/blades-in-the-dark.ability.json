@@ -91,7 +91,7 @@
       "description": "Wybierz zdolność specjalną z innej księgi łotra.",
       "class": "Ogar"  
 		},
-		"(Le) Alchemik": {
+		"(Le) Alchemist": {
 			"name": "(Pi)  Alchemik",
 	  "description": "Kiedy wynajdujesz lub tworzysz coś z cechą alchemiczny, otrzymujesz +1 do poziomu rezultatu rzutu. Znasz jedną specjalną formułę alchemiczną.",
       "class": "Pijawka"  

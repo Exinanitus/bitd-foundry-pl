@@ -1,0 +1,274 @@
+{
+	"label": "Ulepszenia szajki",
+  "mapping":{
+      "description":"system.description",
+      "class":"system.class"
+   },
+   
+	"entries": {
+		"(A) Assassin Rigging": {
+			"name": "(Za) Sprzęt zabójców",
+      "description":" Każdy z was otrzymuje 2 darmowe punkty obciążenia do wykorzystania na broń lub sprzęt. Na przykład: możesz nosić pistolet (broń) i narzędzia włamywacza (sprzęt) bez wydawania punktów obciążenia",
+      "class":"Zabójcy"
+		},
+		"(A) Elite Skulks": {
+			"name": "(Za) Elitarni Skradacze",
+      "description":"Wszystkie wasze kohorty Skradaczy otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Zabójcy"
+		},
+		"(A) Elite Thugs": {
+			"name": "(Za) Elitarne Zbiry",
+      "description":"Wszystkie wasze kohorty Zbirów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Zabójcy"
+		},
+		"(A) Hardened": {
+			"name": "(Za) Twardziele",
+      "description":"Każdy BG otrzymuje +1 kratkę traumy. Aby ją odblokować, należy zapłacić trzy ulepszenia, a nie jedno. Dzięki temu BG, który otrzymał wcześniej 4 traumę, może powrócić do gry",
+      "class":"Zabójcy"
+		},
+		"(A) Ironhook Contacts": {
+			"name": "(Za) Kontakty w Żelaznym Haku",
+      "description":"W więzieniu poziom waszego Kręgu liczy się, jakby był o +1 wyższy. Dotyczy to wszystkich kwestii związanych z Kręgiem podczas pobytu w więzieniu, także rzutu na odsiadkę (patrz strona 150).",
+      "class":"Zabójcy"
+		},
+		"(B) Bravos Rigging": {
+			"name": "(Op) Sprzęt Oprychów",
+      "description":"Każdy z was otrzymuje 2 darmowe punkty obciążenia do wykorzystania na broń lub pancerz. Na przykład: możesz nosić pistolet i miecz oraz normalny pancerz bez wydawania punktów obciążenia.",
+      "class":"Oprychy"
+		},
+		"(B) Elite Rovers": {
+			"name": "(Op) Elitarni Włóczędzy",
+      "description":"Wszystkie wasze kohorty Włóczęgów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Oprychy"
+		},
+		"(B) Elite Thugs": {
+			"name": "(Op) Elitarne Zbiry",
+      "description":"Wszystkie wasze kohorty Zbirów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami",
+      "class":"Oprychy"
+		},
+		"(B) Hardened": {
+			"name": "(Op) Twardziele",
+      "description":"Każdy BG otrzymuje +1 kratkę traumy. Aby ją odblokować, należy zapłacić trzy ulepszenia, a nie jedno. Dzięki temu BG, który otrzymał wcześniej 4 traumę, może powrócić do gry.",
+      "class":"Oprychy"
+		},
+		"(B) Ironhook Contacts": {
+			"name": "(Op) Kontakty w Żelaznym Haku",
+      "description":"W więzieniu poziom waszego Kręgu liczy się, jakby był o +1 wyższy. Dotyczy to wszystkich kwestii związanych z Kręgiem podczas pobytu w więzieniu, także rzutu na odsiadkę (patrz strona 150).",
+      "class":"Oprychy"
+		},
+		"(C) Cult Rigging": {
+			"name": "(K) Sprzęt Kultystów",
+      "description":"Każdy z was otrzymuje 2 darmowe punkty obciążenia do wykorzystania na dokumenty lub instrumenty tajemne. Na przykład: możesz nosić bluźnierczą księgę przekleństw i dłoń demona bez wydawania punktów obciążenia",
+      "class":"Kultyści"
+		},
+		"(C) Elite Adepts": {
+			"name": "(K) Elitarni Adepci",
+      "description":"Wszystkie wasze kohorty Adeptów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Kultyści"
+		},
+		"(C) Elite Thugs": {
+			"name": "(K) Elitarne Zbiry",
+      "description":"Wszystkie wasze kohorty Zbirów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Kultyści"
+		},
+		"(C) Ordained": {
+			"name": "(K) Wyświęceni",
+      "description":"Każdy BG otrzymuje +1 kratkę traumy. Aby ją odblokować, należy zapłacić trzy ulepszenia, a nie jedno. Dzięki temu BG, który otrzymał wcześniej 4 traumę, może powrócić do gry",
+      "class":"Kultyści"
+		},
+		"(C) Ritual Sanctum in Lair": {
+			"name": "(K) Sanktuarium rytualne w kryjówce:",
+      "description":"Liczy się jako święty i tajemny warsztat przeznaczony do okultystycznych praktyk i rytuałów",
+      "class":"Kultyści"
+		},
+		"(H) Composed": {
+			"name": "(Di) Opanowani",
+      "description":"Każdy BG otrzymuje +1 kratkę stresu. Aby ją odblokować, należy zapłacić trzy ulepszenia, a nie jedno",
+      "class":"Dilerzy"
+		},
+		"(H) Elite Rooks": {
+			"name": "(Di) Elitarni Kanciarze",
+      "description":"Wszystkie wasze kohorty Kanciarzy otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Dilerzy"
+		},
+		"(H) Elite Thugs": {
+			"name": "(Di) Elitarne Zbiry",
+      "description":"Wszystkie wasze kohorty Zbirów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Dilerzy"
+		},
+		"(H) Hawker Rigging": {
+			"name": "(Di) Sprzęt Dilerów",
+      "description":"Jeden z niesionych przez każdego z was przedmiotów jest ukryty i nie ma kosztu obciążenia. Na przykład: możesz nieść ładunek narkotyków lub broń – są perfekcyjnie ukryte i nic nie ważą.",
+      "class":"Dilerzy"
+		},
+		"(H) Ironhook Contacts": {
+			"name": "(Di) Kontakty w Żelaznym Haku",
+      "description":"W więzieniu poziom waszego Kręgu liczy się, jakby był o +1 wyższy. Dotyczy to wszystkich kwestii związanych z Kręgiem podczas pobytu w więzieniu, także rzutu na odsiadkę (patrz strona 150).",
+      "class":"Dilerzy"
+		},
+		"(Sh) Elite Rooks": {
+			"name": "(Ci) Elitarni Kanciarze",
+      "description":"Wszystkie wasze kohorty Kanciarzy otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Cienie"
+		},
+		"(Sh) Elite Skulks": {
+			"name": "(Ci) Elitarni Skradacze",
+      "description":"Wszystkie wasze kohorty Skradaczy otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Cienie"
+		},
+		"(Sh) Steady": {
+			"name": "(Ci) Zrównoważeni",
+      "description":"Każdy BG otrzymuje +1 kratkę stresu. Aby ją odblokować, należy zapłacić trzy ulepszenia, a nie jedno.",
+      "class":"Cienie"
+		},
+		"(Sh) Thief Rigging": {
+			"name": "(Ci) Sprzęt Cieni",
+      "description":"Każdy z was otrzymuje 2 darmowe punkty obciążenia do wykorzystania na sprzęt lub narzędzia. Na przykład: możesz nosić narzędzia włamywacza i narzędzia do majsterkowania bez wydawania punktów obciążenia.",
+      "class":"Cienie"
+		},
+		"(Sh) Underground Maps and Passkeys": {
+			"name": "(Ci) Mapy i klucze",
+      "description":"Wasze podróże przez podziemne kanały, tunele i piwnice Doskvol są niczym spacer po parku.",
+      "class":"Cienie"
+		},
+		"(Sm) Barge": {
+			"name": "(Prz) Barka",
+      "description":"Dodajcie cechę mobilność do waszej kryjówki. Możecie przenieść siedzibę do nowej lokalizacji, używając do tego celu aktywności przestoju.",
+      "class":"Przemytnicy"
+		},
+		"(Sm) Camouflage": {
+			"name": "(Prz) Kamuflaż",
+      "description":"Wasze pojazdy są dokładnie ukryte, kiedy z nich nie korzystacie. Stapiają się z otoczeniem i stają jego częścią lub wyglądają niczym niegodne uwagi pojazdy cywilne (wasz wybór).",
+      "class":"Przemytnicy"
+		},
+		"(Sm) Elite Rovers": {
+			"name": "(Prz) Elitarni Włóczędzy",
+      "description":"Wszystkie wasze kohorty Włóczęgów otrzymują +1k do rzutów na jakość związanych z właściwymi dla nich akcjami.",
+      "class":"Przemytnicy"
+		},
+		"(Sm) Smuggler Rigging": {
+			"name": "(Prz) Sprzęt przemytników",
+      "description":"Dwa z niesionych przez każdego z was przedmiotów są doskonale ukryte i nie mają kosztu obciążenia. Na przykład: możesz nieść jeden ładunek kontrabandy i pistolet, oba doskonale ukryte nawet przed dokładnym przeszukaniem.",
+      "class":"Przemytnicy"
+		},
+		"(Sm) Steady": {
+			"name": "(Prz) Zrównoważeni",
+      "description":"Każdy BG otrzymuje +1 kratkę stresu. Aby ją odblokować, należy zapłacić trzy ulepszenia, a nie jedno.",
+      "class":"Przemytnicy"
+		},
+		"(Sm) Vehicle 1": {
+			"name": "(Prz) Pojazd I",
+      "description":"Przemytnicy rozpoczynają grę z pojazdem",
+      "class":"Przemytnicy"
+		},
+		"(Sm) Vehicle 2": {
+			"name": "(Prz) Pojazd II",
+      "description":"Jeśli pojazd jest ulepszony (dwie kratki), otrzymuje również pancerz",
+      "class":"Przemytnicy"
+		},
+		"Boat House 1": {
+			"name": "Hangar na łódź I",
+      "description":"Posiadacie łódź, dok nad jednym z kanałów oraz małą szopę na przybory żeglarskie."
+		},
+		"Boat House 2": {
+			"name": "Hangar na łódź II",
+      "description":"Drugie ulepszenie zapewnia łodzi pancerz i większą ładowność."
+		},
+		"Carriage House 1": {
+			"name": "Powozownia I",
+      "description":"Posiadacie powóz, dwa kozły pociągowe i stajnię."
+		},
+		"Carriage House 2": {
+			"name": "Powozownia II",
+      "description":"Drugie ulepszenie zapewnia powozowi pancerz i silniejsze, szybsze kozły akorosjańskie."
+		},
+		"Cohort 1": {
+			"name": "Kohorta I",
+      "description":"Gang lub pojedynczyekspert, który pracuje dla szajki. Szczegóły na stronie 96."
+		},
+		"Cohort 2": {
+			"name": "Kohorta II",
+      "description":"Gang lub pojedynczyekspert, który pracuje dla szajki. Szczegóły na stronie 96"
+		},
+		"Cohort 3": {
+			"name": "Kohorta III",
+      "description":"Gang lub pojedynczyekspert, który pracuje dla szajki. Szczegóły na stronie 96"
+		},
+		"Cohort 4": {
+			"name": "Kohorta IV",
+      "description":"Gang lub pojedynczyekspert, który pracuje dla szajki. Szczegóły na stronie 96"
+		},
+		"Hidden Lair": {
+			"name": "Tajna siedziba",
+      "description":"Wasza kryjówka mieści się w tajnym miejscu i jest ukryta przed ciekawskimi oczami. Jeśli zostanie odkryta, użyjcie dwóch aktywności przestoju i zapłaćcie liczbę dukatów równą waszemu Kręgowi, aby przenieść ją w nowe miejsce i ponownie zamaskować."
+		},
+		"Mastery": {
+			"name": "Mistrzostwo",
+      "description":"Wasza szajka ma dostęp do treningu mistrzowskiego poziomu. Możecie zwiększać wartości akcji swoich łotrów do 4 (dopóki nie odblokujcie tego ulepszenia, maksymalny poziom wartości akcji wynosi 3). Odblokowanie tej zdolności kosztuje cztery kratki ulepszeń"
+		},
+		"Quality: Arcane Implements": {
+			"name": "Jakość: Narzędzia tajemne",
+      "description":"Każde kolejne ulepszenie podnosi poziom jakości przedmiotów danego rodzaju u wszystkich BG ponad ten wynikający z Kręgu i wyśmienitych przedmiotów. Możecie poprawić jakość Dokumentów, Sprzętu (dotyczy narzędzi włamywacza i sprzętu do wspinaczki), Narzędzi tajemnych, Narzędzi oszusta, Narzędzi (dotyczy narzędzi do demolowania i do majsterkowania) oraz Broni. A zatem, jeśli jesteście na zerowym Kręgu i macie wyśmienite wytrychy (+1) oraz ulepszenie Jakości dla Sprzętu (+1), możecie zmagać się bez utrudnień z zamkami II Kręgu."
+		},
+		"Quality: Documents": {
+			"name": "Jakość: Dokumenty",
+      "description":"Każde kolejne ulepszenie podnosi poziom jakości przedmiotów danego rodzaju u wszystkich BG ponad ten wynikający z Kręgu i wyśmienitych przedmiotów. Możecie poprawić jakość Dokumentów, Sprzętu (dotyczy narzędzi włamywacza i sprzętu do wspinaczki), Narzędzi tajemnych, Narzędzi oszusta, Narzędzi (dotyczy narzędzi do demolowania i do majsterkowania) oraz Broni. A zatem, jeśli jesteście na zerowym Kręgu i macie wyśmienite wytrychy (+1) oraz ulepszenie Jakości dla Sprzętu (+1), możecie zmagać się bez utrudnień z zamkami II Kręgu."
+		},
+		"Quality: Gear": {
+			"name": "Jakość: Sprzęt",
+      "description":"Każde kolejne ulepszenie podnosi poziom jakości przedmiotów danego rodzaju u wszystkich BG ponad ten wynikający z Kręgu i wyśmienitych przedmiotów. Możecie poprawić jakość Dokumentów, Sprzętu (dotyczy narzędzi włamywacza i sprzętu do wspinaczki), Narzędzi tajemnych, Narzędzi oszusta, Narzędzi (dotyczy narzędzi do demolowania i do majsterkowania) oraz Broni. A zatem, jeśli jesteście na zerowym Kręgu i macie wyśmienite wytrychy (+1) oraz ulepszenie Jakości dla Sprzętu (+1), możecie zmagać się bez utrudnień z zamkami II Kręgu."
+		},
+		"Quality: Subterfuge Supplies": {
+			"name": "Jakość: Narzędzia oszusta",
+      "description":"Każde kolejne ulepszenie podnosi poziom jakości przedmiotów danego rodzaju u wszystkich BG ponad ten wynikający z Kręgu i wyśmienitych przedmiotów. Możecie poprawić jakość Dokumentów, Sprzętu (dotyczy narzędzi włamywacza i sprzętu do wspinaczki), Narzędzi tajemnych, Narzędzi oszusta, Narzędzi (dotyczy narzędzi do demolowania i do majsterkowania) oraz Broni. A zatem, jeśli jesteście na zerowym Kręgu i macie wyśmienite wytrychy (+1) oraz ulepszenie Jakości dla Sprzętu (+1), możecie zmagać się bez utrudnień z zamkami II Kręgu."
+		},
+		"Quality: Tools": {
+			"name": "Jakość: Narzędzia",
+      "description":"Każde kolejne ulepszenie podnosi poziom jakości przedmiotów danego rodzaju u wszystkich BG ponad ten wynikający z Kręgu i wyśmienitych przedmiotów. Możecie poprawić jakość Dokumentów, Sprzętu (dotyczy narzędzi włamywacza i sprzętu do wspinaczki), Narzędzi tajemnych, Narzędzi oszusta, Narzędzi (dotyczy narzędzi do demolowania i do majsterkowania) oraz Broni. A zatem, jeśli jesteście na zerowym Kręgu i macie wyśmienite wytrychy (+1) oraz ulepszenie Jakości dla Sprzętu (+1), możecie zmagać się bez utrudnień z zamkami II Kręgu."
+		},
+		"Quality: Weapons": {
+			"name": "Jakość: Broń",
+      "description":"Każde kolejne ulepszenie podnosi poziom jakości przedmiotów danego rodzaju u wszystkich BG ponad ten wynikający z Kręgu i wyśmienitych przedmiotów. Możecie poprawić jakość Dokumentów, Sprzętu (dotyczy narzędzi włamywacza i sprzętu do wspinaczki), Narzędzi tajemnych, Narzędzi oszusta, Narzędzi (dotyczy narzędzi do demolowania i do majsterkowania) oraz Broni. A zatem, jeśli jesteście na zerowym Kręgu i macie wyśmienite wytrychy (+1) oraz ulepszenie Jakości dla Sprzętu (+1), możecie zmagać się bez utrudnień z zamkami II Kręgu."
+		},
+		"Quarters": {
+			"name": "Kwatery",
+      "description":"Wasza kryjówka ma pomieszczenia mieszkalne dla członków szajki. Bez tego ulepszenia każdy BG śpi poza kryjówką i jest podatny na atak"
+		},
+		"Secure Lair 1": {
+			"name": " Bezpieczna siedziba I",
+      "description":"Wasza kryjówka wyposażona jest w zamki, alarmy i pułapki, aby pokrzyżować szyki intruzom. Możecie rzucić waszą wartością Kręgu, jeżeli ktoś spróbuje przełamać zabezpieczenia, aby zobaczyć, jak bardzo są skuteczne."
+		},
+		"Secure Lair 2": {
+			"name": " Bezpieczna siedziba II",
+      "description":"Drugie ulepszenie dodaje zabezpieczenia tajemne, które działają przeciwko duchom."
+		},
+		"Training: Insight": {
+			"name": "Trening: Wnikliwość",
+      "description":"Jeśli macie to ulepszenie, zyskujecie 2 pd (zamiast 1), kiedy trenujecie odpowiedni tor atrybutu w czasie przestoju (Sprawność, Śmiałość, Wnikliwość lub tor pd księgi łotra). Ulepszenie umożliwia szybszy rozwój (zajrzyj na stronę 48)."
+		},
+		"Training: Personal Exp": {
+			"name": "Trening: tor pd księgi łotra)",
+      "description":"Jeśli macie to ulepszenie, zyskujecie 2 pd (zamiast 1), kiedy trenujecie odpowiedni tor atrybutu w czasie przestoju (Sprawność, Śmiałość, Wnikliwość lub tor pd księgi łotra). Ulepszenie umożliwia szybszy rozwój (zajrzyj na stronę 48)."
+		},
+		"Training: Prowess": {
+			"name": "Training: Śmiałość",
+      "description":"Jeśli macie to ulepszenie, zyskujecie 2 pd (zamiast 1), kiedy trenujecie odpowiedni tor atrybutu w czasie przestoju (Sprawność, Śmiałość, Wnikliwość lub tor pd księgi łotra). Ulepszenie umożliwia szybszy rozwój (zajrzyj na stronę 48)."
+		},
+		"Training: Resolve": {
+			"name": "Training: Sprawność",
+      "description":"Jeśli macie to ulepszenie, zyskujecie 2 pd (zamiast 1), kiedy trenujecie odpowiedni tor atrybutu w czasie przestoju (Sprawność, Śmiałość, Wnikliwość lub tor pd księgi łotra). Ulepszenie umożliwia szybszy rozwój (zajrzyj na stronę 48)."
+		},
+		"Vault 1": {
+			"name": "Skarbiec I",
+      "description":"Wasza kryjówka wyposażona jest w zabezpieczony skarbiec, który zwiększa możliwość przechowywania dukatów do 8. Wydzielona część skarbca może służyć za celę więzienną."
+		},
+		"Vault 2": {
+			"name": "Skarbiec II",
+      "description":". Drugie ulepszenie zwiększa pojemność skarbca do 16 dukatów. "
+		},
+		"Workshop": {
+			"name": "Warsztat",
+      "description":"Wasza kryjówka ma warsztat wyposażony w narzędzia do majsterkowania i alchemii, a także małą bibliotekę książek, dokumentów i map. Możecie wykorzystywać ów atut, aby pracować nad projektami długofalowymi bez konieczności opuszczania kryjówki."
+		}
+	}
+}

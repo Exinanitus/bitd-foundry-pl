@@ -1,0 +1,250 @@
+{
+	"label": "Umiwjętności szajki",
+	"mapping": {
+    "description": "system.description",
+		"class":"system.class"
+  },
+  
+	"entries": {
+		"(A) Crow's Veil": {
+			"name": "(Za) Kruczy woal",
+      "description" :"Dzięki doświadczeniu lub rytuałowi okultystycznemu wasze działania ukryte są przed wzrokiem trupich kruków. Nie otrzymujecie dodatkowego przypału, kiedy zabijecie kogoś podczas skoku.",
+      "class": "Zabójcy"      
+		},
+		"(A) Deadly": {
+			"name": "(Za) Śmiertelnie groźni",
+      "description" :" Każdy BG może dodać +1 kropkę do wartości Polowania, Przemykania lub Wojowania (maksymalna wartość akcji wynosi 3 punkty).",
+      "class": "Zabójcy"      
+		},
+		"(A) Emberdeath": {
+			"name": "(Za) Wypalenie duszy",
+      "description" :"Dzięki ciężko zdobytemu doświadczeniu lub rytuałowi okultystycznemu znacie metody tajemne pozwalające w momencie zadawania śmierci zniszczyć duszę ofiary. Przyjmij 3 punkty stresu, aby skupić elektroplazmową energię pola duchowego i zdezintegrować ducha oraz ciało ofiary w deszczu rozżarzonych węgielków.",
+      "class": "Zabójcy"      
+		},
+		"(A) No Traces": {
+			"name": "(Za) Bez śladów",
+      "description" :"Kiedy staracie się, aby operacja przebiegła cicho lub by coś wyglądało na wypadek, otrzymujecie połowę wartości rep celu (zaokrągloną w górę) zamiast zera. Kiedy kończycie fazę przestoju z przypałem równym zero, otrzymujecie +1 do rep.",
+      "class": "Zabójcy"      
+		},
+		"(A) Patron": {
+			"name": "(Za) Sponsor",
+      "description" :"Kiedy zwiększacie Krąg szajki, płacicie tylko połowę kosztu w dukatach. Kto jest sponsorem? Dlaczego wam pomaga?",
+      "class": "Zabójcy"      
+		},
+		"(A) Predators": {
+			"name": "(Za) Drapieżcy",
+      "description" :"Kiedy jesteście ostrożni lub używacie podstępu, aby popełnić morderstwo, otrzymujecie +1k do rzutu na wejście",
+      "class": "Zabójcy"      
+		},
+		"(A) Veteran": {
+			"name": "(Za) Weterani",
+      "description" :"Wybierz zdolność specjalną z innej karty szajki.",
+      "class": "Zabójcy"      
+		},
+		"(A) Vipers": {
+			"name": "(Za) Żmije",
+      "description" :"Kiedy kupujecie lub wytwarzacie truciznę, otrzymujecie +1 poziom do rezultatu rzutu. Gdy stosujecie truciznę, jesteście dobrze przygotowani, aby się przed nią ochronić.",
+      "class": "Zabójcy"      
+		},
+		"(Br) Blood Brothers": {
+			"name": "(Op) Bracia krwi",
+      "description" :"Kiedy walczycie razem z kohortami, otrzymują one +1k do rzutów na pracę zespołową (przygotowanie i akcje grupowe). Wszystkie kohorty otrzymują za darmo typ Zbiry (jeśli już go mają, dodajcie im inny, dowolny typ).",
+	  "class": "Oprychy"
+		},
+		"(Br) Dangerous": {
+			"name": "(Op) Niebiezpieczni",
+      "description" :"Każdy BG może dodać +1 kropkę do wartości Demolowania, Polowania lub Wojowania (maksymalna wartość akcji wynosi 3 punkty).",
+	  "class": "Oprychy"
+		},
+		"(Br) Door Kickers": {
+			"name": "(Op) Razem z drzwiami:",
+      "description" :"Kiedy realizujecie plan oparty na napadzie, otrzymujecie +1k do rzutów na wejście.",
+	  "class": "Oprychy"
+		},
+		"(Br) Fiends": {
+			"name": "(Op) Potwory",
+      "description" :"Strach jest równie dobry, jak szacunek. Możecie traktować każdy poziom obławy tak, jakby był terenem",
+	  "class": "Oprychy"
+		},
+		"(Br) Forged In The Fire": {
+			"name": "(Op) Wykuci w ogniu",
+      "description" :" Każdy z BG został zahartowany przez jakieś okrutne doświadczenie. Otrzymujecie +1k do rzutów na odpieranie.",
+	  "class": "Oprychy"
+		},
+		"(Br) Patron": {
+			"name": "(Op) Sponsor",
+      "description" :"Kiedy zwiększacie Krąg szajki, płacicie tylko połowę kosztu w dukatach. Kto jest sponsorem? Dlaczego wam pomaga?",
+	  "class": "Oprychy"
+		},
+		"(Br) Veteran": {
+			"name": "(Op) Weterani",
+      "description" :"Wybierz zdolność specjalną z innej karty szajki.",
+	  "class": "Oprychy"
+		},
+		"(Br) War Dogs": {
+			"name": "(Op) Psy wojny",
+      "description" :": Kiedy wasza szajka znajduje się w stanie wojny (−3 do statusu u danej frakcji), nie otrzymuje −1 do kontroli, BG nadal mają po dwie akcje przestoju zamiast jednej.",
+	  "class": "Oprychy"
+		},    
+		"(C) Anointed": {
+			"name": "(K) Namaszczeni",
+      "description" :"Otrzymujecie +1k do rzutów na odpieranie przeciwko nadnaturalnym zagrożeniom. Otrzymujecie +1k do rzutów na leczenie, kiedy doznaliście nadnaturalnej krzywdy.",
+      "class": " Kultyści"      
+		},
+		"(C) Bound in Darkness": {
+			"name": "(K) Związani w ciemności:",
+      "description" :"Możesz używać manewrów pracy zespołowej wobec innego członka kultu niezależnie od dzielącej was odległości. Jeśli zapłacisz 1 punkt stresu, twoja wyszeptana wiadomość zostanie usłyszana przez wszystkich kultystów.",
+      "class": "Kultyści"      
+		},
+		"(C) Chosen": {
+			"name": "(K) Wybrańcy",
+      "description" :"Każdy BG może dodać +1 kropkę do wartości Analizowania, Dostrojenia lub Przekonywania (maksymalna wartość akcji wynosi 3 punkty).",
+      "class": "Kultyści"      
+		},
+		"(C) Conviction": {
+			"name": "(K) Wiara",
+      "description" :" Każdy BG otrzymuje dodatkową słabość: Praktyki religijne. Kiedy oddajesz się tej słabości i składasz miłą bóstwu ofiarę, nie przedawkowujesz, pozbywając się nadmiarowego stresu. Dodatkowo bóstwo pomoże ci w jednym rzucie na akcję – do chwili, gdy ponownie oddasz się tej słabości",
+      "class": "Kultyści"      
+		},
+		"(C) Glory Incarnate": {
+			"name": "(K) Chwała wcielona",
+      "description" :"Wasze bóstwo czasami objawia się w fizycznym świecie. Może być to wielką łaską, choć priorytety i wartości boga nie są tożsame pobudkom śmiertelników. Zostaliście ostrzeżeni.",
+      "class": "Kultyści"      
+		},
+		"(C) Sealed in Blood": {
+			"name": "(K) Przypieczętowane krwią",
+      "description" :"Każda ofiara złożona z człowieka obniża o −3 punkty stresu koszt przeprowadzanego przez was rytuału.",
+      "class": "Kultyści"      
+		},
+		"(C) Veteran": {
+			"name": "(K) Weterani",
+      "description" :"Wybierz zdolność specjalną z innej karty szajki.",
+      "class": "Kultyści"      
+		},
+		"(C) Zealotry": {
+			"name": "(K) Fanatyzm",
+      "description" :"Wasze kohorty zatraciły zdrowy rozsądek na rzecz wiernej służby kultowi religijnemu. Podejmą się zadań bez względu na to, jak bardzo będą one niebezpieczne lub dziwne. Dzięki temu otrzymują +1k do rzutów wykonywanych przeciwko wrogom wiary.",
+      "class": "Kultyści"      
+		},
+		"(Op) Accord": {
+			"name": "(Di) Układy",
+      "description" :"Czasami przyjaciele są równie dobrzy, jak teren. Możecie traktować do trzech statusów frakcji na poziomie +3 tak, jakby były waszym terenem.",
+      "class": "Dilerzy"      
+		},
+		"(Op) Ghost Market": {
+			"name": "(Di) Rynek duchowy",
+      "description" :" Dzięki tajemnemu rytuałowi lub ciężko zdobytemu doświadczeniu odkryliście metodę przygotowania towarów w taki sposób, aby można było sprzedawać je duchom i/lub demonom. Ci klienci nie płacą dukatami. Czym zatem płacą?",
+      "class": "Dilerzy"      
+		},
+		"(Op) High Society": {
+			"name": "(Di) Wyższe sfery",
+      "description" :"Wszystko zależy od tego, kogo znasz. Otrzymujecie −1 do przypału podczas przestoju i +1k do rzutu na zbieranie informacji dotyczących elit miejskich.",
+      "class": "Dilerzy"      
+		},
+		"(Op) Hooked": {
+			"name": "(Di) Nałogowcy",
+      "description" :"Wasze gangi są uzależnione od towaru, którym handlujecie. Dodajcie wszystkim gangom jedną z wad: brutalny, hulaszczy lub zawodny, aby podnieść ich jakość o +1 (maksymalna wartość jakości wynosi 4)",
+      "class": "Dilerzy"      
+		},
+		"(Op) Patron": {
+			"name": "(Di) Sponsor",
+      "description" :"Kiedy zwiększacie Krąg szajki, płacicie tylko połowę kosztu w dukatach. Kto jest sponsorem? Dlaczego wam pomaga?",
+      "class": "Dilerzy"      
+		},
+		"(Op) Silver Tongues": {
+			"name": "(Di) Elokwentni",
+      "description" :" Każdy BG może dodać +1 kropkę do wartości Bratania, Przekonywania lub Przewodzenia (maksymalna wartość akcji wynosi 3 punkty).",
+      "class": "Dilerzy"      
+		},
+		"(Op) The Good Stuff": {
+			"name": "(Di) Dobry towar",
+      "description" :"Wasz towar jest znakomity. Jego jakość jest równa waszemu Kręgowi +2. Kiedy macie do czynienia z jakąś szajką lub frakcją, MG powie wam, kto spośród nich jest uzależniony od waszego towaru (jedna osoba, kilka osób, wiele osób, wszyscy).",
+      "class": "Dilerzy"      
+		},
+		"(Op) Veteran": {
+			"name": "(Di) Weterani",
+      "description" :"Wybierz zdolność specjalną z innej karty szajki.",
+      "class": "Dilerzy"      
+		},
+		"(Sh) Everyone Steals": {
+			"name": "(Ci) Złodziejska brać",
+      "description" :" Każdy BG może dodać +1 kropkę do wartości Majsterkowania, Przemykania lub Wyrafinowania (maksymalna wartość akcji wynosi 3 punkty).",
+      "class": "Cienie"      
+		},
+		"(Sh) Ghost Echoes": {
+			"name": "(Ci) Duchowe echa",
+      "description" :"Dzięki dziwnemu wydarzeniu lub rytuałowi wszyscy członkowie szajki zyskali możliwość postrzegania i wchodzenia w interakcję z duchowymi budowlami, ulicami i obiektami tworzącymi echo Doskvol istniejące w polu duchowym.",
+      "class": "Cienie"      
+		},
+		"(Sh) Pack Rats": {
+			"name": "(Ci) Graciarze",
+      "description" :"Wasza kryjówka pełna jest bezładnych stosów skradzionych dóbr. Otrzymujecie +1k, gdy wykonujecie rzut na nabycie aktywów",
+      "class": "Cienie"      
+		},
+		"(Sh) Patron": {
+			"name": "(Ci) Sponsor",
+      "description" :"Kiedy zwiększacie Krąg szajki, płacicie tylko połowę kosztu w dukatach. Kto jest sponsorem? Dlaczego wam pomaga?",
+      "class": "Cienie"      
+		},
+		"(Sh) Second Story": {
+			"name": "(Ci) Dobra ściema",
+      "description" :" Kiedy podejmujecie się tajnego włamania, otrzymujecie +1k do rzutu na wejście.",
+      "class": "Cienie"      
+		},
+		"(Sh) Slippery": {
+			"name": "(Ci) Śliskie węże",
+      "description" :"Kiedy rzucacie na uwikłanie, rzućcie dwa razy i wybierzcie rezultat, który wam odpowiada. Otrzymujecie +1k, gdy zmniejszacie przypał szajki.",
+      "class": "Cienie"      
+		},
+		"(Sh) Synchronized": {
+			"name": "(Ci) Zgrana paczka",
+      "description" :"Kiedy podejmujecie się akcji grupowej, możecie liczyć 6 pochodzące z różnych rzutów jako krytyczny sukces.",
+      "class": "Cienie"      
+		},
+		"(Sh) Veteran": {
+			"name": "(Ci) Veteranen",
+      "description" :"Wybierz zdolność specjalną z innej karty szajki.",
+      "class": "Cienie"      
+		},
+		"(Sm) All Hands": {
+			"name": "(Prz) Wszystkie ręce na pokład",
+      "description" :"Podczas przestoju jedna z kohort może wykonać dla szajki aktywność przestoju: nabycie aktywów, zredukowanie przypału lub pracę nad projektem długofalowym.",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Ghost Passage": {
+			"name": "(Prz) Duchowi podróżnicy",
+      "description" :"Dzięki ciężko zdobytemu doświadczeniu lub rytuałowi okultystycznemu wszyscy członkowie szajki są odporni na opętanie przez duchy. Mogą jednak z własnej woli „nieść” w swoim ciele duchowego pasażera",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Just Passing Through": {
+			"name": "(Prz) Spacer po mieście",
+      "description" :" Podczas przestoju otrzymujecie −1 punkt przypału. Kiedy wasz przypał wynosi 4 lub mniej, otrzymujecie +1k do oszukiwania ludzi, gdy udajecie zwykłych obywateli miasta.",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Leverage": {
+			"name": "(Prz) Dźwignia",
+      "description" :"Wasza szajka zaopatruje inne frakcje w nielegalne dobra i jej sukces jest dla nich korzystny. Gdy otrzymujecie rep, zwiększcie ją dodatkowo o +1 punkt.",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Like Part of the Family": {
+			"name": "(Prz) Niczym członek rodziny",
+      "description" :"Stwórzcie jeden ze swoich pojazdów na zasadach tworzenia kohorty (użyjcie wad i zalet z listy po lewej). Jego jakość równa jest Kręgowi waszej szajki +1.",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Reavers": {
+			"name": "(Prz) Rozbójnicy",
+      "description" :"Kiedy wdajecie się w konflikt, znajdując się w pojeździe, otrzymujecie +1 do efektu za prędkość i uszkodzenia powodowane przez pojazd. Wasz pojazd otrzymuje pancerz.",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Renegades": {
+			"name": "(Prz) Renegaci",
+      "description" :"Każdy BG może dodać +1 kropkę do wartości Przemykania, Wojowania lub Wyrafinowania (maksymalna wartość akcji wynosi 3 punkty).",
+      "class": "Przemytnicy"      
+		},
+		"(Sm) Veteran": {
+			"name": "(Prz) Weterani",
+      "description" :"Wybierz zdolność specjalną z innej karty szajki.",
+      "class": "Przemytnicy"      
+		}
+	}
+}
