@@ -1,0 +1,44 @@
+{
+  "label": "Słabości",
+  "mapping": {
+    "description": "system.description"
+  },
+
+	"entries": [
+		{
+			"id": "Faith",
+			"name": "Wiara",
+			"description":"Jesteś oddanym wyznawcą jakiejś niewidzialnej siły, zapomnianego bóstwa,przodków itd.<br>- Matka Narya, Objęcia Płaczącej Pani, Sześć Wież<br>- Ilacille, ruiny świątyni zapomnianych bóstw, Węglowa Grań<br>- Nelisanne, Kościół Cielesnej Ekstazy, Jasnomurze.<br>- Lord Penderyn, Archiv der Echos, Charterhall.Lord Penderyn, Archiwum Szeptów, Pierwomurze."
+		},
+		{
+			"id": "Gambling",
+			"name": "Hazard",
+			"description":"Szalejesz za grami losowymi, obstawianiem wyników sportowych itd <br><br>- Dom gry Spogga, Wronia Stopa.<br>-Grist, walki bokserskie, Doki.<br>- Helena, kasyno Srebrny Jeleń, Jedwabny Brzeg.<br>- Mistrz Vreen, wyścigi psów, Nocny Targ.<br>- Lady Zmierzch, klub Pałac Zmierzchu, Biała Korona.<br>- Sierżant Velk, podziemne kręgi, Burobagnie."
+		},
+		{
+			"id": "Luxury",
+			"name": "Luksus",
+			"description":"Kosztowne i ostentacyjne okazywanie wielkiego bogactwa.<br><br>-Śpiewak, łaźnia, Wronia Stopa.<br>- Harvale Brogan, klub Wieki Minione, Jasnomurze.<br>- Trafika Travena, Węglowa Grań.<br>- Dundridge i Synowie, wyśmienitemateriały i usługi krawieckie, Nocny Targ.<br>- Szefowa kuchni Roselle, restauracja Złota Śliwka, Sześć Wież.<br>- Mistrz Helleren, Teatr Ogrodowej Iglicy, Biała Korona."
+		},
+		{
+			"id": "Obligation",
+			"name": "Zobowiązanie",
+			"description":" Jesteś oddany swojej rodzinie, sprawie, organizacji, działalności charytatywnej itp.<br><br>- Członkowie rodziny (dziedzictwo) lub dawni współpracownicy (przeszłość).<br>-  Hutton, skowlańscy uchodźcy/rewolucjoniści, Charłakowa Jama.<br>- Krąg Ognia, tajne stowarzyszenie."    
+		},
+		{
+			"id": "Pleasure",
+			"name": "Przyjemność",
+			"description":"Osiągasz zaspokojenie za sprawą kochanków, jedzenia, alkoholu, narkotyków, sztuki, teatru itd.<br><br>-Śpiewak, łaźnia, Wronia Stopa.<br>- Harvale Brogan, klub Wieki Minione, Jasnomurze.<br>- Trafika Travena, Węglowa Grań.<br>- Dundridge i Synowie, wyśmienitemateriały i usługi krawieckie, Nocny Targ.<br>- Szefowa kuchni Roselle, restauracja Złota Śliwka, Sześć Wież.<br>- Mistrz Helleren, Teatr Ogrodowej Iglicy, Biała Korona.<br>- Mardin Gull, gospoda Dziurawe Wiadereczko, Wronia Stopa.<br>- Pux Bolin, gospoda Małpa i Harfa, Nocny Targ.<br>- Helena, kasyno Srebrny Jeleń, Jedwabny Brzeg.<br>- Lady Freyla, bar Baryłka Imperatora, Biała Korona.<br>- Avrick, handlarz proszkami, Bigowy Wądół.<br>- Rolan Volaris, klub towarzyski Woal, Nocny Targ.<br>-  Pani Tesslyn, burdel Czerwony Lampion, Jedwabny Brzeg.<br>-  Trafika Travena, Węglowa Grań.<br>-  Eldrin Prichard, barka rozkoszy Srebrny Łabędź, kanały Jasnomurza.<br>- Klejnocik, Jaskółeczka i Promyczek, Aleja Pełzaczy, Doki."
+		},
+		{
+			"id": "Stupor",
+			"name": "Odurzenie",
+			"description":"Poszukujesz zapomnienia w nadużywaniu narkotyków lub alkoholu, w zbieraniu ostrego łomotu podczas walk w podziemnym kręgu itd.<br><br>- Mardin Gull, gospoda Dziurawe Wiadereczko, Wronia Stopa.<br>- Pux Bolin, gospoda Małpa i Harfa, Nocny Targ.<br>- Helena, kasyno Srebrny Jeleń, Jedwabny Brzeg.<br>- Lady Freyla, bar Baryłka Imperatora, Biała Korona.<br>- Avrick, handlarz proszkami, Bigowy Wądół.<br>- Rolan Volaris, klub towarzyski Woal, Nocny Targ.<br>-  Pani Tesslyn, burdel Czerwony Lampion, Jedwabny Brzeg.<br>-  Trafika Travena, Węglowa Grań.<br>-  Eldrin Prichard, barka rozkoszy Srebrny Łabędź, kanały Jasnomurza.<br>- Klejnocik, Jaskółeczka i Promyczek, Aleja Pełzaczy, Doki."      
+		},
+		{
+			"id": "Weird",
+			"name": "Ekscentryzm",
+			"description":"Eksperymentujesz z dziwnymi substancjami, bratasz się z niespokojnymi duchami, studiujesz dziwaczne rytuały lub zakazane tematy itd.<br><br>- Zamaskowany właściciel gospody znajdującej się w na wpół zatopionej grocie w pobliżu doków. Dziwne przejścia wiodące do jeszcze dziwniejszych komnat.<br>- Ojciec Yoren, Objęcia Płaczącej Pani, Sześć Wież<br>- „Salia”, dusza należąca do Pojednanych, przeskakująca z jednego ciała do drugiego, gdy ma taki kaprys.<br>- Siostra Cierń, gang łupieżców martwych ziem, Dworzec Gaddoc.<br>- Ojak, tycherosjański sprzedawca, wędrujący ze straganem po dachach, Jedwabny Brzeg.<br>- Błogosławiona Aranna, kultystka zapomnianego bóstwa, barka zacumowana w Nocnym Targu."
+		}
+	]
+}
