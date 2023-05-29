@@ -2,7 +2,7 @@
   "id":"bitd-pl",
   "title":"Blades in the Dark - Polish",
   "description":"Testowe tłumaczenie na jezyk polski",  
-  "version":"0.9",
+  "version":"0.10",
   "authors": [
     {
       "name": "Axotte",
@@ -19,7 +19,7 @@
   "esmodules": ["bitd-pl.js"],
   "url":"https://github.com/Axotte/bitd-foundry-pl",
   "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
-  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.9.zip",
+  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.10.zip",
   "languages" : [
        {
           "lang" : "pl",
