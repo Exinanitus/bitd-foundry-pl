@@ -7,47 +7,47 @@
   
 	"entries": {
 		"(C) Battleborn": {
-			"name": "(Si) Zrodzony w boju",
+			"name": "(Sie) Zrodzony w boju",
       "description": "Skorzystaj ze specjalnego pancerza, aby zredukować krzywdę pochodzącą z ataku w walce lub forsować się podczas starcia.",
       "class": "Siepacz"      
 		},
 		"(C) Bodyguard": {
-			"name": "(Si) Ochroniarz",
+			"name": "(Sie) Ochroniarz",
       "description": "Kiedy chronisz kogoś należącego do szajki, otrzymujesz +1k do rzutu na odpieranie. Kiedy zbierasz informacje, aby przewidzieć potencjalne zagrożenia dla danej sytuacji, otrzymujesz +1 do efektu.",
       "class": "Siepacz"  
 		},
 		"(C) Ghost Fighter": {
-			"name": "(Si) Pogromca duchów",
+			"name": "(Sie) Pogromca duchów",
       "description": "Możesz nasycić duchową energią swoje dłonie, bronie do walki wręcz lub narzędzia. Podczas walki zyskujesz siłę przeciwko istotom nadnaturalnym. Możesz mocować się z duchami, aby je unieruchomić lub pochwycić.",
       "class": "Siepacz"        
 		},
 		"(C) Leader": {
-			"name": "(Si) Przywódca",
+			"name": "(Sie) Przywódca",
       "description": "Kiedy Przewodzisz kohorcie, kontynuuje ona walkę nawet wtedy, gdy zostałaby rozbita (nie zostaje wyłączona z walki, gdy otrzyma krzywdę 3 poziomu). Kohorta otrzymuje +1 do efektu i 1 punkt pancerza.",
       "class": "Siepacz"  
 		},
 		"(C) Mule": {
-			"name": "(Si) Tragarz",
+			"name": "(Sie) Tragarz",
       "description": "Twoje  obciążenie jest wyższe niż standardowe. Lekkie: 5, Normalne: 7, Ciężkie: 8.",
       "class": "Siepacz"        
 		},
 		"(C) Not to be Trifled With": {
-			"name": "(Si) Nie ma lipy",
+			"name": "(Sie) Nie ma lipy",
       "description": "Możesz forsować się, aby zrobić jedną z następujących rzeczy: dokonaj aktu siły fizycznej, który graniczy z nadludzkim wyczynem lub zwiąż w wyrównanej walce mały gang.",
       "class": "Siepacz"  
 		},
 		"(C) Savage": {
-			"name": "(Si) Brutal",
+			"name": "(Sie) Brutal",
       "description": "Kiedy używasz przemocy fizycznej, jesteś przerażający. Kiedy Przewodzisz przerażonemu celowi, otrzymujesz +1k.",
       "class": "Siepacz"        
 		},
-		"(C) Weteran": {
-			"name": "(Si) Weteran",
+		"(C) Veteran": {
+			"name": "(Sie) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra",
       "class": "Siepacz"  
 		},
 		"(C) Vigorous": {
-			"name": "(Si) Żywotny",
+			"name": "(Sie) Żywotny",
       "description": "Zdrowiejesz szybciej niż inni. Zaznacz na stałe jeden segment swojego zegara leczenia. Otrzymujesz +1k do rzutów na leczenie.",
       "class": "Siepacz"  
 		},
@@ -86,7 +86,7 @@
       "description": "Otrzymujesz dodatkowy wyzwalacz pd: Odpłaciłeś się komuś, kto skrzywdził ciebie lub kogoś, na kim ci zależy. Jeśli twoja szajka pomogła ci się zemścić, zaznacz również pd szajki.",
       "class": "Ogar"  
 		},
-		"(H) Weteran": {
+		"(H) Veteran": {
 			"name": "(Og) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra.",
       "class": "Ogar"  
@@ -121,7 +121,7 @@
       "description": "Du kannst an Körpern tüfteln, um Wunden zu versorgen oder Sterbende zu stabilisieren. Du darfst Erkrankungen oder Leichen studieren. Jeder in deiner Gang erhält +1W auf Würfe zur medizinischen Behandlung.",
       "class": "Pijawka"  
 		},
-		"(Le) Sabotażysta": {
+		"(Le) Saboteur": {
 			"name": "(Pi)  Sabotażysta",
       "description": "Beim Zerstören ist dein Werk sehr viel leiser und die Beschädigung ist vor flüchtiger Betrachtung äußerst gut verborgen.",
       "class": "Pijawka"  
@@ -131,7 +131,7 @@
       "description": "Wybierz narkotyk lub truciznę (ze swojego bandolieru), na którą jesteś odporny. Forsuj się, aby wydzielać ją przez skórę, ślinę lub wydychać w postaci oparu.",
       "class": "Pijawka"  
 		},
-		"(Le) Weteran": {
+		"(Le) Veteran": {
 			"name": "(Pi)  Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra.",
       "class": "Pijawka"  
@@ -161,7 +161,7 @@
       "description": "Gdy obchodzisz środki bezpieczeństwa, nie bierzesz pod uwagę ich jakości lub Kręgu.",
       "class": "Czychacz"  
 		},
-		"(Lu) Błyskawiczna reakcjas": {
+		"(Lu) Reflexes": {
 			"name": "(Cz) Błyskawiczna reakcja",
       "description": "W razie wątpliwości, kto działa pierwszy, jesteś to ty.",
       "class": "Czychacz"  
@@ -176,7 +176,7 @@
       "description": "Możesz forsować się, aby zrobić jedną z następujących czynności: dokonaj atletycznego wyczynu, który graniczy z nadludzkimi możliwościami lub wykonajmanewr, który zdezorientuje przeciwników i sprawi, że zaatakują siebie nawzajem.",
       "class": "Czychacz"  
 		},
-		"(Lu) Weteran": {
+		"(Lu) Veteran": {
 			"name": "(Cz) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra",
       "class": "Czychacz"  
@@ -221,52 +221,52 @@
       "description": "Otrzymujesz +1k przeciwko celowi, z którym łączy cię zażyła relacja.",
       "class": "Ściemniacz"  
 		},
-		"(Sl) Weteran": {
+		"(Sl) Veteran": {
 			"name": "(Śc) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra",
       "class": "Ściemniacz"  
 		},
-		"(Pa) Calculating": {
+		"(Sp) Calculating": {
 			"name": "(Pa) Dokładny",
       "description": "Dzięki starannemu planowaniu możesz podczas przestoju przyznać sobie lub innemu członkowi szajki +1 aktywność przestoju.",
       "class": "Pająk"  
 		},
-		"(Pa) Connected": {
+		"(Sp) Connected": {
 			"name": "(Pa) Powiązany",
       "description": "Podczas przestoju otrzymujesz +1 poziom rezultatu rzutu, kiedy nabywasz aktywa lub redukujesz przypał",
       "class": "Pająk"  
 		},
-		"(Pa) Foresight": {
+		"(Sp) Foresight": {
 			"name": "(Pa) Przezorny",
       "description": "Dwa razy na skok możesz pomagać towarzyszom bez płacenia za to stresem. Opisz, w jaki sposób się do tego przygotowałeś.",
       "class": "Pająk"  
 		},
-		"(Pa) Functioning Vice": {
+		"(Sp) Functioning Vice": {
 			"name": "(Pa) Pod kontrolą",
       "description": "Kiedy oddajesz się swojej słabości, możesz zmodyfikować wynik rzutu na kościach o 1 lub 2 (w górę lub w dół). Sojusznicy, którzy ci w tym towarzyszą, mogą zrobić to samo.",
       "class": "Pająk"  
 		},
-		"(Pa) Ghost  Contract": {
+		"(Sp) Ghost  Contract": {
 			"name": "(Pa) Duchowy kontrakt",
       "description": "Kiedy podajesz dłoń lub składasz podpis na znak zawarcia umowy, ty oraz twój partner – człowiek lub inna istota – otrzymujecie znamię przysięgi. Jeśli którekolwiek z was zerwie umowę, otrzyma krzywdę 3 poziomu „Przeklęty”.",
       "class": "Pająk"  
 		},
-		"(Pa) Jail Bird": {
+		"(Sp) Jail Bird": {
 			"name": "(Pa) Recydywista",
       "description": "Kiedy trafiasz do więzienia, traktuj poziom obławy jako o 1 niższy, a Krąg o 1 poziom wyższy. Obok wyniku rzutu na uwięzienie otrzymujesz również +1 do statusu u frakcji, której pomagasz, gdy jesteś w kiciu",
       "class": "Pająk"  
 		},
-		"(Pa) Mastermind": {
+		"(Sp) Mastermind": {
 			"name": "(Pa) Mistrz zbrodni",
       "description": "Możesz skorzystać ze swojego specjalnego pancerza, aby chronić sojusznika bądź forsować się, gdy zbierasz informacje lub pracujesz nad projektami długofalowymi.",
       "class": "Pająk"  
 		},
-		"(Pa) Weteran": {
+		"(Sp) Veteran": {
 			"name": "(Pa) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra",
       "class": "Pająk"  
 		},
-		"(Pa) Weaving the Web": {
+		"(Sp) Weaving the Web": {
 			"name": "(Pa) Pajęczyna",
       "description": "Otrzymujesz +1k do Bratania, kiedy zbierasz informacje na temat celu skoku. Otrzymujesz dla tej operacji +1k do rzutu na wejście.",
       "class": "Pająk"  
@@ -306,7 +306,7 @@
       "description": "Forsuj się, aby wykonać jedną z następujących czynności: spowodować uderzenie pioruna i użyć go jako broni lub wywołać w najbliższym otoczeniu burzę (ulewny deszcz, porywisty wiatr, gęstą mgłę, mrożący krew w żyłach mróz itp.)",
       "class": "Szaptuch"  
 		},
-		"(W) Weteran": {
+		"(W) Veteran": {
 			"name": "(Sz) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra",
       "class": "Szaptuch"  
@@ -371,7 +371,7 @@
 		"description": "Możesz Dostroić się do pola duchowego, aby przejąć kontrolę nad żywym ciałem. Kiedy ktoś lub coś spróbuje podważyć twoją kontrolę, musisz dostroić się ponownie (ryzykując odniesienie elektroplazmowej krzywdy) lub opuścić ciało. Kontrola zostaje podważona, gdy: pochłaniasz duchową energię swojego żywiciela, działają przeciwko tobie moce tajemne, żywiciel popada w rozpacz. Możesz bardzo łatwo opętać golema lub opustoszałego, jeśli został on rytualnie przygotowany na przyjęcie twojej esencji (zamień wtedy księgę ducha odpowiednio na księgę golema lub wampira).",
 		"class": "Duch"
 		},
-		"(G) Weteran": {
+		"(G) Veteran": {
 			"name": "(Du) Weteran",
 		"description": "Wybierz zdolność specjalną z innej księgi łotra.",
 		"class": "Duch"
@@ -406,7 +406,7 @@
 		"description": "Jesteś duchem ożywiającym nieumarłe ciało. Zaznacz maksymalną wartość traumy. Wybierz cztery stany traumatyczne. Ataki tajemne działają silnie przeciwko tobie. Jeśli odniesiesz śmiertelną krzywdę lub kolejną traumę, nie giniesz, lecz twój nieumarły duch zostaje przytłoczony. Odnosisz wówczas krzywdę 3 poziomu: „Obezwładniony” – cierpisz, dopóki nie pożywisz się na tyle, by się zregenerować. Jeśli w tym stanie odniesiesz krzywdę pochodzącą z tajemnego źródła, zostajesz zniszczony. Twoje tory pd są dłuższe (rozwijasz się wolniej). Masz również 12 pól stresu zamiast 9.",
 		"class": "Wampir"
 		},
-		"(V) Weteran": {
+		"(V) Veteran": {
 			"name": "(Wa) Weteran",
 		"description": "Wybierz zdolność specjalną z innej księgi łotra",
 		"class": "Wampir"
