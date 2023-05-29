@@ -13,7 +13,7 @@
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "10",
   "url": "https://github.com/Axotte/bitd-foundry-pl/",
-  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.4.zip",
+  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.5.zip",
   "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
   
   "languages" : [
