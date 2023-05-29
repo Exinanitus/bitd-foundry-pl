@@ -1,69 +1,85 @@
 {
-	"label": "Wizerunek szajki",
-	"entries": {
-		"Alluring": {
-			"name": "Uwodzicielscy",
+	"label": "Réputation de la bande",
+	"entries": [
+		{
+			"id": "Alluring",
+			"name": "Séduisante",
 			"description": ""
 		},
-		"Ambitious": {
-			"name": "Ambitni",
+		{
+			"id": "Ambitious",
+			"name": "Ambitieux",
 			"description": ""
 		},
-		"Brutal": {
-			"name": "Brutalni",
+		{
+			"id": "Brutal",
+			"name": "Brutaux",
 			"description": ""
 		},
-		"Cruel": {
-			"name": "Bezlitośni",
+		{
+			"id": "Cruel",
+			"name": "Cruelle",
 			"description": ""
 		},
-		"Daring": {
-			"name": "Odważni",
+		{
+			"id": "Daring",
+			"name": "Intrépides",
 			"description": ""
 		},
-		"Ferocious": {
-			"name": "Dzicy",
+		{
+			"id": "Ferocious",
+			"name": "Feroce",
 			"description": ""
 		},
-		"Honorable": {
-			"name": "Honorowi",
+		{
+			"id": "Honorable",
+			"name": "Honorables",
 			"description": ""
 		},
-		"Monstrous": {
-			"name": "Odpychający",
+		{
+			"id": "Monstrous",
+			"name": "Monstrueuse",
 			"description": ""
 		},
-		"Professional": {
-			"name": "Profesjonalni",
+		{
+			"id": "Professional",
+			"name": "Professionels",
 			"description": ""
 		},
-		"Radiant": {
-			"name": "Światli",
+		{
+			"id": "Radiant",
+			"name": "Radiante",
 			"description": ""
 		},
-		"Savvy": {
-			"name": "Cwani",
+		{
+			"id": "Savvy",
+			"name": "Futés",
 			"description": ""
 		},
-		"Serene": {
-			"name": "Opanowani",
+		{
+			"id": "Serene",
+			"name": "Sereine",
 			"description": ""
 		},
-		"Sinister": {
-			"name": "Kasandryczni",
+		{
+			"id": "Sinister",
+			"name": "Sinistre",
 			"description": ""
 		},
-		"Strange": {
-			"name": "Dziwni",
+		{
+			"id": "Strange",
+			"name": "Etrange",
 			"description": ""
 		},
-		"Subtle": {
-			"name": "Subtelni",
+		{
+			"id": "Subtle",
+			"name": "Subtils",
 			"description": ""
 		},
-		"Transcendent": {
-			"name": "???",
+		{
+			"id": "Transcendent",
+			"name": "Transcendante",
 			"description": ""
 		}
-	}
+	]
 }
