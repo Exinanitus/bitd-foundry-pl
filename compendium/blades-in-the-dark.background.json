@@ -1,0 +1,37 @@
+{
+    "label": "Przeszłość",
+    "mapping": {
+        "description": "system.description"
+    },
+
+    "entries": [
+        { "id": "Academic",
+	"name": "Uczony",
+	"description": "Naukowiec, wykładowca bądź student Akademii Doskvol, filozof, dziennikarz itd." },
+	
+	{ "id": "Labor",
+	"name": "Robotnik",
+	"description": "Służący, pracownik fabryczny, woźnica, doker, żeglarz, Majcher Kolejowy itd. Doker Kompanii Północny Hak" },
+
+	{ "id": "Law",
+	"name": "Stróż prawa",
+	"description": "Adwokat, radca prawny, Błękitny Płaszcz lub aspirant (a nawet Strażnik Dusz), strażnik więzienny z Żelaznego Haka itd" },
+
+	{ "id": "Military",
+	"name": "Wojskowy",
+	"description": "Imperialny lub skowlański żołnierz, najemnik, agent wywiadu, strateg, instruktor wojskowy itd" },
+
+	{ "id": "Noble",
+	"name": "Szlachcic",
+	"description": "Dyletant, dworzanin, potomek upadłego rodu itd." },
+
+	{ "id": "Trade",
+	"name": "Fachowiec",
+	"description": "sklepikarz, kupiec, utalentowany rzemieślnik, pośrednik spedycyjny itd. Łącznik Ministerstwa Ochrony." },
+
+	{ "id": "Underworld",
+	"name": "Przestępca",
+	"description": "Ulicznik, członek gangu, młody bandzior lub inny wyrzutek, który dorastał na ulicy." }
+    ]
+  
+}
