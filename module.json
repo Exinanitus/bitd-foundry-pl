@@ -1,33 +1,40 @@
 {
-  "id": "bitd-pl",
-  "title": "Blades in the Dark - Polish",
-  "description": "Testowe tłumaczenie na jezyk polski",
-  "version": "0.5",
+  "id":"bitd-pl",
+  "title":"Blades in the Dark - Polish",
+  "description":"Testowe tłumaczenie na jezyk polski",  
+  "version":"0.5",
   "authors": [
     {
       "name": "Axotte",
-      "email": "",
-      "url": "Nun"
+      "email": "Null",
+      "url": "Null"
     }
-    ],
+  ],
+  
   "compatibility":{
     "minimum":10,
     "verified":"10"
   },
-  "esmodules": ["bitd-pl.js"]
-  "url": "https://github.com/Axotte/bitd-foundry-pl/",
-  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.5.zip",
-  "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
   
+  "esmodules": ["bitd-pl.js"],
+  "url":"https://github.com/Axotte/bitd-foundry-pl",
+  "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
+  "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/0.5.zip",
   "languages" : [
        {
           "lang" : "pl",
           "name" : "Polski",
           "path" : "pl.json"
        }
-              ],
-  
-"relationships":{
+	],
+   "dependencies":[
+      {
+         "name":"babele",
+         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+   ],
+
+  "relationships":{
     "requires":[
       {
         "id":"babele",
@@ -35,10 +42,11 @@
         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       }
     ],
-  "systems":[
+    "systems":[
       {
         "id":"blades-in-the-dark"
       }
     ]
-  }
+  }  
 }
+
