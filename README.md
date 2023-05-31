@@ -3,7 +3,7 @@ Tłmaczenie na język Polski sytemmu [Blades in the Dark System](https://github.
 
 ## Info
 - Do działania wymagany jest moduł [Babele](https://foundryvtt.com/packages/babele) 
-- Tłuamczenie zawiera również pliki do alternatywnej karty postaci autorstwa [Justinross] (https://github.com/justinross/), które należy ręcznie przekopiować do `bitd-alternate-sheets\languages` oraz dodać do pliku `module.json` poniższe linijki:
+- Tłuamczenie zawiera również plik do alternatywnej karty postaci autorstwa [Justinross](https://github.com/justinross/), które należy ręcznie przekopiować do `bitd-alternate-sheets\languages` oraz dodać do pliku `module.json` poniższe linijki:
 ```
     {
       "lang": "pl",
