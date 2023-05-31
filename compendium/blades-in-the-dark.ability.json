@@ -274,47 +274,47 @@
 		"(W) Compel": {
 			"name": "(Sz) Rozkaz",
       "description": "Możesz Dostroić się do pola duchowego, aby zmusić pobliskie duchy do stawienia się przed tobą i wykonania wydanego rozkazu. Nie przerażają cię duchy, które przywołujesz lub naginasz do swojej woli (choć twoi sojusznicy to zupełnie inna sprawa).",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Ghost Mind": {
 			"name": "(Sz) Duchowy zmysł",
       "description": "Jesteś świadomy obecności istot nadnaturalnych. Otrzymujesz +1k podczas zbierania informacji dotyczących spraw nadnaturalnych.",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Iron Will": {
 			"name": "(Sz) Żelazna wola",
       "description": "Jesteś odporny na grozę niektórych istot nadnaturalnych. Kiedy wykonujesz rzut na odpieranie przy użyciu Śmiałości, otrzymujesz +1k.",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Occultist": {
 			"name": "(Sz) Okultysta",
       "description": "Znasz tajne sposoby Bratania się ze starożytnymi mocami, zapomnianymi bóstwami lub demonami. Kiedy się z jakimś zbratasz, otrzymujesz +1k do Przewodzenia kultystom, którzy oddają mu cześć.",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Ritual": {
 			"name": "(Sz) Rytuały",
       "description": "Możesz Analizować rytuał okultystyczny (lub stworzyć nowy), aby przywołać nadnaturalny efekt lub istotę. Znasz jeden rytuał.",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Strange Methods": {
 			"name": "(Sz) Nietypowe metody",
       "description": "Kiedy wynajdujesz lub tworzysz coś, co ma cechę tajemny, otrzymujesz +1 do poziomu rezultatu rzutu (1–3 staje się 4/5 itd.). Znasz jeden projekt tajemny.",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Tempest": {
 			"name": "(Sz) Nawałnica",
       "description": "Forsuj się, aby wykonać jedną z następujących czynności: spowodować uderzenie pioruna i użyć go jako broni lub wywołać w najbliższym otoczeniu burzę (ulewny deszcz, porywisty wiatr, gęstą mgłę, mrożący krew w żyłach mróz itp.)",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Veteran": {
 			"name": "(Sz) Weteran",
       "description": "Wybierz zdolność specjalną z innej księgi łotra",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(W) Warded": {
 			"name": "(Sz) Chroniony",
       "description": "Możesz skorzystać ze specjalnego pancerza, aby odeprzeć nadnaturalną konsekwencję lub forsować się, kiedy stawiasz czoła siłom tajemnym lub z nich korzystasz.",
-      "class": "Szaptuch"  
+      "class": "Szeptuch"  
 		},
 		"(Hu) Automaton": {
 			"name": "(Go) Automaton",
