@@ -93,7 +93,7 @@
 		},
 		"Cult": {
 			"name": "Kultyści",
-			"description": "Akolici zapomnianego bóstw",
+			"description": "Akolici zapomnianego bóstwa",
 			"experience_clues": "- Realizowanie elementów boskiego planu lub wprowadzanie w życie nauk bóstwa.<br>- Zmaganie się z potężniejszymi przeciwnościami.<br>- Zwiększenie reputacji szajki lub wyrobienie sobie nowej.<br>- Uzewnętrznienie celów, motywacji, wewnętrznych konfliktów, natury szajki.",      
 			"terrname1": "Klasztor",
 			"terrdesc1": "+1 do skali dla kohort Adeptów",

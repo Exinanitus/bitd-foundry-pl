@@ -1,0 +1,833 @@
+{
+	"label": "Persona",
+	"mapping":{
+    "descriptionshort":"system.description_short",
+	"description":"system.description",
+    "class":"system.associated_class",
+	"notes":"system.notes",
+	"faction":"system.associated_faction",
+	"crew_types":"system.associated_crew_type"
+	},
+  
+	"entries": {
+		"Bazso Baz":{
+			"descriptionshort": "Przywódca gangu",
+			"description": " ",
+			"class": "Ściemniacz",
+			"notes": "",
+			"faction": "",
+			"crew_types": ""
+		},
+		"Bryl":{
+			"descriptionshort": "Handlarz narkotykami",
+			"description": " ",
+			"class": "Ściemniacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Klyra":{
+			"descriptionshort": "Właścicielka knajpy",
+			"description": " ",
+			"class": "Ściemniacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"2VuLIj4Z8elDAXwN":{
+			"name": "Cynthia",
+			"descriptionshort": "Prostytutka",
+			"description": " ",
+			"class": "Ściemniacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Harker":{
+			"descriptionshort": "Przestępca",
+			"description": " ",
+			"class": "Ściemniacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Telda":{
+			"descriptionshort": "Żebraczka",
+			"description": " ",
+			"class": "Czychacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Darmot":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": "Czychacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Frake":{
+			"descriptionshort": "Ślusarz",
+			"description": " ",
+			"class": "Czychacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Roslyn Kellis":{
+			"descriptionshort": "Arystokratka",
+			"description": " ",
+			"class": "Czychacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Petra":{
+			"descriptionshort": "Miejska urzędniczka",
+			"description": " ",
+			"class": "Czychacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Steiner":{
+			"descriptionshort": "Zabójca",
+			"description": " ",
+			"class": "Ogar",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Celene":{
+			"descriptionshort": "Wartowniczka",
+			"description": " ",
+			"class": "Ogar",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Melvir":{
+			"descriptionshort": "Konsyliarz",
+			"description": " ",
+			"class": "Ogar",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Veleris":{
+			"descriptionshort": "Szpieg",
+			"description": " ",
+			"class": "Ogar",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Casta":{
+			"descriptionshort": "Łowczyni nagród",
+			"description": " ",
+			"class": "Ogar",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Salia":{
+			"descriptionshort": "Brokerka informacji",
+			"description": " ",
+			"class": "Pająk",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Augus":{
+			"descriptionshort": "Naczelny architekt",
+			"description": " ",
+			"class": "Pająk",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Jennah":{
+			"descriptionshort": "Śłużąca",
+			"description": " ",
+			"class": "Pająk",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Riven":{
+			"descriptionshort": "Chemik",
+			"description": " ",
+			"class": "Pająk",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Jeren":{
+			"descriptionshort": "Archiwista Błękitnych Płaszczy",
+			"description": " ",
+			"class": "Pająk",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Stazia":{
+			"descriptionshort": "Aptekarka",
+			"description": " ",
+			"class": "Pijawka",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Veldren":{
+			"descriptionshort": "Psychonauta",
+			"description": " ",
+			"class": "Pijawka",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Eckerd":{
+			"descriptionshort": "Porywacz zwłok",
+			"description": " ",
+			"class": "Pijawka",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Jul":{
+			"descriptionshort": "Handlarka krwią",
+			"description": " ",
+			"class": "Pijawka",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Malista":{
+			"descriptionshort": "Kapłanka",
+			"description": " ",
+			"class": "Pijawka",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Marlane":{
+			"descriptionshort": "Pięściarka",
+			"description": " ",
+			"class": "Siepacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Chael":{
+			"descriptionshort": "Bezwzględny zbir",
+			"description": " ",
+			"class": "Siepacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Litość":{
+			"descriptionshort": "Bezwzględna morderczyni",
+			"description": " ",
+			"class": "Siepacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Gracja":{
+			"descriptionshort": "Szantażystka",
+			"description": " ",
+			"class": "Siepacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		
+		},
+		"Zębulec":{
+			"descriptionshort": "Konsyliarz",
+			"description": " ",
+			"class": "Siepacz",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Nyryx":{
+			"descriptionshort": "Duch opętujący ludzi",
+			"description": " ",
+			"class": "Szeptuch",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Scurlock":{
+			"descriptionshort": "Wampir",
+			"description": " ",
+			"class": "Szeptuch",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Setarra":{
+			"descriptionshort": "Demonica",
+			"description": " ",
+			"class": "Szeptuch",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Quellyn":{
+			"descriptionshort": "Wiedźma",
+			"description": " ",
+			"class": "Szeptuch",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Flint":{
+			"descriptionshort": "Handlarz duszami",
+			"description": " ",
+			"class": "Szeptuch",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Dowler":{
+			"descriptionshort": "Odkrywca",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Cienie"
+		},
+		"Laroze":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Cienie"
+		},
+		"Amancio":{
+			"descriptionshort": "Pośrednik",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Cienie"
+		},
+		"Fitz":{
+			"descriptionshort": "Kolekcjoner",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Cienie"
+		},
+		"Adelaide Phroaig":{
+			"descriptionshort": "Szlachcianka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Cienie"
+		},
+		"Rigney":{
+			"descriptionshort": "Właścicielka tłocznej gospody",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Cienie"
+		},
+		"Rolan Wott":{
+			"descriptionshort": "Sędzia",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Dilerzy"
+		},
+		"Laroze":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Dilerzy"
+		},
+		"Lydra":{
+			"descriptionshort": "Pośredniczka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Dilerzy"
+		},
+		"Hoxley":{
+			"descriptionshort": "Przemytnik",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Dilerzy"
+		},
+		"Anya":{
+			"descriptionshort": "Dyletantka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Dilerzy"
+		},
+		"Marlo":{
+			"descriptionshort": "Szef gangu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Dilerzy"
+		},
+		"Gagan":{
+			"descriptionshort": "uczony",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Kultyści"
+		},
+		"Adikin":{
+			"descriptionshort": "okultysta",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Kultyści"
+		},
+		"Hutchins":{
+			"descriptionshort": "antykwariusz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Kultyści"
+		},
+		"Moriya":{
+			"descriptionshort": "handlarka duszami",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Kultyści"
+		},
+		"Mateas Kline":{
+			"descriptionshort": "szlachcic",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Kultyści"
+		},
+		"Bennett":{
+			"descriptionshort": "astronom",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Kultyści"
+		},
+		"Meg":{
+			"descriptionshort": " wojowniczka podziemnego kręgu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Oprychy"
+		},
+		"Conway":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Oprychy"
+		},
+		"Keller":{
+			"descriptionshort": "kowal",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Oprychy"
+		},
+		"Tomas":{
+			"descriptionshort": "konsyliarz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Oprychy"
+		},
+		"Walker":{
+			"descriptionshort": "zarządca oddziału więziennego",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Oprychy"
+		},
+		"Lutes":{
+			"descriptionshort": "właściciel gospody",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Oprychy"
+		},
+		"Elynn":{
+			"descriptionshort": "dokerka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Przemytnicy"
+		},
+		"Rolan":{
+			"descriptionshort": "handlarz narkotykami",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Przemytnicy"
+		},
+		"Sera":{
+			"descriptionshort": "handlarka bronią",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Przemytnicy"
+		},
+		"Nyelle":{
+			"descriptionshort": "handlarka duszami",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Przemytnicy"
+		},
+		"Decker":{
+			"descriptionshort": "anarchista",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Przemytnicy"
+		},
+		"Esme":{
+			"descriptionshort": "właścicielka gospody",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Przemytnicy"
+		},
+		"Trev":{
+			"descriptionshort": "szef gangu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Zabójcy"
+		},
+		"Lydra":{
+			"descriptionshort": "pośredniczka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Zabójcy"
+		},
+		"Irimina":{
+			"descriptionshort": "bezwzględna arystokratka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Zabójcy"
+		},
+		"Karlos":{
+			"descriptionshort": "łowca nagród",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Zabójcy"
+		},
+		"Exeter":{
+			"descriptionshort": "Strażnik Dusz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Zabójcy"
+		},
+		"Sevoy":{
+			"descriptionshort": "magnat kupiecki",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": "Zabójcy"
+		},
+		"Lyssa":{
+			"descriptionshort": "szefowa gangu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Ulf Ironborn":{
+			"descriptionshort": "brutalny Skowlanczyk",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Mylera Klev,":{
+			"descriptionshort": "szefowa gangu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Merrul Brime":{
+			"descriptionshort": "handlarz tajemnicami",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Lady Drake":{
+			"descriptionshort": "sędzina",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Tower":{
+			"name": "Wieża",
+			"descriptionshort": "szef gangu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Grull":{
+			"descriptionshort": "zbir średniego szczebla",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Mordis":{
+			"descriptionshort": "kupiec z Nocnego Targu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Taffer":{
+			"descriptionshort": "kupiec z Nocnego Targu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Jira":{
+			"descriptionshort": "kupczyni z Nocnego Targu",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Elstera Avrathi":{
+			"descriptionshort": "dyplomatka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Brynna Skyrkallan":{
+			"descriptionshort": "dyplomatka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Tyrsin Nol":{
+			"descriptionshort": "dyplomata",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Andris":{
+			"descriptionshort": "szpieg i informator",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Krop":{
+			"descriptionshort": "posterunkowy Płaszczy",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Lewit":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Jol":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Cinda":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Reyf":{
+			"descriptionshort": "Błękitny Płaszcz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Alon Helker":{
+			"descriptionshort": "sędzia",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Casslyn Mora":{
+			"descriptionshort": "sędzia",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Belindra":{
+			"descriptionshort": "strażniczka więzienna z Żelaznego Haka",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Ereth Skane":{
+			"descriptionshort": "adwokat",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Denkirk Sol":{
+			"descriptionshort": "adwokat",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Polix":{
+			"descriptionshort": "attaché Gubernatora Doskvol.",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Nyryx":{
+			"descriptionshort": "niespokojny duch",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Hoxan":{
+			"descriptionshort": "niespokojny duch",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Levyra":{
+			"descriptionshort": "medium",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Kember":{
+			"descriptionshort": "wytwórca esencji i mikstur, właściciel Czarciego Zęba.",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Raffello":{
+			"descriptionshort": "malarz",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		},
+		"Lannic":{
+			"descriptionshort": "fałszerz dzieł sztuki",
+			"description": " ",
+			"class": " ",
+			"notes": " ",
+			"faction": " ",
+			"crew_types": " "
+		}
+	}
+}
