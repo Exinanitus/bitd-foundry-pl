@@ -1,5 +1,5 @@
 # Blades in the Dark - Polish
-Tłmaczenie na język Polski sytemu [Blades in the Dark System](https://github.com/megastruktur/foundryvtt-blades-in-the-dark) dla Foundry VTT.
+Tłmaczenie na język Polski systemu oraz kompendiów [Blades in the Dark System](https://github.com/megastruktur/foundryvtt-blades-in-the-dark) dla Foundry VTT.
 
 ## Info
 - Do działania wymagany jest moduł [Babele](https://foundryvtt.com/packages/babele) 
