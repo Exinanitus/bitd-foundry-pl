@@ -5,7 +5,7 @@
   "version":"1.1",
   "authors": [
     {
-      "name": "Axotte",
+      "name": "Exinanitus",
       "email": "Null",
       "url": "https://github.com/Exinanitus"
     }
@@ -17,8 +17,8 @@
   },
   
   "esmodules": ["bitd-pl.js"],
-  "url":"https://github.com/Axotte/bitd-foundry-pl",
-  "manifest": "https://raw.githubusercontent.com/Axotte/bitd-foundry-pl/main/module.json",
+  "url":"https://github.com/Exinanitus/bitd-foundry-pl",
+  "manifest": "https://raw.githubusercontent.com/Exinanitus/bitd-foundry-pl/main/module.json",
   "download": "https://github.com/Axotte/bitd-foundry-pl/archive/refs/tags/1.1.zip",
   "languages" : [
        {
@@ -49,4 +49,3 @@
     ]
   }  
 }
-
