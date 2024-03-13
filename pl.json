@@ -26,11 +26,11 @@
     "BITD.Quirks": "Osobliwości",
     "BITD.Situation": "Sytuacja",
     "BITD.Update": "Aktualizacja",
-    "BITD.Warning": "Uwaga, to wyczyści wszystkie Poziomy Poszukiwania/Ścigania",
+    "BITD.Warning": "Uwaga, to wyczyści wszystkie poziomy Przypału",
     "BITD.Status": "Status",
     "BITD.Jobs": "Prace",
     "BITD.Allies": "Sojusznicy",
-    "BITD.Friends": "Friends",
+    "BITD.Friends": "Przyjaciele",
     "BITD.Associates": "Współpracownicy",
     "BITD.Neutral": "Neutral",
     "BITD.Adversaries": "Przeciwnicy",
@@ -246,5 +246,5 @@
     "BITD.RollAcquireAssetCritical": "Krytyk!",
     "BITD.RollAcquireAssetSuccess": "Dobry rezultat.",
     "BITD.RollAcquireAssetPartialSuccess": "Mieszany rezultat.",
-    "BITD.RollAcquireAssetFailure": "...?",
+    "BITD.RollAcquireAssetFailure": "...?"
   }
