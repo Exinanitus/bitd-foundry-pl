@@ -2,12 +2,12 @@
   "id":"bitd-pl",
   "title":"Blades in the Dark - Polish",
   "description":"Testowe tłumaczenie na jezyk polski",  
-  "version":"1.0",
+  "version":"1.1",
   "authors": [
     {
       "name": "Axotte",
       "email": "Null",
-      "url": "Null"
+      "url": "https://github.com/Exinanitus"
     }
   ],
   
