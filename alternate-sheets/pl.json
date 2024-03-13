@@ -10,7 +10,7 @@
     "bitd-alt.Acquaintances": "Znajomości",
     "bitd-alt.SwitchPlaybook": "Zmień księgę łotra",
     "bitd-alt.Ok": "Ok",
-    "bitd-alt.Cancel": "Abbrechen",
+    "bitd-alt.Cancel": "Anuluj",
     "bitd-alt.SelectToAddAbility": "Wybierz zdolności do dodania",
     "bitd-alt.SelectToAddItem": "Wybierz przedmioty do dodania",
     "bitd-alt.MinusOneDie": "-1K",
@@ -20,7 +20,8 @@
     "bitd-alt.PlaybookDisclaimer": "System upiera się aby nazywać to klasami.",
     "bitd-alt.PlaybookInstructions":"Przeciągnij wybraną księgę łotra aby zmienić.",
     "bitd-alt.NotesInstructions":"Dodaj notatki tutaj. Przeciągnij zegary, aktorów lub przedmioty, aby je połączyć. Klikaj na zegary, aby je przesuwać, kliknij prawym przyciskiem myszy, aby je cofać.",
-    "bitd-alt.Attributes": {
+    "bitd-alt.Attributes": 
+    {
         "attune": "Kiedy <strong>Dostrajasz</strong> się, otwierasz umysł na pole duchowe lub poprzez swoje ciało skupiasz pobliską energię elektroplazmową. Możesz komunikować się z duchem lub zrozumieć jakiś aspekt spektrologii.<i> Możesz spróbować postrzegać pozazmysłowo, aby lepiej zrozumieć sytuację (choć Obserwowanie może być do tego lepsze).</i>",
         "command": "Kiedy <strong>Przewodzisz</strong>, narzucasz natychmiastowe posłuszeństwo. <i>Możesz zastraszać lub grozić, aby osiągnąć to, co chcesz. Możesz dowodzić gangiem podczas akcji grupowej. Możesz spróbować rozkazywać ludziom, aby ich przekonać (choć Bratanie może być do tego lepsze).</i>",
         "consort": "Kiedy <strong>Bratasz się</strong>, spotykasz się z przyjaciółmi i kontaktami. <i>Możesz uzyskać dostęp do zasobów, informacji, ludzi i miejsc. Możesz zrobić dobre wrażenie lub przekonać kogoś do siebie dzięki urokowi osobistemu i właściwemu zachowaniu. Możesz zawierać nowe przyjaźnie bądź spotykać się z osobami ze swojego dziedzictwa lub przeszłości. Możesz spróbować manipulować swoimi przyjaciółmi, wywierając na nich presję społeczną (choć Przekonywanie może być do tego lepsze).</i>",
