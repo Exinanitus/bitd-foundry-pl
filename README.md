@@ -1,9 +1,9 @@
 # Blades in the Dark - Polish
-Tłmaczenie na język Polski systemu oraz kompendiów [Blades in the Dark System](https://github.com/megastruktur/foundryvtt-blades-in-the-dark) dla Foundry VTT.
+Tłumaczenie na język Polski systemu oraz kompendiów [Blades in the Dark System](https://github.com/megastruktur/foundryvtt-blades-in-the-dark) dla Foundry VTT.
 
 ## Info
 - Do działania wymagany jest moduł [Babele](https://foundryvtt.com/packages/babele) 
-- Tłuamczenie zawiera również plik do alternatywnej karty postaci autorstwa [Justinross](https://github.com/justinross/), który należy ręcznie przekopiować do `bitd-alternate-sheets\languages` oraz dodać do pliku `module.json` poniższe linijki:
+- Tłumaczenie zawiera również plik do alternatywnej karty postaci autorstwa [Justinross](https://github.com/justinross/), który należy ręcznie przekopiować do `bitd-alternate-sheets\languages` oraz dodać do pliku `module.json` poniższe linijki:
 ```
     {
       "lang": "pl",
