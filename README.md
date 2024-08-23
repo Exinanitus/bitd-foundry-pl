@@ -5,12 +5,12 @@ Tłumaczenie na język Polski systemu oraz kompendiów [Blades in the Dark Syste
 - Do działania wymagany jest moduł [Babele](https://foundryvtt.com/packages/babele) 
 - Tłumaczenie zawiera również plik do alternatywnej karty postaci autorstwa [Justinross](https://github.com/justinross/), który należy ręcznie przekopiować do `bitd-alternate-sheets\languages` oraz dodać do pliku `module.json` poniższe linijki:
 ```
-    {
-      "lang": "pl",
-      "name": "Polski",
-      "path": "languages/pl.json",
-	  "flags": {}
-    }
+	{
+	"lang": "pl",
+	"name": "Polski",
+	"path": "languages/pl.json",
+	"flags": {}
+	}
 ```
 ## Credits/License
 - This translation is based on the portuguese one done by [brunocalado](https://github.com/brunocalado/bid-pt-br)
