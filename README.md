@@ -8,7 +8,8 @@ Tłumaczenie na język Polski systemu oraz kompendiów [Blades in the Dark Syste
     {
       "lang": "pl",
       "name": "Polski",
-      "path": "languages/pl.json"
+      "path": "languages/pl.json",
+	  "flags": {}
     }
 ```
 ## Credits/License
